@@ -3,19 +3,26 @@ import json
 from datetime import datetime
 
 FILEPATH = 'register_dates.json'
+from time_format import date_to_timestamp, hours_to_timestamp
 
 
 def read_register():
-    return json.loads(open(FILEPATH).read())
+    if os.path.isfile(FILEPATH):
+        return json.loads(open(FILEPATH).read())
+    else:
+        return dict()
 
 
 def get_registered_time(uf):
-    r = read_register()[uf]
-    return datetime.strptime(r, '%Y-%m-%d %H:%M:%S')
+    register = read_register()
+    if uf in register:
+        r = register[uf]
+    else:
+        r = date_to_timestamp('2021-01-15')
+    return r
 
 
 def register_time(uf, time):
-    time = str(time)
     if os.path.isfile(FILEPATH):
         register = read_register()
     else:

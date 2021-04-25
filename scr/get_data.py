@@ -3,6 +3,12 @@ import json
 import pandas as pd
 from base64 import b64encode
 from pprint import pprint
+from SETUP import QUICK_TEST
+
+if QUICK_TEST:
+    MAX_SIZE = 3
+else:
+    MAX_SIZE = 10000
 
 url = 'https://imunizacao-es.saude.gov.br/_search'
 username = 'imunizacao_public'
@@ -14,7 +20,7 @@ headers = { 'Authorization' : 'Basic %s' %  userAndPass }
 aggregators = ['vacina_dataAplicacao', 'paciente_idade']
 
 
-def get_data(uf, dose, timestamp):
+def get_data(uf, dose, date_A, date_B):
 
 
     def make_aggdic(aggtors):
@@ -23,7 +29,7 @@ def get_data(uf, dose, timestamp):
             aggtors[0]: {
                 "terms": {
                     "field": aggtors[0],
-                    "size": 3
+                    "size": MAX_SIZE
                 }
             }
         }
@@ -31,7 +37,7 @@ def get_data(uf, dose, timestamp):
             aggtors[0]: {
                 "terms": {
                     "field": aggtors[0],
-                    "size": 3
+                    "size": MAX_SIZE
                 },
                 "aggs": make_aggdic(aggtors[1:])
             }
@@ -44,7 +50,7 @@ def get_data(uf, dose, timestamp):
             "bool": {
               "must": [{ "term": {"paciente_endereco_uf": uf } },
                        {"regexp": {"vacina_descricao_dose": f'.*{dose}.*' }},
-                       {"range": {"@timestamp": {"gte": timestamp}    }}]
+                       {"range": {"vacina_dataAplicacao": {"gte": date_A, "lt": date_B}}}]
             },
           },
           "aggs": make_aggdic(aggregators)
@@ -63,7 +69,7 @@ def get_data(uf, dose, timestamp):
             age = c['key']
             count = c['doc_count']
             aggregated.append({'uf': uf, 'date_vaccinated': date, 'age': age, 'count': count})
-    df = pd.DataFrame(aggregated)
+    df = pd.DataFrame(aggregated, columns=['date_vaccinated', 'age', 'count'])
     df['date_vaccinated'] = pd.to_datetime(df['date_vaccinated'], unit='ms')
     df['date_vaccinated'] = df['date_vaccinated'].astype(str).str[:10]
     df = df[['date_vaccinated', 'age', 'count']]
