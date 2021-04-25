@@ -11,7 +11,7 @@ def read_register():
 
 def get_registered_time(uf):
     r = read_register()[uf]
-    return datetime.strptime(r, '%Y-%M-%d %h:%m:%s')
+    return datetime.strptime(r, '%Y-%m-%d %H:%M:%S')
 
 
 def register_time(uf, time):
