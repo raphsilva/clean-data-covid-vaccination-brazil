@@ -8,19 +8,21 @@ from time_format import date_to_timestamp, hours_to_timestamp, timestamp_to_date
 
 uf_list = ['SP']
 
+date_now = datetime.utcnow().timestamp()*1000
+
 for uf in uf_list:
     date_A = get_registered_time(uf)
     print('DATE: ', date_A, timestamp_to_date(date_A))
-    while date_A < date_to_timestamp('2021-05-01'):
-        date_A = get_registered_time(uf)
+    while date_A < date_now - hours_to_timestamp(6):
         date_B = date_A + hours_to_timestamp(7*24)
-        date_B = min(date_B, datetime.utcnow().timestamp()*1000 - hours_to_timestamp(6)) # don't get after 6 hours
+        date_B = min(date_B, date_now - hours_to_timestamp(2)) # don't get after 6 hours
         print('DATE: ', date_A, timestamp_to_date(date_A), '-', timestamp_to_date(date_B))
 
         d1 = get_data(uf, '1', date_A, date_B)
         d1['dose'] = '1'
         d2 = get_data(uf, '2', date_A, date_B)
         d2['dose'] = '2'
+        date_A = date_B
 
         data = d1.append(d2)
 

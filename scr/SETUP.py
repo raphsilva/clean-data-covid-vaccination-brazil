@@ -1,1 +1,2 @@
 QUICK_TEST = True
+MIN_DATE = '2021-04-01'

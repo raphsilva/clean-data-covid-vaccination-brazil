@@ -1,6 +1,7 @@
 import os
 import json
 from datetime import datetime
+from SETUP import MIN_DATE
 
 FILEPATH = 'register_dates.json'
 from time_format import date_to_timestamp, hours_to_timestamp
@@ -18,7 +19,7 @@ def get_registered_time(uf):
     if uf in register:
         r = register[uf]
     else:
-        r = date_to_timestamp('2021-01-15')
+        r = date_to_timestamp(MIN_DATE)
     return r
 
 

@@ -63,12 +63,15 @@ def get_data(uf, dose, date_A, date_B):
 
     data = r.json()
     aggregated = list()
-    for b in data['aggregations']['filtered']['vacina_dataAplicacao']['buckets']:
-        date = b['key']
-        for c in b['paciente_idade']['buckets']:
-            age = c['key']
-            count = c['doc_count']
-            aggregated.append({'uf': uf, 'date_vaccinated': date, 'age': age, 'count': count})
+    if 'aggregations' in data:
+        for b in data['aggregations']['filtered']['vacina_dataAplicacao']['buckets']:
+            date = b['key']
+            for c in b['paciente_idade']['buckets']:
+                age = c['key']
+                count = c['doc_count']
+                aggregated.append({'uf': uf, 'date_vaccinated': date, 'age': age, 'count': count})
+    else:
+        print('No data found.')
     df = pd.DataFrame(aggregated, columns=['date_vaccinated', 'age', 'count'])
     df['date_vaccinated'] = pd.to_datetime(df['date_vaccinated'], unit='ms')
     df['date_vaccinated'] = df['date_vaccinated'].astype(str).str[:10]

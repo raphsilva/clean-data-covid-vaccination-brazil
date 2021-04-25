@@ -21,7 +21,7 @@ def _read_file(uf, date):
 
 def _merge_data(data_old, data_new):
     for df in [data_old, data_new]:
-        df.set_index(['date_vaccine', 'dose', 'age'], inplace=True)
+        df.set_index(['dose', 'age'], inplace=True)
     return data_old.sum(data_new, fill_value=0).reindex(data_old.index)
 
 
@@ -31,6 +31,6 @@ def update_file(uf, date: str, data: pd.DataFrame):
     if not os.path.isfile(filepath):
         data.to_csv(filepath, compression=COMPRESSION, index=False)
     else:
-        data_old = pd.read_csv(filepath, compression='zip')
+        data_old = pd.read_csv(filepath, compression=COMPRESSION)
         data_updated = _merge_data(data_old, data)
         data_updated.to_csv(filepath, compression=COMPRESSION, index=False)
