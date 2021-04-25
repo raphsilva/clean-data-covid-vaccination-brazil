@@ -8,8 +8,8 @@ COMPRESSION = None
 def _get_path(uf, date):
     if COMPRESSION is None:
         return f'data/{uf}/{date}.csv'
-    if COMPRESSION == 'zip':
-        return f'data/{uf}/{date}.csv.zip'
+    else:
+        return f'data/{uf}/{date}.csv.{COMPRESSION}'
 
 
 def _read_file(uf, date):

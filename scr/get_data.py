@@ -59,6 +59,10 @@ def get_data(uf, dose, date_A, date_B):
 
     r = requests.post(url, json=body, auth=(username, password))
 
+    # from pprint import pprint
+    # pprint(r.json())
+    # exit()
+
     data = r.json()
     aggregated = list()
     if 'aggregations' in data:
@@ -67,7 +71,7 @@ def get_data(uf, dose, date_A, date_B):
             for c in b['paciente_idade']['buckets']:
                 age = c['key']
                 count = c['doc_count']
-                aggregated.append({'uf': uf, 'date_vaccinated': date, 'age': age, 'count': count})
+                aggregated.append({'date_vaccinated': date, 'age': age, 'count': count})
     else:
         print('No data found.')
     df = pd.DataFrame(aggregated, columns=['date_vaccinated', 'age', 'count'])
