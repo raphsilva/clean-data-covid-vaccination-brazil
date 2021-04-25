@@ -62,13 +62,13 @@ def get_data(uf, dose, timestamp):
         for c in b['paciente_idade']['buckets']:
             age = c['key']
             count = c['doc_count']
-            aggregated.append({'uf': uf, 'date_vaccination': date, 'age': age, 'count': count})
+            aggregated.append({'uf': uf, 'date_vaccinated': date, 'age': age, 'count': count})
     df = pd.DataFrame(aggregated)
-    df['date_vaccination'] = pd.to_datetime(df['date_vaccination'], unit='ms')
-    df['date_vaccination'] = df['date_vaccination'].astype(str).str[:10]
-    df = df[['date_vaccination', 'age', 'count']]
+    df['date_vaccinated'] = pd.to_datetime(df['date_vaccinated'], unit='ms')
+    df['date_vaccinated'] = df['date_vaccinated'].astype(str).str[:10]
+    df = df[['date_vaccinated', 'age', 'count']]
 
     # combinar datas repetidas
-    g = df.groupby(['date_vaccination', 'age']).sum()
+    g = df.groupby(['date_vaccinated', 'age']).sum()
 
     return g

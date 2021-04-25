@@ -1,5 +1,6 @@
 from get_data import get_data
 from datetime import datetime, timedelta, date
+from manage_files import update_file
 
 from control_dates import get_registered_time, register_time
 
@@ -19,7 +20,16 @@ d2['dose'] = '2'
 
 data = d1.append(d2)
 data = data[['dose', 'count']]
+data = data.reset_index()
+
+g = data.groupby('date_vaccinated')
+
+for d in g:
+    dt = d[0]
+    info = d[1]
+    info = info[['age', 'dose', 'count']]
+    info = info.sort_values(by=['dose', 'age'])
+    update_file(uf, dt, info)
+    print('Saved', dt)
 
 register_time(uf, date_B)
-
-print(data)
