@@ -1,6 +1,6 @@
 from datetime import datetime
 
-from control_dates import get_registered_time, register_time
+from control_dates import get_last_time
 from get_data import get_data
 from manage_files import update_file
 from time_format import hours_to_timestamp, timestamp_to_date
@@ -9,13 +9,14 @@ from interfaces.repository import clone, commit_and_push
 uf_list = ['SP']
 
 # update local repository
+print('Cloning repository.')
 clone()
-exit()
+print('Done: cloned repository.')
 
 date_now = datetime.utcnow().timestamp() * 1000
 
 for uf in uf_list:
-    date_A = get_registered_time(uf)
+    date_A = get_last_time(uf) - hours_to_timestamp(7*24)
     print('DATE: ', date_A, timestamp_to_date(date_A))
     while date_A < date_now - hours_to_timestamp(6):
         date_B = date_A + hours_to_timestamp(7 * 24)
@@ -29,8 +30,6 @@ for uf in uf_list:
         date_A = date_B
 
         data = d1.append(d2)
-
-        register_time(uf, date_B)
 
         print('LENGTH', len(data))
 
@@ -49,3 +48,5 @@ for uf in uf_list:
             info = info.sort_values(by=['dose', 'age'])
             update_file(uf, dt, info)
             print('Saved', dt, uf)
+
+commit_and_push()

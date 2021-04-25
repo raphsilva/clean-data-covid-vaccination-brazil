@@ -2,14 +2,20 @@ import os
 
 import pandas as pd
 
+from SETUP import PATH_REPO, PATH_DATA
+
 COMPRESSION = None
+
+
+def get_directory_path(uf):
+    return f'{PATH_REPO}/{PATH_DATA}/{uf}'
 
 
 def _get_path(uf, date):
     if COMPRESSION is None:
-        return f'data/{uf}/{date}.csv'
+        return f'{get_directory_path(uf)}/{date}.csv'
     else:
-        return f'data/{uf}/{date}.csv.{COMPRESSION}'
+        return f'{get_directory_path(uf)}/{date}.csv.{COMPRESSION}'
 
 
 def _read_file(uf, date):
@@ -21,9 +27,11 @@ def _read_file(uf, date):
 
 
 def _merge_data(data_old, data_new):
-    for df in [data_old, data_new]:
-        df.set_index(['dose', 'age'], inplace=True)
-    return data_old.sum(data_new, fill_value=0).reindex(data_old.index)
+    return data_new
+    # This would only be needed if the data was get indexed by timestamp (which didn't work)
+    # for df in [data_old, data_new]:
+    #     df.set_index(['dose', 'age'], inplace=True)
+    # return data_old.sum(data_new, fill_value=0).reindex(data_old.index)
 
 
 def update_file(uf, date: str, data: pd.DataFrame):
