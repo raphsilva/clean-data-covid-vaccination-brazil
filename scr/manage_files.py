@@ -1,14 +1,15 @@
 import os
+
 import pandas as pd
 
 COMPRESSION = None
+
 
 def _get_path(uf, date):
     if COMPRESSION is None:
         return f'data/{uf}/{date}.csv'
     if COMPRESSION == 'zip':
         return f'data/{uf}/{date}.csv.zip'
-
 
 
 def _read_file(uf, date):

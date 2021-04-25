@@ -1,21 +1,20 @@
-from get_data import get_data
-from datetime import datetime, timedelta, date
-from manage_files import update_file
+from datetime import datetime
 
 from control_dates import get_registered_time, register_time
-
-from time_format import date_to_timestamp, hours_to_timestamp, timestamp_to_date
+from get_data import get_data
+from manage_files import update_file
+from time_format import hours_to_timestamp, timestamp_to_date
 
 uf_list = ['SP']
 
-date_now = datetime.utcnow().timestamp()*1000
+date_now = datetime.utcnow().timestamp() * 1000
 
 for uf in uf_list:
     date_A = get_registered_time(uf)
     print('DATE: ', date_A, timestamp_to_date(date_A))
     while date_A < date_now - hours_to_timestamp(6):
-        date_B = date_A + hours_to_timestamp(7*24)
-        date_B = min(date_B, date_now - hours_to_timestamp(2)) # don't get after 6 hours
+        date_B = date_A + hours_to_timestamp(7 * 24)
+        date_B = min(date_B, date_now - hours_to_timestamp(2))  # don't get after 6 hours
         print('DATE: ', date_A, timestamp_to_date(date_A), '-', timestamp_to_date(date_B))
 
         d1 = get_data(uf, '1', date_A, date_B)
@@ -45,4 +44,3 @@ for uf in uf_list:
             info = info.sort_values(by=['dose', 'age'])
             update_file(uf, dt, info)
             print('Saved', dt, uf)
-

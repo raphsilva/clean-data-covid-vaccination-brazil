@@ -1,10 +1,10 @@
-import os
 import json
-from datetime import datetime
+import os
+
 from SETUP import MIN_DATE
 
 FILEPATH = 'register_dates.json'
-from time_format import date_to_timestamp, hours_to_timestamp
+from time_format import date_to_timestamp
 
 
 def read_register():
