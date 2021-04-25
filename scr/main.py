@@ -4,8 +4,13 @@ from control_dates import get_registered_time, register_time
 from get_data import get_data
 from manage_files import update_file
 from time_format import hours_to_timestamp, timestamp_to_date
+from interfaces.repository import clone, commit_and_push
 
 uf_list = ['SP']
+
+# update local repository
+clone()
+exit()
 
 date_now = datetime.utcnow().timestamp() * 1000
 

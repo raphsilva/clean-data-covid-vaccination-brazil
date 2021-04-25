@@ -1,2 +1,3 @@
 QUICK_TEST = False
 MIN_DATE = '2021-04-01'
+PATH_REPO = 'temp'
