@@ -1,0 +1,36 @@
+index,paciente_idade,paciente_enumSexoBiologico,vacina_nome,data,dose,contagem
+12,67,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-13,2,1
+13,67,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-13,2,1
+14,67,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-13,2,1
+15,67,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-13,2,1
+16,67,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-13,2,1
+17,67,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-13,2,1
+18,67,F,Vacina Covid-19 - Covishield,2021-05-13,2,1
+19,66,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-13,2,1
+20,66,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-13,2,1
+21,58,M,Vacina Covid-19 - Covishield,2021-05-13,1,1
+21,66,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-13,2,1
+22,58,M,Vacina Covid-19 - Covishield,2021-05-13,1,1
+22,66,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-13,2,1
+23,58,M,Vacina Covid-19 - Covishield,2021-05-13,1,1
+23,66,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-13,2,1
+24,58,M,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,2021-05-13,1,1
+24,66,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-13,2,1
+25,58,M,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,2021-05-13,1,1
+26,58,M,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,2021-05-13,1,1
+27,58,F,Vacina Covid-19 - Covishield,2021-05-13,1,1
+28,58,F,Vacina Covid-19 - Covishield,2021-05-13,1,1
+29,58,F,Vacina Covid-19 - Covishield,2021-05-13,1,1
+30,58,F,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,2021-05-13,1,1
+31,58,F,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,2021-05-13,1,1
+32,58,F,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,2021-05-13,1,1
+33,56,F,Vacina Covid-19 - Covishield,2021-05-13,1,1
+34,56,F,Vacina Covid-19 - Covishield,2021-05-13,1,1
+35,56,F,Vacina Covid-19 - Covishield,2021-05-13,1,1
+36,56,F,Covid-19-AstraZeneca,2021-05-13,1,1
+37,56,F,Covid-19-AstraZeneca,2021-05-13,1,1
+38,56,F,Covid-19-AstraZeneca,2021-05-13,1,1
+39,56,M,Vacina Covid-19 - Covishield,2021-05-13,1,1
+40,56,M,Vacina Covid-19 - Covishield,2021-05-13,1,1
+41,56,M,Vacina Covid-19 - Covishield,2021-05-13,1,1
+42,56,M,Covid-19-AstraZeneca,2021-05-13,1,1
