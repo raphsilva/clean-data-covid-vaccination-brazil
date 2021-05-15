@@ -8,8 +8,6 @@ from interfaces.repository import clone_repository, commit_and_push
 from SETUP import MIN_DATE
 from treat_data import detect_missing, detect_wrong_date, separate_by_date
 
-uf_list = ['SP']
-
 # update local repository
 print('Cloning repository.')
 clone_repository()
@@ -45,9 +43,8 @@ def update_for_dates(date_A, date_B, uf):
                 update_file(uf, date, data, data_name)
             print('Saved', data_name, date, uf)
 
-UPDATE_ALL = False
-def select_dates(uf):
-    if UPDATE_ALL:
+def select_dates(uf, update_all=False):
+    if update_all:
         yield 0, date_to_timestamp('2019-12-01')
         yield date_to_timestamp('2019-12-01'), date_to_timestamp('2020-12-01')
         yield date_to_timestamp('2020-12-01'), date_to_timestamp('2021-01-17')
@@ -60,12 +57,24 @@ def select_dates(uf):
         a = b
 
 
+def update_data(request):
+    uf_list = request['uf_list']
+    update_all = request['update_all']
+    commit_msg = request['commit_msg']
+    for uf in uf_list:
+        for a, b in select_dates(uf, update_all):
+            print('\nDATE: ', a, b, timestamp_to_date(a), '-', timestamp_to_date(b))
+            update_for_dates(a, b, uf)
+        commit_and_push(commit_msg)
+    return 'done'
 
-for uf in uf_list:
-    for a, b in select_dates(uf):
-        print('\nDATE: ', a, b, timestamp_to_date(a), '-', timestamp_to_date(b))
-        update_for_dates(a, b, uf)
+
+if __name__ == '__main__':
+    request = dict()
+    request['uf_list'] = ['SP']
+    request['update_all'] = True
+    request['commit_msg'] = 'Test update.'
+    update_data(request)
 
 
 
-commit_and_push("Updating data.")
