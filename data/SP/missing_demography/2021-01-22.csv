@@ -1,0 +1,18 @@
+paciente_idade,paciente_enumSexoBiologico,vacina_nome,paciente_id,contagem,data,dose
+38,M,Covid-19-Coronavac-Sinovac/Butantan,78a129b831459cf343057a40d136c9aac6c71a230827081bf967ca188325aa27,6,2021-01-22,1
+39,F,Covid-19-Coronavac-Sinovac/Butantan,17aec13b090990a2b0cc876f58cfab048f2416fa9cf0d0a994d96ef979474437,5,2021-01-22,1
+39,F,Covid-19-Coronavac-Sinovac/Butantan,2d8e0de8f4b4e016ae0dd7bb278ef0f528a0ee2bb21984e0ba2c8d4f4a676f13,4,2021-01-22,1
+38,M,Covid-19-Coronavac-Sinovac/Butantan,d60771ee5820ba6ae3aa3ea72e5c706ea5580ffa01a4f3c0c0d6ca67aaec54a3,4,2021-01-22,1
+38,M,Covid-19-Coronavac-Sinovac/Butantan,2e28c4a7c60b9e45d9967949f88b23bff38839277da5d1d66cec8965f3051a1c,4,2021-01-22,1
+38,F,Covid-19-Coronavac-Sinovac/Butantan,b71f9e888fc8de53a81b80e237d69aeb55b5b1cb9609f5052c1bc4c0df812e29,4,2021-01-22,1
+39,F,Covid-19-Coronavac-Sinovac/Butantan,25da99e88c8ecaaacc172ed1f37156ea2db397ac573af42f43818e8672628989,3,2021-01-22,1
+38,F,Covid-19-Coronavac-Sinovac/Butantan,345fb7cc422f18c81877fbf2c4ca8a48d8a2f1a87b05e51d3aa8fe49f2416642,3,2021-01-22,1
+39,M,Covid-19-Coronavac-Sinovac/Butantan,f492177e131d1ac65a09863f091b4888c7c33732a98a2227791d57c3b4139171,3,2021-01-22,1
+39,M,Covid-19-Coronavac-Sinovac/Butantan,b8d362144b61744955295026e9b05e4e295f7b7567f20d6efd720d6a7f2a2639,3,2021-01-22,1
+38,F,Covid-19-Coronavac-Sinovac/Butantan,241344cbc887cf411bef26001d1a3f6eac2e967b98369cd00a45c262ddf68f6d,3,2021-01-22,1
+38,F,Vacina Covid-19 - Covishield,fda1fb99a2d3be895b4e1b246387d17a777cec3b3f641948a0c521c20dbbea84,2,2021-01-22,1
+39,M,Covid-19-Coronavac-Sinovac/Butantan,0b7a5c8a7e8b1143f7792d2aaae8889c958db0dd3f202c4147a9765acc8d4fc8,2,2021-01-22,1
+32,M,Covid-19-Coronavac-Sinovac/Butantan,6b376138ddd5f9b18b49614931f7c4e6798c5e0d8b7f9374680517351ee62115,3,2021-01-22,2
+32,M,Covid-19-Coronavac-Sinovac/Butantan,be3e103d5147dd9f7f0976b47c61dc8c0a01eb9ccbc6eaf2e0fe85e98ae38759,2,2021-01-22,2
+46,F,Covid-19-Coronavac-Sinovac/Butantan,b0ef2ca3d4c80c26b4ecf834fe1c9544ec15132cccefb7f30fc9f2a5392357aa,2,2021-01-22,2
+46,F,Covid-19-Coronavac-Sinovac/Butantan,e64f8694d19338645e9d1694e4a0b2f325d7a4d92a163c814de6b1a21c0f2668,2,2021-01-22,2

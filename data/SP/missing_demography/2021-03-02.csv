@@ -1,0 +1,14 @@
+paciente_idade,paciente_enumSexoBiologico,vacina_nome,paciente_id,contagem,data,dose
+90,M,Covid-19-Coronavac-Sinovac/Butantan,7a126cccf366e5f40cafc3a1fe8af6cbab4cfed06934da02128c53e785d245f6,4,2021-03-02,2
+90,F,Covid-19-Coronavac-Sinovac/Butantan,193e0888605c26a4950afa192d944544354e41f1c1e605d433a7f629cc2f5bb8,3,2021-03-02,2
+91,F,Covid-19-Coronavac-Sinovac/Butantan,02f973646bf082eb506df2f87e1b432c97831fc32f8e502c7e3fb9f51e89c587,3,2021-03-02,2
+90,F,Covid-19-Coronavac-Sinovac/Butantan,ca45993534c38a649b502b1d3139c243d4bfdb69be559d67c407b7114ba6f606,3,2021-03-02,2
+91,M,Covid-19-Coronavac-Sinovac/Butantan,734849e71f04393f59fc568b8da8159add5cabf9b7798c26cdee3dd6d641fbb2,3,2021-03-02,2
+90,M,Covid-19-Coronavac-Sinovac/Butantan,b9fe9e765c9afccee65154243ee2575ce4efffa9c8a7e48843f084a0a79a4edf,3,2021-03-02,2
+90,M,Covid-19-Coronavac-Sinovac/Butantan,a779b133175bcf22c29e28f677557a5f8f15e8e376eae136485022de56c47894,3,2021-03-02,2
+91,F,Covid-19-Coronavac-Sinovac/Butantan,007558ae0b96a515460269637a16c684a5273b922a7624cfe3147b7b1edd28f8,2,2021-03-02,2
+91,F,Covid-19-Coronavac-Sinovac/Butantan,0649462c91af9b3def11e3878185c64f42fe0f6adb2f49e06e69bed2b64f5c98,2,2021-03-02,2
+90,F,Covid-19-Coronavac-Sinovac/Butantan,04a83f074774cd41d38e371e7fb3b1eb980020edabc32bd9150c6d12d356baf1,2,2021-03-02,2
+91,M,Vacina Covid-19 - Covishield,65f89a035eec57f01e75231bf45520291dcfc69b57d334fdd1ba3b0722617a57,2,2021-03-02,2
+91,M,Covid-19-Coronavac-Sinovac/Butantan,034b4cb8146c2a0dda4874ab5f0797955437f41764824a37757503f6bd1d42bd,2,2021-03-02,2
+91,M,Covid-19-Coronavac-Sinovac/Butantan,004e9147bc3aa196aa1b4aafdd88ab0ec826a072f2df04af967a3a92cde05017,2,2021-03-02,2
