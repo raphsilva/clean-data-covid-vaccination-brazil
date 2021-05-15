@@ -19,7 +19,6 @@ headers = {'Authorization': 'Basic %s' % userAndPass}
 
 aggregators = ['vacina_dataAplicacao', 'paciente_idade', 'paciente_enumSexoBiologico', 'vacina_nome', 'paciente_id']
 
-
 def get_data(uf, dose, date_A, date_B):
 
 
