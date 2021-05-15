@@ -13,14 +13,12 @@ def detect_missing(df: pd.DataFrame()):
     del ddp['paciente_id']
     gb = list(ddp.columns)
     gb.remove('contagem')
-    ddp = pd.DataFrame(ddp.groupby(gb).sum())
+    ddp = pd.DataFrame(ddp.groupby(gb).sum()).reset_index()
 
-    return mss.reset_index(), ddp.reset_index()
+    return mss, ddp
 
 
 def detect_wrong_date(df):
-    print(df)
-    print(df.columns)
     df['data_incorreta'] = False
     df[df['data'] < '2021-01-17'] = True
     df[df['data'] > datetime_to_str(datetime.now())] = True

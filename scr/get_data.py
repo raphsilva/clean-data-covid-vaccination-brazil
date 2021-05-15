@@ -90,4 +90,4 @@ def get_data(uf, dose, date_A, date_B):
     del df['vacina_dataAplicacao']
     df['dose'] = dose
 
-    return df.reset_index()
+    return df
