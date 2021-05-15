@@ -23,8 +23,22 @@ aggregators = ['vacina_dataAplicacao', 'paciente_idade', 'paciente_enumSexoBiolo
 
 
 def get_data(uf, dose, date_A, date_B):
+    pool = ThreadPool(processes=10)
+    ages = [0, 10, 20, 30, 40, 50, 60, 70, 90, 110, 1000]
+    futures = list()
+    for i in range(len(ages) - 1):
+        a = ages[i]
+        b = ages[i + 1]
+        future = pool.apply_async(get_data_age, (uf, dose, date_A, date_B, a, b))  # tuple of args for foo
+        futures.append(future)
+
+    data_parts = [v.get() for v in futures]
+    return pd.concat(data_parts)
+
+    return r
 
 
+def get_data_age(uf, dose, date_A, date_B, age_A, age_B):
     def unroll(aggregators, data, partial={}, unrolled=[]):
         agg = aggregators[0]
         aggregators = aggregators[1:]
@@ -43,7 +57,7 @@ def get_data(uf, dose, date_A, date_B):
                 aggtors[0]: {
                     "terms": {
                         "field": aggtors[0],
-                        "size": 3
+                        "size": MAX_SIZE
                     }
                 }
             }
@@ -51,7 +65,7 @@ def get_data(uf, dose, date_A, date_B):
             aggtors[0]: {
                 "terms": {
                     "field": aggtors[0],
-                    "size": 2
+                    "size": MAX_SIZE
                 },
                 "aggs": make_aggdic(aggtors[1:])
             }
@@ -64,7 +78,9 @@ def get_data(uf, dose, date_A, date_B):
                     "bool": {
                         "must": [{"term": {"paciente_endereco_uf": uf}},
                                  {"regexp": {"vacina_descricao_dose": f'.*{dose}.*'}},
-                                 {"range": {"vacina_dataAplicacao": {"gte": date_A, "lt": date_B}}}]
+                                 {"range": {"paciente_idade": {"gte": age_A, "lt": age_B}}},
+                                 {"range": {"vacina_dataAplicacao": {"gte": date_A, "lt": date_B}}},
+                                 ]
                     },
                 },
                 "aggs": make_aggdic(aggregators)
