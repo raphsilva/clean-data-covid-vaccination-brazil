@@ -91,3 +91,11 @@ def get_data(uf, dose, date_A, date_B):
     df['dose'] = dose
 
     return df
+
+
+def get_data_uf(uf, date_A, date_B):
+    d1 = get_data(uf, '1', date_A, date_B)
+    d1['dose'] = '1'
+    d2 = get_data(uf, '2', date_A, date_B)
+    d2['dose'] = '2'
+    return d1.append(d2)

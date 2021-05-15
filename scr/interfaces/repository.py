@@ -5,7 +5,7 @@ from integrations.git.git_x import REMOTE
 from SETUP import PATH_REPO
 
 
-def clone():
+def clone_repository():
     if os.path.isdir(PATH_REPO):
         shutil.rmtree(PATH_REPO)
     git.Repo.clone_from(REMOTE, PATH_REPO)

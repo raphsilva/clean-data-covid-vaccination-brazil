@@ -21,7 +21,6 @@ def detect_missing(df: pd.DataFrame()):
 def detect_wrong_date(df):
     df['data_incorreta'] = False
     df[df['data'] < '2021-01-17'] = True
-    df[df['data'] > datetime_to_str(datetime.now())] = True
     wr = df[df['data_incorreta']].copy()
     df = df[~df['data_incorreta']].copy()
     del df['data_incorreta']
