@@ -198,7 +198,7 @@ paciente_idade,paciente_enumSexoBiologico,vacina_nome,data,dose,contagem
 37,M,Vacina Covid-19 - Covishield,2021-05-10,1,185
 37,M,Vacina Covid-19 - Covishield,2021-05-10,2,44
 38,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,17
-38,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,41
+38,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,42
 38,F,Vacina Covid-19 - Covishield,2021-05-10,1,364
 38,F,Vacina Covid-19 - Covishield,2021-05-10,2,129
 38,M,Covid-19-AstraZeneca,2021-05-10,2,1
@@ -228,7 +228,7 @@ paciente_idade,paciente_enumSexoBiologico,vacina_nome,data,dose,contagem
 40,M,Vacina Covid-19 - Covishield,2021-05-10,2,50
 41,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,13
 41,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,42
-41,F,Vacina Covid-19 - Covishield,2021-05-10,1,288
+41,F,Vacina Covid-19 - Covishield,2021-05-10,1,289
 41,F,Vacina Covid-19 - Covishield,2021-05-10,2,132
 41,F,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,2021-05-10,1,2
 41,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,5
@@ -340,7 +340,7 @@ paciente_idade,paciente_enumSexoBiologico,vacina_nome,data,dose,contagem
 52,M,Vacina Covid-19 - Covishield,2021-05-10,2,24
 53,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,34
 53,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,1605
-53,F,Vacina Covid-19 - Covishield,2021-05-10,1,228
+53,F,Vacina Covid-19 - Covishield,2021-05-10,1,229
 53,F,Vacina Covid-19 - Covishield,2021-05-10,2,65
 53,F,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,2021-05-10,1,1
 53,M,Covid-19-AstraZeneca,2021-05-10,1,2
@@ -389,7 +389,7 @@ paciente_idade,paciente_enumSexoBiologico,vacina_nome,data,dose,contagem
 57,F,Vacina Covid-19 - Covishield,2021-05-10,2,71
 57,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,30
 57,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,251
-57,M,Vacina Covid-19 - Covishield,2021-05-10,1,412
+57,M,Vacina Covid-19 - Covishield,2021-05-10,1,413
 57,M,Vacina Covid-19 - Covishield,2021-05-10,2,26
 57,M,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,2021-05-10,1,4
 58,F,Covid-19-AstraZeneca,2021-05-10,1,1
@@ -401,7 +401,7 @@ paciente_idade,paciente_enumSexoBiologico,vacina_nome,data,dose,contagem
 58,M,Covid-19-AstraZeneca,2021-05-10,1,1
 58,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,18
 58,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,250
-58,M,Vacina Covid-19 - Covishield,2021-05-10,1,377
+58,M,Vacina Covid-19 - Covishield,2021-05-10,1,378
 58,M,Vacina Covid-19 - Covishield,2021-05-10,2,36
 58,M,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,2021-05-10,1,4
 59,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,50
@@ -597,7 +597,7 @@ paciente_idade,paciente_enumSexoBiologico,vacina_nome,data,dose,contagem
 80,F,Vacina Covid-19 - Covishield,2021-05-10,2,76
 80,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,13
 80,M,Vacina Covid-19 - Covishield,2021-05-10,1,12
-80,M,Vacina Covid-19 - Covishield,2021-05-10,2,39
+80,M,Vacina Covid-19 - Covishield,2021-05-10,2,40
 81,F,Covid-19-AstraZeneca,2021-05-10,1,1
 81,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,2
 81,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,23
