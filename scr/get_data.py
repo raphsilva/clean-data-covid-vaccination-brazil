@@ -17,17 +17,32 @@ password = 'qlto5t&7r_@+#Tlstigi'
 userAndPass = b64encode((b"f'{username}:{password}'")).decode("ascii")
 headers = {'Authorization': 'Basic %s' % userAndPass}
 
-aggregators = ['vacina_dataAplicacao', 'paciente_idade']
+aggregators = ['vacina_dataAplicacao', 'paciente_idade', 'paciente_enumSexoBiologico', 'vacina_nome', 'paciente_id']
 
 
 def get_data(uf, dose, date_A, date_B):
+
+
+    def unroll(aggregators, data, partial={}, unrolled=[]):
+        agg = aggregators[0]
+        aggregators = aggregators[1:]
+        for a in data[agg]['buckets']:
+            partial[agg] = a['key']
+            if len(aggregators) == 0:
+                partial['contagem'] = a['doc_count']
+                unrolled.append(dict(partial))
+            else:
+                unrolled = unroll(aggregators, a, partial, unrolled)
+        return unrolled
+
+
     def make_aggdic(aggtors):
         if len(aggtors) == 1:
             return {
                 aggtors[0]: {
                     "terms": {
                         "field": aggtors[0],
-                        "size": MAX_SIZE
+                        "size": 3
                     }
                 }
             }
@@ -35,7 +50,7 @@ def get_data(uf, dose, date_A, date_B):
             aggtors[0]: {
                 "terms": {
                     "field": aggtors[0],
-                    "size": MAX_SIZE
+                    "size": 2
                 },
                 "aggs": make_aggdic(aggtors[1:])
             }
@@ -53,33 +68,20 @@ def get_data(uf, dose, date_A, date_B):
                 },
                 "aggs": make_aggdic(aggregators)
             }
-        },
-        "size": 1
+        }
     }
 
     r = requests.post(url, json=body, auth=(username, password))
 
-    # from pprint import pprint
-    # pprint(r.json())
-    # exit()
-
     data = r.json()
-    aggregated = list()
-    if 'aggregations' in data:
-        for b in data['aggregations']['filtered']['vacina_dataAplicacao']['buckets']:
-            date = b['key']
-            for c in b['paciente_idade']['buckets']:
-                age = c['key']
-                count = c['doc_count']
-                aggregated.append({'date_vaccinated': date, 'age': age, 'count': count})
-    else:
-        print('No data found.')
-    df = pd.DataFrame(aggregated, columns=['date_vaccinated', 'age', 'count'])
-    df['date_vaccinated'] = pd.to_datetime(df['date_vaccinated'], unit='ms')
-    df['date_vaccinated'] = df['date_vaccinated'].astype(str).str[:10]
-    df = df[['date_vaccinated', 'age', 'count']]
+    if 'aggregations' not in data:
+        print('Could not get data', data)
+        return []
 
-    # combinar datas repetidas
-    g = df.groupby(['date_vaccinated', 'age']).sum()
+    u = unroll(aggregators, data['aggregations']['filtered'])
+    df = pd.DataFrame(u)
+    df = df.sort_values(by='contagem', ascending=False)
+    df['data'] = pd.to_datetime(df['vacina_dataAplicacao'], unit='ms').str()[:10]
+    df['dose'] = dose
 
-    return g
+    return df.reset_index()

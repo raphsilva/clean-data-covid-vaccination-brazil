@@ -1,6 +1,9 @@
 from datetime import datetime
 
 
+def date_to_datetime(datestr):
+    return datetime.strptime(datestr, '%Y-%m-%d')
+
 def date_to_timestamp(datestr):
     return int(datetime.strptime(datestr, '%Y-%m-%d').timestamp() * 1000)
 

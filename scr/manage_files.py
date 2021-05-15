@@ -11,11 +11,14 @@ def get_directory_path(uf):
     return f'{PATH_REPO}/{PATH_DATA}/{uf}'
 
 
-def _get_path(uf, date):
-    if COMPRESSION is None:
-        return f'{get_directory_path(uf)}/{date}.csv'
+def _get_path(uf, date, subfolder=None):
+    if subfolder is None:
+        path = f'{get_directory_path(uf)}/{date}.csv'
     else:
-        return f'{get_directory_path(uf)}/{date}.csv.{COMPRESSION}'
+        path = f'{get_directory_path(uf)}/{subfolder}/{date}.csv'
+    if COMPRESSION is not None:
+        path += f'.{COMPRESSION}'
+    return path
 
 
 def _read_file(uf, date):
@@ -34,8 +37,8 @@ def _merge_data(data_old, data_new):
     # return data_old.sum(data_new, fill_value=0).reindex(data_old.index)
 
 
-def update_file(uf, date: str, data: pd.DataFrame):
-    filepath = _get_path(uf, date)
+def update_file(uf, date: str, data: pd.DataFrame, data_name: str=None):
+    filepath = _get_path(uf, date, data_name)
     os.makedirs(os.path.dirname(filepath), exist_ok=True)
     if not os.path.isfile(filepath):
         data.to_csv(filepath, compression=COMPRESSION, index=False)
