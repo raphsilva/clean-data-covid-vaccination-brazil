@@ -3,7 +3,9 @@ from time_format import datetime_to_str
 import pandas as pd
 import requests
 from pprint import pprint
+import concurrent.futures
 from SETUP import QUICK_TEST
+from multiprocessing.pool import ThreadPool
 
 if QUICK_TEST:
     MAX_SIZE = 3
@@ -18,6 +20,7 @@ userAndPass = b64encode((b"f'{username}:{password}'")).decode("ascii")
 headers = {'Authorization': 'Basic %s' % userAndPass}
 
 aggregators = ['vacina_dataAplicacao', 'paciente_idade', 'paciente_enumSexoBiologico', 'vacina_nome', 'paciente_id']
+
 
 def get_data(uf, dose, date_A, date_B):
 
@@ -93,8 +96,11 @@ def get_data(uf, dose, date_A, date_B):
 
 
 def get_data_uf(uf, date_A, date_B):
-    d1 = get_data(uf, '1', date_A, date_B)
+    pool = ThreadPool(processes=2)
+    t1 = pool.apply_async(get_data, (uf, '1', date_A, date_B))  # tuple of args for foo
+    t2 = pool.apply_async(get_data, (uf, '2', date_A, date_B))  # tuple of args for foo
+    d1 = t1.get()
+    d2 = t2.get()
     d1['dose'] = '1'
-    d2 = get_data(uf, '2', date_A, date_B)
     d2['dose'] = '2'
-    return d1.append(d2)
+    return pd.concat([d1, d2])
