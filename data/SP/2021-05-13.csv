@@ -1,0 +1,14 @@
+paciente_idade,paciente_enumSexoBiologico,vacina_nome,data,dose,contagem
+56,F,Covid-19-AstraZeneca,2021-05-13,1,3
+56,F,Vacina Covid-19 - Covishield,2021-05-13,1,3
+56,M,Covid-19-AstraZeneca,2021-05-13,1,1
+56,M,Vacina Covid-19 - Covishield,2021-05-13,1,3
+58,F,Vacina Covid-19 - Covishield,2021-05-13,1,3
+58,F,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,2021-05-13,1,3
+58,M,Vacina Covid-19 - Covishield,2021-05-13,1,3
+58,M,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,2021-05-13,1,3
+66,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-13,2,3
+66,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-13,2,3
+67,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-13,2,3
+67,F,Vacina Covid-19 - Covishield,2021-05-13,2,1
+67,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-13,2,3
