@@ -34,6 +34,8 @@ def update_for_dates(date_A, date_B, uf):
                'data': correct}
 
     for data_name in to_save:
+        if len(to_save[data_name]) == 0:
+            continue
         r = separate_by_date(to_save[data_name])
         for date in r:
             data = r[date]

@@ -4,6 +4,8 @@ from datetime import datetime
 
 
 def detect_missing(df: pd.DataFrame()):
+    if len(df) == 0:
+        return pd.DataFrame(), pd.DataFrame()
     mss = df.copy()
     mss = mss[mss['contagem'] > 1]
 
@@ -19,6 +21,8 @@ def detect_missing(df: pd.DataFrame()):
 
 
 def detect_wrong_date(df):
+    if len(df) == 0:
+        return pd.DataFrame(), pd.DataFrame()
     df['data_incorreta'] = False
     df[df['data'] < '2021-01-17'] = True
     wr = df[df['data_incorreta']].copy()
@@ -29,7 +33,6 @@ def detect_wrong_date(df):
 
 def separate_by_date(df):
     r = dict()
-    df['data']
     gb = df.groupby('data')
     for g in gb:
         r[g[0]] = g[1]
