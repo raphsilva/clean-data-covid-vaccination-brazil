@@ -1,0 +1,18 @@
+paciente_idade,paciente_enumSexoBiologico,vacina_nome,paciente_id,contagem,data,dose
+69,F,Covid-19-Coronavac-Sinovac/Butantan,04362ea50703777e29aff8d2ea86f59da4072d755d5a3166ca201ac667bca701,2,2021-03-30,1
+69,F,Vacina Covid-19 - Covishield,0d7f0c44c004b2b14d358c356146e5258e618efb538abe73367a2ef870c7caef,2,2021-03-30,1
+69,F,Vacina Covid-19 - Covishield,32223645a5b03a17cc4c0baa749b8031c10ae792e03eaed1589b92ded4e13565,2,2021-03-30,1
+69,F,Vacina Covid-19 - Covishield,40ae6cd14a3e992180f4585593f21ee6b1fdc6bcdb7997dd85bcc5d55c1148b1,2,2021-03-30,1
+69,M,Covid-19-Coronavac-Sinovac/Butantan,0852c64f46a2a000626530e80f9fcb49451a7c00df37e59958413a7998e20c93,2,2021-03-30,1
+69,M,Covid-19-Coronavac-Sinovac/Butantan,0b0c1c63cf090be08fbdd4d6beb30273e1e9aa05d8b9fb6034234e0f5cb18a08,2,2021-03-30,1
+69,M,Covid-19-Coronavac-Sinovac/Butantan,1aa0b8f02f497c3b491c8ed547f0f1d743f05981959c101e89b00f6b18d78156,2,2021-03-30,1
+70,F,Covid-19-Coronavac-Sinovac/Butantan,1353d8c38211351f194cc0b19a81ee515e4aff03752999df5b634715726deafb,2,2021-03-30,1
+69,M,Vacina Covid-19 - Covishield,3da704b8f724318be6d40b9da0eca23c110bece5d03920a23bdfecf4ceb2ecb3,2,2021-03-30,1
+70,F,Covid-19-Coronavac-Sinovac/Butantan,162946deefc0f4588dde33178c43feaa3a779cc5fb4a10aa00f9af06e54ef8f9,2,2021-03-30,1
+70,F,Covid-19-Coronavac-Sinovac/Butantan,22ea96e68e054acf1c85e376866bfc807bab8d8ca36f41ba8f700753790a4a8e,2,2021-03-30,1
+70,F,Vacina Covid-19 - Covishield,2c9f38dad21a74d254732393e68dca9ae1fe6d371b78c927e453f5b6c2a4b472,2,2021-03-30,1
+70,M,Covid-19-Coronavac-Sinovac/Butantan,0146cb45e9d218bdfc68028714eb2af9c72c57050e9316a6765b48f0380132f8,2,2021-03-30,1
+70,M,Covid-19-Coronavac-Sinovac/Butantan,0b230d198c6f76207ba43a353eaab494bb02c9f81eb4e577110dcaf4a9ccfd79,2,2021-03-30,1
+70,M,Covid-19-Coronavac-Sinovac/Butantan,11bd6e90113f7787eb9857fcb0ac66871e9e088fc74d8826c557c5757c9182f1,2,2021-03-30,1
+69,F,Covid-19-Coronavac-Sinovac/Butantan,02366708799141d8e5ce70c13def889c247871492c4728dada9434a1b50b3021,2,2021-03-30,1
+69,F,Covid-19-Coronavac-Sinovac/Butantan,00dc4a034e64304b0e93c2c9983fe7230894e99b3580ac7327882a9a8ac93b3b,2,2021-03-30,1

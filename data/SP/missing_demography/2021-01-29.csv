@@ -1,0 +1,29 @@
+paciente_idade,paciente_enumSexoBiologico,vacina_nome,paciente_id,contagem,data,dose
+38,M,Covid-19-Coronavac-Sinovac/Butantan,10b12af15214619b1d45db01902e22899c5943afe513f7c1f3b25817a34e8b91,6,2021-01-29,1
+39,F,Vacina Covid-19 - Covishield,437140f287a0351b5701eb751d5d08c51dd758e519d7b5cf630661528e980272,4,2021-01-29,1
+38,F,Covid-19-Coronavac-Sinovac/Butantan,42223e01af824137d0dcec98d4a5ef6638032c137030f3bcbc8b6ebd7195ee4a,4,2021-01-29,1
+38,F,Covid-19-Coronavac-Sinovac/Butantan,2e090ca605f80800554db5f69095317438327e803a04c45413306f984c2e1c38,4,2021-01-29,1
+38,F,Covid-19-Coronavac-Sinovac/Butantan,1fcc40b8cfff0d1da1e84481e4f927e6f7f778674fa5b3345bfeda7121dcb1e8,4,2021-01-29,1
+38,F,Vacina Covid-19 - Covishield,05a1b59ba897086046828304e411f0081ea179a39b69b853e69b4c5e79e66c9f,4,2021-01-29,1
+39,F,Covid-19-Coronavac-Sinovac/Butantan,968c3f0dfd20895518e8d70a0a1697b9a3247b5c6c73daa7ca38bed882fbcccf,4,2021-01-29,1
+39,M,Vacina Covid-19 - Covishield,28e075428124903da141f544de089ef11bdfdd6c929dc277a155aeba181a26b2,3,2021-01-29,1
+39,F,Vacina Covid-19 - Covishield,6eca1ebf1e4b449cf8dd46f828cdaaf5bee9b10438f6dd6558c2587e54791961,3,2021-01-29,1
+39,F,Covid-19-Coronavac-Sinovac/Butantan,250574f96dacb71dbaa42b3edbe494b648aaa8e2bbdcae0fb7604862e9fe1378,3,2021-01-29,1
+39,F,Covid-19-Coronavac-Sinovac/Butantan,b341b4b08aa0da3f2cd25da4bc95a2522ae8b62926a77a1856061bfa42bcaf60,3,2021-01-29,1
+39,M,Covid-19-Coronavac-Sinovac/Butantan,acefd4c42469648c7b107d52bcbf3e5bb0ec1605636e3b9c1c34800fee7f2778,3,2021-01-29,1
+39,M,Covid-19-Coronavac-Sinovac/Butantan,03df5ad5002ca0bb17e3515abb594e0509ad93d7d49dd23f080115955a2785c8,3,2021-01-29,1
+39,M,Covid-19-Coronavac-Sinovac/Butantan,08b6017a487a04c8e637d1621f890de1097430b92dfbe19cf9dc2fdf704b793f,3,2021-01-29,1
+38,F,Vacina Covid-19 - Covishield,113732626bcc8b0ac90c9b1b5e57e4b64fa445c2e52263139db832a1b644ea13,3,2021-01-29,1
+38,F,Vacina Covid-19 - Covishield,5709ad865f58c330d09ac52244ea9767bbee46da225d85392e26f2113e53a4b6,3,2021-01-29,1
+39,F,Vacina Covid-19 - Covishield,6c5aae41d55275d07d700e7c42ad67bb5cc348a4f49a622a5a8109634aba4c52,3,2021-01-29,1
+38,M,Covid-19-Coronavac-Sinovac/Butantan,0bdccda5987ff6d9a80616a731cd60459a1b150cc9d4f3f250bcff74f7ceba17,2,2021-01-29,1
+38,M,Vacina Covid-19 - Covishield,091ba532eeeee40b38b11fc671ce85358ff29a1aa3261536bb210ce4a82982da,2,2021-01-29,1
+38,M,Vacina Covid-19 - Covishield,01a81a14109871f2579eac398a1daf8d239b328f3f07436e50bd3ad6e55b0f0c,2,2021-01-29,1
+38,M,Vacina Covid-19 - Covishield,0071a2399438010c7db010187c9f1a941aa6978c77c658fe5c17c9e69c3263ff,2,2021-01-29,1
+39,M,Vacina Covid-19 - Covishield,137b8d0042e1937aaf3f5dc164c793e36c2160f842db4af9cce004a26b994afd,2,2021-01-29,1
+39,M,Vacina Covid-19 - Covishield,06e28c7a0938b766120665473070bc2f4200086bf730f07f2ca129f01919f0bf,2,2021-01-29,1
+38,M,Covid-19-Coronavac-Sinovac/Butantan,1e5aa0e7299e9ecd506ab6c4edd6ce12a1ac48edcc552641152cd72edd2cdf72,2,2021-01-29,1
+52,M,Vacina Covid-19 - Covishield,6c62b4b30f72b5dea26d914c5ede09ec6d75e4bbe8f01bac4242a7cdc10f14c3,5,2021-01-29,2
+52,M,Covid-19-Coronavac-Sinovac/Butantan,6c62b4b30f72b5dea26d914c5ede09ec6d75e4bbe8f01bac4242a7cdc10f14c3,3,2021-01-29,2
+42,F,Vacina Covid-19 - Covishield,980cb76cf07be3b08d9d1156e49c266d56d6dd81ac43c3ccf7a27071b54d62bb,3,2021-01-29,2
+42,M,Covid-19-Coronavac-Sinovac/Butantan,9c996eb8a31b510e90fa90a6a2b297ac6b971061176aba77fd796bd61d18f2a5,2,2021-01-29,2

@@ -1,0 +1,727 @@
+paciente_idade,paciente_enumSexoBiologico,vacina_nome,data,dose,contagem
+4,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,1
+4,F,Vacina Covid-19 - Covishield,2021-05-10,1,1
+9,F,Vacina Covid-19 - Covishield,2021-05-10,2,1
+10,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,1
+12,F,Vacina Covid-19 - Covishield,2021-05-10,1,1
+14,M,Vacina Covid-19 - Covishield,2021-05-10,1,1
+15,F,Vacina Covid-19 - Covishield,2021-05-10,1,1
+16,M,Vacina Covid-19 - Covishield,2021-05-10,1,1
+17,F,Vacina Covid-19 - Covishield,2021-05-10,1,1
+17,M,Vacina Covid-19 - Covishield,2021-05-10,1,2
+18,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,1
+18,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,16
+18,F,Vacina Covid-19 - Covishield,2021-05-10,1,178
+18,F,Vacina Covid-19 - Covishield,2021-05-10,2,13
+18,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,1
+18,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,4
+18,M,Vacina Covid-19 - Covishield,2021-05-10,1,103
+18,M,Vacina Covid-19 - Covishield,2021-05-10,2,6
+19,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,9
+19,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,20
+19,F,Vacina Covid-19 - Covishield,2021-05-10,1,214
+19,F,Vacina Covid-19 - Covishield,2021-05-10,2,48
+19,F,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,2021-05-10,1,1
+19,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,9
+19,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,13
+19,M,Vacina Covid-19 - Covishield,2021-05-10,1,124
+19,M,Vacina Covid-19 - Covishield,2021-05-10,2,11
+20,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,12
+20,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,20
+20,F,Vacina Covid-19 - Covishield,2021-05-10,1,279
+20,F,Vacina Covid-19 - Covishield,2021-05-10,2,51
+20,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,5
+20,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,9
+20,M,Vacina Covid-19 - Covishield,2021-05-10,1,159
+20,M,Vacina Covid-19 - Covishield,2021-05-10,2,23
+20,M,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,2021-05-10,1,1
+21,F,Covid-19-AstraZeneca,2021-05-10,1,1
+21,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,6
+21,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,46
+21,F,Vacina Covid-19 - Covishield,2021-05-10,1,333
+21,F,Vacina Covid-19 - Covishield,2021-05-10,2,60
+21,F,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,2021-05-10,1,1
+21,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,6
+21,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,13
+21,M,Vacina Covid-19 - Covishield,2021-05-10,1,182
+21,M,Vacina Covid-19 - Covishield,2021-05-10,2,18
+22,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,14
+22,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,41
+22,F,Vacina Covid-19 - Covishield,2021-05-10,1,380
+22,F,Vacina Covid-19 - Covishield,2021-05-10,2,69
+22,F,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,2021-05-10,1,3
+22,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,3
+22,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,17
+22,M,Vacina Covid-19 - Covishield,2021-05-10,1,162
+22,M,Vacina Covid-19 - Covishield,2021-05-10,2,24
+22,M,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,2021-05-10,1,1
+23,F,Covid-19-AstraZeneca,2021-05-10,1,1
+23,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,11
+23,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,52
+23,F,Vacina Covid-19 - Covishield,2021-05-10,1,365
+23,F,Vacina Covid-19 - Covishield,2021-05-10,2,74
+23,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,4
+23,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,13
+23,M,Vacina Covid-19 - Covishield,2021-05-10,1,160
+23,M,Vacina Covid-19 - Covishield,2021-05-10,2,33
+23,M,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,2021-05-10,1,1
+24,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,7
+24,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,38
+24,F,Vacina Covid-19 - Covishield,2021-05-10,1,334
+24,F,Vacina Covid-19 - Covishield,2021-05-10,2,85
+24,F,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,2021-05-10,1,1
+24,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,4
+24,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,16
+24,M,Vacina Covid-19 - Covishield,2021-05-10,1,162
+24,M,Vacina Covid-19 - Covishield,2021-05-10,2,44
+25,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,6
+25,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,39
+25,F,Vacina Covid-19 - Covishield,2021-05-10,1,334
+25,F,Vacina Covid-19 - Covishield,2021-05-10,2,121
+25,F,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,2021-05-10,1,1
+25,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,2
+25,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,18
+25,M,Vacina Covid-19 - Covishield,2021-05-10,1,145
+25,M,Vacina Covid-19 - Covishield,2021-05-10,2,47
+26,F,Covid-19-AstraZeneca,2021-05-10,1,1
+26,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,11
+26,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,52
+26,F,Vacina Covid-19 - Covishield,2021-05-10,1,283
+26,F,Vacina Covid-19 - Covishield,2021-05-10,2,97
+26,F,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,2021-05-10,1,2
+26,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,7
+26,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,12
+26,M,Vacina Covid-19 - Covishield,2021-05-10,1,150
+26,M,Vacina Covid-19 - Covishield,2021-05-10,2,35
+26,M,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,2021-05-10,1,1
+27,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,15
+27,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,37
+27,F,Vacina Covid-19 - Covishield,2021-05-10,1,249
+27,F,Vacina Covid-19 - Covishield,2021-05-10,2,113
+27,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,6
+27,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,16
+27,M,Vacina Covid-19 - Covishield,2021-05-10,1,152
+27,M,Vacina Covid-19 - Covishield,2021-05-10,2,40
+28,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,9
+28,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,32
+28,F,Vacina Covid-19 - Covishield,2021-05-10,1,226
+28,F,Vacina Covid-19 - Covishield,2021-05-10,2,97
+28,F,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,2021-05-10,1,2
+28,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,6
+28,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,17
+28,M,Vacina Covid-19 - Covishield,2021-05-10,1,154
+28,M,Vacina Covid-19 - Covishield,2021-05-10,2,39
+29,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,17
+29,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,33
+29,F,Vacina Covid-19 - Covishield,2021-05-10,1,278
+29,F,Vacina Covid-19 - Covishield,2021-05-10,2,97
+29,F,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,2021-05-10,1,3
+29,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,3
+29,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,18
+29,M,Vacina Covid-19 - Covishield,2021-05-10,1,155
+29,M,Vacina Covid-19 - Covishield,2021-05-10,2,33
+30,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,12
+30,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,34
+30,F,Vacina Covid-19 - Covishield,2021-05-10,1,278
+30,F,Vacina Covid-19 - Covishield,2021-05-10,2,89
+30,F,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,2021-05-10,1,1
+30,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,3
+30,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,9
+30,M,Vacina Covid-19 - Covishield,2021-05-10,1,149
+30,M,Vacina Covid-19 - Covishield,2021-05-10,2,40
+30,M,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,2021-05-10,1,1
+31,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,12
+31,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,35
+31,F,Vacina Covid-19 - Covishield,2021-05-10,1,283
+31,F,Vacina Covid-19 - Covishield,2021-05-10,2,104
+31,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,7
+31,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,14
+31,M,Vacina Covid-19 - Covishield,2021-05-10,1,162
+31,M,Vacina Covid-19 - Covishield,2021-05-10,2,46
+32,F,Covid-19-AstraZeneca,2021-05-10,1,1
+32,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,11
+32,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,34
+32,F,Vacina Covid-19 - Covishield,2021-05-10,1,304
+32,F,Vacina Covid-19 - Covishield,2021-05-10,2,126
+32,F,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,2021-05-10,1,2
+32,M,Covid-19-AstraZeneca,2021-05-10,1,1
+32,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,7
+32,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,14
+32,M,Vacina Covid-19 - Covishield,2021-05-10,1,168
+32,M,Vacina Covid-19 - Covishield,2021-05-10,2,51
+32,M,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,2021-05-10,1,1
+33,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,13
+33,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,43
+33,F,Vacina Covid-19 - Covishield,2021-05-10,1,311
+33,F,Vacina Covid-19 - Covishield,2021-05-10,2,125
+33,F,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,2021-05-10,1,3
+33,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,7
+33,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,11
+33,M,Vacina Covid-19 - Covishield,2021-05-10,1,153
+33,M,Vacina Covid-19 - Covishield,2021-05-10,2,40
+34,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,15
+34,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,45
+34,F,Vacina Covid-19 - Covishield,2021-05-10,1,309
+34,F,Vacina Covid-19 - Covishield,2021-05-10,2,126
+34,F,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,2021-05-10,1,1
+34,M,Covid-19-AstraZeneca,2021-05-10,1,1
+34,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,8
+34,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,12
+34,M,Vacina Covid-19 - Covishield,2021-05-10,1,167
+34,M,Vacina Covid-19 - Covishield,2021-05-10,2,58
+35,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,12
+35,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,36
+35,F,Vacina Covid-19 - Covishield,2021-05-10,1,334
+35,F,Vacina Covid-19 - Covishield,2021-05-10,2,125
+35,F,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,2021-05-10,1,2
+35,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,4
+35,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,20
+35,M,Vacina Covid-19 - Covishield,2021-05-10,1,193
+35,M,Vacina Covid-19 - Covishield,2021-05-10,2,51
+36,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,14
+36,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,33
+36,F,Vacina Covid-19 - Covishield,2021-05-10,1,297
+36,F,Vacina Covid-19 - Covishield,2021-05-10,2,116
+36,F,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,2021-05-10,1,2
+36,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,8
+36,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,22
+36,M,Vacina Covid-19 - Covishield,2021-05-10,1,189
+36,M,Vacina Covid-19 - Covishield,2021-05-10,2,57
+36,M,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,2021-05-10,1,1
+37,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,24
+37,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,49
+37,F,Vacina Covid-19 - Covishield,2021-05-10,1,372
+37,F,Vacina Covid-19 - Covishield,2021-05-10,2,127
+37,M,Covid-19-AstraZeneca,2021-05-10,1,1
+37,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,11
+37,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,26
+37,M,Vacina Covid-19 - Covishield,2021-05-10,1,185
+37,M,Vacina Covid-19 - Covishield,2021-05-10,2,44
+38,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,17
+38,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,42
+38,F,Vacina Covid-19 - Covishield,2021-05-10,1,364
+38,F,Vacina Covid-19 - Covishield,2021-05-10,2,129
+38,M,Covid-19-AstraZeneca,2021-05-10,2,1
+38,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,10
+38,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,15
+38,M,Vacina Covid-19 - Covishield,2021-05-10,1,220
+38,M,Vacina Covid-19 - Covishield,2021-05-10,2,66
+39,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,12
+39,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,45
+39,F,Vacina Covid-19 - Covishield,2021-05-10,1,345
+39,F,Vacina Covid-19 - Covishield,2021-05-10,2,149
+39,F,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,2021-05-10,1,1
+39,M,Covid-19-AstraZeneca,2021-05-10,1,2
+39,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,11
+39,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,26
+39,M,Vacina Covid-19 - Covishield,2021-05-10,1,186
+39,M,Vacina Covid-19 - Covishield,2021-05-10,2,56
+40,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,12
+40,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,43
+40,F,Vacina Covid-19 - Covishield,2021-05-10,1,271
+40,F,Vacina Covid-19 - Covishield,2021-05-10,2,115
+40,F,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,2021-05-10,1,1
+40,M,Covid-19-AstraZeneca,2021-05-10,1,1
+40,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,11
+40,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,20
+40,M,Vacina Covid-19 - Covishield,2021-05-10,1,166
+40,M,Vacina Covid-19 - Covishield,2021-05-10,2,50
+41,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,13
+41,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,42
+41,F,Vacina Covid-19 - Covishield,2021-05-10,1,289
+41,F,Vacina Covid-19 - Covishield,2021-05-10,2,132
+41,F,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,2021-05-10,1,2
+41,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,5
+41,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,12
+41,M,Vacina Covid-19 - Covishield,2021-05-10,1,175
+41,M,Vacina Covid-19 - Covishield,2021-05-10,2,43
+41,M,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,2021-05-10,1,1
+42,F,Covid-19-AstraZeneca,2021-05-10,1,1
+42,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,14
+42,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,28
+42,F,Vacina Covid-19 - Covishield,2021-05-10,1,284
+42,F,Vacina Covid-19 - Covishield,2021-05-10,2,125
+42,F,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,2021-05-10,1,1
+42,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,9
+42,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,20
+42,M,Vacina Covid-19 - Covishield,2021-05-10,1,186
+42,M,Vacina Covid-19 - Covishield,2021-05-10,2,45
+43,F,Covid-19-AstraZeneca,2021-05-10,1,2
+43,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,11
+43,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,32
+43,F,Vacina Covid-19 - Covishield,2021-05-10,1,264
+43,F,Vacina Covid-19 - Covishield,2021-05-10,2,117
+43,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,11
+43,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,16
+43,M,Vacina Covid-19 - Covishield,2021-05-10,1,167
+43,M,Vacina Covid-19 - Covishield,2021-05-10,2,44
+44,F,Covid-19-AstraZeneca,2021-05-10,2,1
+44,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,18
+44,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,38
+44,F,Vacina Covid-19 - Covishield,2021-05-10,1,258
+44,F,Vacina Covid-19 - Covishield,2021-05-10,2,104
+44,F,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,2021-05-10,1,2
+44,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,8
+44,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,21
+44,M,Vacina Covid-19 - Covishield,2021-05-10,1,161
+44,M,Vacina Covid-19 - Covishield,2021-05-10,2,53
+45,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,14
+45,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,33
+45,F,Vacina Covid-19 - Covishield,2021-05-10,1,225
+45,F,Vacina Covid-19 - Covishield,2021-05-10,2,110
+45,F,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,2021-05-10,1,1
+45,M,Covid-19-AstraZeneca,2021-05-10,2,1
+45,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,10
+45,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,18
+45,M,Vacina Covid-19 - Covishield,2021-05-10,1,165
+45,M,Vacina Covid-19 - Covishield,2021-05-10,2,41
+46,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,14
+46,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,32
+46,F,Vacina Covid-19 - Covishield,2021-05-10,1,246
+46,F,Vacina Covid-19 - Covishield,2021-05-10,2,96
+46,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,8
+46,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,24
+46,M,Vacina Covid-19 - Covishield,2021-05-10,1,160
+46,M,Vacina Covid-19 - Covishield,2021-05-10,2,42
+47,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,43
+47,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,1733
+47,F,Vacina Covid-19 - Covishield,2021-05-10,1,306
+47,F,Vacina Covid-19 - Covishield,2021-05-10,2,96
+47,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,10
+47,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,237
+47,M,Vacina Covid-19 - Covishield,2021-05-10,1,173
+47,M,Vacina Covid-19 - Covishield,2021-05-10,2,29
+48,F,Covid-19-AstraZeneca,2021-05-10,1,1
+48,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,47
+48,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,1786
+48,F,Vacina Covid-19 - Covishield,2021-05-10,1,291
+48,F,Vacina Covid-19 - Covishield,2021-05-10,2,78
+48,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,8
+48,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,265
+48,M,Vacina Covid-19 - Covishield,2021-05-10,1,176
+48,M,Vacina Covid-19 - Covishield,2021-05-10,2,43
+49,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,27
+49,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,2000
+49,F,Vacina Covid-19 - Covishield,2021-05-10,1,278
+49,F,Vacina Covid-19 - Covishield,2021-05-10,2,83
+49,M,Covid-19-AstraZeneca,2021-05-10,1,1
+49,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,6
+49,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,294
+49,M,Vacina Covid-19 - Covishield,2021-05-10,1,152
+49,M,Vacina Covid-19 - Covishield,2021-05-10,2,37
+50,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,28
+50,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,1860
+50,F,Vacina Covid-19 - Covishield,2021-05-10,1,265
+50,F,Vacina Covid-19 - Covishield,2021-05-10,2,96
+50,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,8
+50,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,283
+50,M,Vacina Covid-19 - Covishield,2021-05-10,1,189
+50,M,Vacina Covid-19 - Covishield,2021-05-10,2,44
+50,M,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,2021-05-10,1,1
+51,F,Covid-19-AstraZeneca,2021-05-10,1,1
+51,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,30
+51,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,1715
+51,F,Vacina Covid-19 - Covishield,2021-05-10,1,242
+51,F,Vacina Covid-19 - Covishield,2021-05-10,2,73
+51,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,4
+51,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,265
+51,M,Vacina Covid-19 - Covishield,2021-05-10,1,171
+51,M,Vacina Covid-19 - Covishield,2021-05-10,2,35
+51,M,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,2021-05-10,1,2
+52,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,27
+52,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,1687
+52,F,Vacina Covid-19 - Covishield,2021-05-10,1,265
+52,F,Vacina Covid-19 - Covishield,2021-05-10,2,65
+52,F,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,2021-05-10,1,1
+52,M,Covid-19-AstraZeneca,2021-05-10,1,2
+52,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,8
+52,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,293
+52,M,Vacina Covid-19 - Covishield,2021-05-10,1,171
+52,M,Vacina Covid-19 - Covishield,2021-05-10,2,24
+53,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,34
+53,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,1605
+53,F,Vacina Covid-19 - Covishield,2021-05-10,1,229
+53,F,Vacina Covid-19 - Covishield,2021-05-10,2,65
+53,F,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,2021-05-10,1,1
+53,M,Covid-19-AstraZeneca,2021-05-10,1,2
+53,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,7
+53,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,279
+53,M,Vacina Covid-19 - Covishield,2021-05-10,1,180
+53,M,Vacina Covid-19 - Covishield,2021-05-10,2,39
+53,M,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,2021-05-10,1,1
+54,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,32
+54,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,1569
+54,F,Vacina Covid-19 - Covishield,2021-05-10,1,253
+54,F,Vacina Covid-19 - Covishield,2021-05-10,2,70
+54,M,Covid-19-AstraZeneca,2021-05-10,1,1
+54,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,9
+54,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,255
+54,M,Vacina Covid-19 - Covishield,2021-05-10,1,174
+54,M,Vacina Covid-19 - Covishield,2021-05-10,2,41
+54,M,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,2021-05-10,1,1
+55,F,Covid-19-AstraZeneca,2021-05-10,1,1
+55,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,45
+55,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,1584
+55,F,Vacina Covid-19 - Covishield,2021-05-10,1,441
+55,F,Vacina Covid-19 - Covishield,2021-05-10,2,60
+55,F,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,2021-05-10,1,11
+55,M,Covid-19-AstraZeneca,2021-05-10,1,1
+55,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,14
+55,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,287
+55,M,Vacina Covid-19 - Covishield,2021-05-10,1,359
+55,M,Vacina Covid-19 - Covishield,2021-05-10,2,35
+55,M,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,2021-05-10,1,7
+56,F,Covid-19-AstraZeneca,2021-05-10,1,1
+56,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,30
+56,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,1423
+56,F,Vacina Covid-19 - Covishield,2021-05-10,1,433
+56,F,Vacina Covid-19 - Covishield,2021-05-10,2,67
+56,F,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,2021-05-10,1,5
+56,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,24
+56,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,279
+56,M,Vacina Covid-19 - Covishield,2021-05-10,1,396
+56,M,Vacina Covid-19 - Covishield,2021-05-10,2,31
+56,M,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,2021-05-10,1,12
+57,F,Covid-19-AstraZeneca,2021-05-10,1,1
+57,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,46
+57,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,1328
+57,F,Vacina Covid-19 - Covishield,2021-05-10,1,418
+57,F,Vacina Covid-19 - Covishield,2021-05-10,2,71
+57,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,30
+57,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,251
+57,M,Vacina Covid-19 - Covishield,2021-05-10,1,413
+57,M,Vacina Covid-19 - Covishield,2021-05-10,2,26
+57,M,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,2021-05-10,1,4
+58,F,Covid-19-AstraZeneca,2021-05-10,1,1
+58,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,46
+58,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,1136
+58,F,Vacina Covid-19 - Covishield,2021-05-10,1,468
+58,F,Vacina Covid-19 - Covishield,2021-05-10,2,68
+58,F,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,2021-05-10,1,1
+58,M,Covid-19-AstraZeneca,2021-05-10,1,1
+58,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,18
+58,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,250
+58,M,Vacina Covid-19 - Covishield,2021-05-10,1,378
+58,M,Vacina Covid-19 - Covishield,2021-05-10,2,36
+58,M,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,2021-05-10,1,4
+59,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,50
+59,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,1000
+59,F,Vacina Covid-19 - Covishield,2021-05-10,1,487
+59,F,Vacina Covid-19 - Covishield,2021-05-10,2,52
+59,F,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,2021-05-10,1,3
+59,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,29
+59,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,219
+59,M,Vacina Covid-19 - Covishield,2021-05-10,1,411
+59,M,Vacina Covid-19 - Covishield,2021-05-10,2,32
+59,M,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,2021-05-10,1,4
+60,F,Covid-19-AstraZeneca,2021-05-10,1,1
+60,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,76
+60,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,965
+60,F,Vacina Covid-19 - Covishield,2021-05-10,1,9051
+60,F,Vacina Covid-19 - Covishield,2021-05-10,2,108
+60,F,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,2021-05-10,1,29
+60,I,Vacina Covid-19 - Covishield,2021-05-10,1,1
+60,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,56
+60,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,245
+60,M,Vacina Covid-19 - Covishield,2021-05-10,1,9001
+60,M,Vacina Covid-19 - Covishield,2021-05-10,2,66
+60,M,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,2021-05-10,1,26
+61,F,Covid-19-AstraZeneca,2021-05-10,1,1
+61,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,63
+61,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,794
+61,F,Vacina Covid-19 - Covishield,2021-05-10,1,6482
+61,F,Vacina Covid-19 - Covishield,2021-05-10,2,121
+61,F,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,2021-05-10,1,51
+61,M,Covid-19-AstraZeneca,2021-05-10,1,1
+61,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,49
+61,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,246
+61,M,Vacina Covid-19 - Covishield,2021-05-10,1,6604
+61,M,Vacina Covid-19 - Covishield,2021-05-10,2,51
+61,M,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,2021-05-10,1,23
+62,F,Covid-19-AstraZeneca,2021-05-10,1,1
+62,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,64
+62,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,692
+62,F,Vacina Covid-19 - Covishield,2021-05-10,1,5342
+62,F,Vacina Covid-19 - Covishield,2021-05-10,2,115
+62,F,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,2021-05-10,1,26
+62,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,44
+62,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,223
+62,M,Vacina Covid-19 - Covishield,2021-05-10,1,5205
+62,M,Vacina Covid-19 - Covishield,2021-05-10,2,62
+62,M,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,2021-05-10,1,28
+63,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,29
+63,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,634
+63,F,Vacina Covid-19 - Covishield,2021-05-10,1,1443
+63,F,Vacina Covid-19 - Covishield,2021-05-10,2,98
+63,F,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,2021-05-10,1,3
+63,M,Covid-19-AstraZeneca,2021-05-10,1,2
+63,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,34
+63,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,280
+63,M,Vacina Covid-19 - Covishield,2021-05-10,1,1489
+63,M,Vacina Covid-19 - Covishield,2021-05-10,2,31
+63,M,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,2021-05-10,1,3
+64,F,Covid-19-AstraZeneca,2021-05-10,1,1
+64,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,55
+64,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,659
+64,F,Vacina Covid-19 - Covishield,2021-05-10,1,772
+64,F,Vacina Covid-19 - Covishield,2021-05-10,2,96
+64,F,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,2021-05-10,1,1
+64,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,43
+64,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,297
+64,M,Vacina Covid-19 - Covishield,2021-05-10,1,803
+64,M,Vacina Covid-19 - Covishield,2021-05-10,2,43
+65,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,16
+65,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,895
+65,F,Vacina Covid-19 - Covishield,2021-05-10,1,468
+65,F,Vacina Covid-19 - Covishield,2021-05-10,2,71
+65,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,16
+65,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,525
+65,M,Vacina Covid-19 - Covishield,2021-05-10,1,474
+65,M,Vacina Covid-19 - Covishield,2021-05-10,2,33
+65,M,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,2021-05-10,1,1
+66,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,24
+66,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,1203
+66,F,Vacina Covid-19 - Covishield,2021-05-10,1,385
+66,F,Vacina Covid-19 - Covishield,2021-05-10,2,69
+66,F,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,2021-05-10,1,2
+66,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,13
+66,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,807
+66,M,Vacina Covid-19 - Covishield,2021-05-10,1,365
+66,M,Vacina Covid-19 - Covishield,2021-05-10,2,30
+67,F,Covid-19-AstraZeneca,2021-05-10,1,1
+67,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,24
+67,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,3063
+67,F,Vacina Covid-19 - Covishield,2021-05-10,1,250
+67,F,Vacina Covid-19 - Covishield,2021-05-10,2,79
+67,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,13
+67,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,2494
+67,M,Vacina Covid-19 - Covishield,2021-05-10,1,237
+67,M,Vacina Covid-19 - Covishield,2021-05-10,2,32
+68,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,10
+68,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,924
+68,F,Vacina Covid-19 - Covishield,2021-05-10,1,149
+68,F,Vacina Covid-19 - Covishield,2021-05-10,2,53
+68,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,11
+68,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,775
+68,M,Vacina Covid-19 - Covishield,2021-05-10,1,147
+68,M,Vacina Covid-19 - Covishield,2021-05-10,2,30
+69,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,10
+69,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,346
+69,F,Vacina Covid-19 - Covishield,2021-05-10,1,94
+69,F,Vacina Covid-19 - Covishield,2021-05-10,2,54
+69,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,3
+69,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,306
+69,M,Vacina Covid-19 - Covishield,2021-05-10,1,100
+69,M,Vacina Covid-19 - Covishield,2021-05-10,2,33
+70,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,5
+70,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,240
+70,F,Vacina Covid-19 - Covishield,2021-05-10,1,82
+70,F,Vacina Covid-19 - Covishield,2021-05-10,2,43
+70,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,6
+70,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,196
+70,M,Vacina Covid-19 - Covishield,2021-05-10,1,53
+70,M,Vacina Covid-19 - Covishield,2021-05-10,2,26
+71,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,6
+71,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,219
+71,F,Vacina Covid-19 - Covishield,2021-05-10,1,65
+71,F,Vacina Covid-19 - Covishield,2021-05-10,2,33
+71,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,2
+71,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,190
+71,M,Vacina Covid-19 - Covishield,2021-05-10,1,53
+71,M,Vacina Covid-19 - Covishield,2021-05-10,2,21
+72,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,8
+72,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,160
+72,F,Vacina Covid-19 - Covishield,2021-05-10,1,47
+72,F,Vacina Covid-19 - Covishield,2021-05-10,2,49
+72,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,3
+72,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,121
+72,M,Vacina Covid-19 - Covishield,2021-05-10,1,38
+72,M,Vacina Covid-19 - Covishield,2021-05-10,2,17
+73,F,Covid-19-AstraZeneca,2021-05-10,1,1
+73,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,3
+73,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,141
+73,F,Vacina Covid-19 - Covishield,2021-05-10,1,41
+73,F,Vacina Covid-19 - Covishield,2021-05-10,2,32
+73,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,9
+73,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,87
+73,M,Vacina Covid-19 - Covishield,2021-05-10,1,42
+73,M,Vacina Covid-19 - Covishield,2021-05-10,2,23
+74,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,2
+74,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,97
+74,F,Vacina Covid-19 - Covishield,2021-05-10,1,32
+74,F,Vacina Covid-19 - Covishield,2021-05-10,2,30
+74,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,3
+74,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,85
+74,M,Vacina Covid-19 - Covishield,2021-05-10,1,40
+74,M,Vacina Covid-19 - Covishield,2021-05-10,2,19
+75,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,1
+75,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,66
+75,F,Vacina Covid-19 - Covishield,2021-05-10,1,24
+75,F,Vacina Covid-19 - Covishield,2021-05-10,2,30
+75,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,1
+75,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,60
+75,M,Vacina Covid-19 - Covishield,2021-05-10,1,20
+75,M,Vacina Covid-19 - Covishield,2021-05-10,2,11
+76,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,51
+76,F,Vacina Covid-19 - Covishield,2021-05-10,1,21
+76,F,Vacina Covid-19 - Covishield,2021-05-10,2,28
+76,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,1
+76,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,48
+76,M,Vacina Covid-19 - Covishield,2021-05-10,1,23
+76,M,Vacina Covid-19 - Covishield,2021-05-10,2,18
+77,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,54
+77,F,Vacina Covid-19 - Covishield,2021-05-10,1,23
+77,F,Vacina Covid-19 - Covishield,2021-05-10,2,28
+77,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,2
+77,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,39
+77,M,Vacina Covid-19 - Covishield,2021-05-10,1,8
+77,M,Vacina Covid-19 - Covishield,2021-05-10,2,14
+78,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,2
+78,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,34
+78,F,Vacina Covid-19 - Covishield,2021-05-10,1,10
+78,F,Vacina Covid-19 - Covishield,2021-05-10,2,22
+78,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,1
+78,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,35
+78,M,Vacina Covid-19 - Covishield,2021-05-10,1,10
+78,M,Vacina Covid-19 - Covishield,2021-05-10,2,21
+79,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,1
+79,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,37
+79,F,Vacina Covid-19 - Covishield,2021-05-10,1,18
+79,F,Vacina Covid-19 - Covishield,2021-05-10,2,29
+79,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,26
+79,M,Vacina Covid-19 - Covishield,2021-05-10,1,12
+79,M,Vacina Covid-19 - Covishield,2021-05-10,2,21
+80,F,Covid-19-AstraZeneca,2021-05-10,2,1
+80,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,18
+80,F,Vacina Covid-19 - Covishield,2021-05-10,1,15
+80,F,Vacina Covid-19 - Covishield,2021-05-10,2,76
+80,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,13
+80,M,Vacina Covid-19 - Covishield,2021-05-10,1,12
+80,M,Vacina Covid-19 - Covishield,2021-05-10,2,40
+81,F,Covid-19-AstraZeneca,2021-05-10,1,1
+81,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,2
+81,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,23
+81,F,Vacina Covid-19 - Covishield,2021-05-10,1,21
+81,F,Vacina Covid-19 - Covishield,2021-05-10,2,92
+81,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,9
+81,M,Vacina Covid-19 - Covishield,2021-05-10,1,8
+81,M,Vacina Covid-19 - Covishield,2021-05-10,2,54
+81,M,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,2021-05-10,1,1
+82,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,20
+82,F,Vacina Covid-19 - Covishield,2021-05-10,1,13
+82,F,Vacina Covid-19 - Covishield,2021-05-10,2,64
+82,M,Covid-19-AstraZeneca,2021-05-10,2,1
+82,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,11
+82,M,Vacina Covid-19 - Covishield,2021-05-10,1,6
+82,M,Vacina Covid-19 - Covishield,2021-05-10,2,58
+83,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,1
+83,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,15
+83,F,Vacina Covid-19 - Covishield,2021-05-10,1,12
+83,F,Vacina Covid-19 - Covishield,2021-05-10,2,67
+83,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,14
+83,M,Vacina Covid-19 - Covishield,2021-05-10,1,5
+83,M,Vacina Covid-19 - Covishield,2021-05-10,2,45
+84,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,14
+84,F,Vacina Covid-19 - Covishield,2021-05-10,1,10
+84,F,Vacina Covid-19 - Covishield,2021-05-10,2,92
+84,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,1
+84,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,6
+84,M,Vacina Covid-19 - Covishield,2021-05-10,1,4
+84,M,Vacina Covid-19 - Covishield,2021-05-10,2,47
+85,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,17
+85,F,Vacina Covid-19 - Covishield,2021-05-10,1,8
+85,F,Vacina Covid-19 - Covishield,2021-05-10,2,238
+85,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,8
+85,M,Vacina Covid-19 - Covishield,2021-05-10,1,2
+85,M,Vacina Covid-19 - Covishield,2021-05-10,2,127
+86,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,1
+86,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,12
+86,F,Vacina Covid-19 - Covishield,2021-05-10,1,8
+86,F,Vacina Covid-19 - Covishield,2021-05-10,2,247
+86,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,5
+86,M,Vacina Covid-19 - Covishield,2021-05-10,1,5
+86,M,Vacina Covid-19 - Covishield,2021-05-10,2,147
+87,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,8
+87,F,Vacina Covid-19 - Covishield,2021-05-10,1,13
+87,F,Vacina Covid-19 - Covishield,2021-05-10,2,208
+87,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,3
+87,M,Vacina Covid-19 - Covishield,2021-05-10,1,5
+87,M,Vacina Covid-19 - Covishield,2021-05-10,2,104
+88,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,11
+88,F,Vacina Covid-19 - Covishield,2021-05-10,1,7
+88,F,Vacina Covid-19 - Covishield,2021-05-10,2,177
+88,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,3
+88,M,Vacina Covid-19 - Covishield,2021-05-10,1,4
+88,M,Vacina Covid-19 - Covishield,2021-05-10,2,107
+89,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,7
+89,F,Vacina Covid-19 - Covishield,2021-05-10,1,4
+89,F,Vacina Covid-19 - Covishield,2021-05-10,2,194
+89,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,3
+89,M,Vacina Covid-19 - Covishield,2021-05-10,1,3
+89,M,Vacina Covid-19 - Covishield,2021-05-10,2,82
+90,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,5
+90,F,Vacina Covid-19 - Covishield,2021-05-10,1,7
+90,F,Vacina Covid-19 - Covishield,2021-05-10,2,259
+90,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,1
+90,M,Vacina Covid-19 - Covishield,2021-05-10,1,5
+90,M,Vacina Covid-19 - Covishield,2021-05-10,2,110
+91,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,1,1
+91,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,6
+91,F,Vacina Covid-19 - Covishield,2021-05-10,1,7
+91,F,Vacina Covid-19 - Covishield,2021-05-10,2,211
+91,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,3
+91,M,Vacina Covid-19 - Covishield,2021-05-10,1,1
+91,M,Vacina Covid-19 - Covishield,2021-05-10,2,108
+92,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,5
+92,F,Vacina Covid-19 - Covishield,2021-05-10,1,9
+92,F,Vacina Covid-19 - Covishield,2021-05-10,2,169
+92,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,2
+92,M,Vacina Covid-19 - Covishield,2021-05-10,1,3
+92,M,Vacina Covid-19 - Covishield,2021-05-10,2,80
+93,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,5
+93,F,Vacina Covid-19 - Covishield,2021-05-10,1,2
+93,F,Vacina Covid-19 - Covishield,2021-05-10,2,148
+93,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,1
+93,M,Vacina Covid-19 - Covishield,2021-05-10,1,1
+93,M,Vacina Covid-19 - Covishield,2021-05-10,2,43
+94,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,1
+94,F,Vacina Covid-19 - Covishield,2021-05-10,1,4
+94,F,Vacina Covid-19 - Covishield,2021-05-10,2,102
+94,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,1
+94,M,Vacina Covid-19 - Covishield,2021-05-10,1,2
+94,M,Vacina Covid-19 - Covishield,2021-05-10,2,45
+95,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,2
+95,F,Vacina Covid-19 - Covishield,2021-05-10,1,1
+95,F,Vacina Covid-19 - Covishield,2021-05-10,2,76
+95,M,Vacina Covid-19 - Covishield,2021-05-10,1,2
+95,M,Vacina Covid-19 - Covishield,2021-05-10,2,32
+96,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,1
+96,F,Vacina Covid-19 - Covishield,2021-05-10,1,3
+96,F,Vacina Covid-19 - Covishield,2021-05-10,2,61
+96,M,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,1
+96,M,Vacina Covid-19 - Covishield,2021-05-10,1,1
+96,M,Vacina Covid-19 - Covishield,2021-05-10,2,22
+97,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,2
+97,F,Vacina Covid-19 - Covishield,2021-05-10,1,1
+97,F,Vacina Covid-19 - Covishield,2021-05-10,2,34
+97,M,Vacina Covid-19 - Covishield,2021-05-10,2,17
+98,F,Vacina Covid-19 - Covishield,2021-05-10,2,31
+98,M,Vacina Covid-19 - Covishield,2021-05-10,1,1
+98,M,Vacina Covid-19 - Covishield,2021-05-10,2,4
+99,F,Vacina Covid-19 - Covishield,2021-05-10,2,15
+99,M,Vacina Covid-19 - Covishield,2021-05-10,2,5
+100,F,Vacina Covid-19 - Covishield,2021-05-10,2,13
+100,M,Vacina Covid-19 - Covishield,2021-05-10,2,7
+101,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,1
+101,F,Vacina Covid-19 - Covishield,2021-05-10,2,8
+101,M,Vacina Covid-19 - Covishield,2021-05-10,2,4
+102,F,Covid-19-Coronavac-Sinovac/Butantan,2021-05-10,2,1
+102,F,Vacina Covid-19 - Covishield,2021-05-10,2,5
+102,M,Vacina Covid-19 - Covishield,2021-05-10,2,3
+103,F,Vacina Covid-19 - Covishield,2021-05-10,2,4
+103,M,Vacina Covid-19 - Covishield,2021-05-10,2,2
+104,F,Vacina Covid-19 - Covishield,2021-05-10,2,3
+106,F,Vacina Covid-19 - Covishield,2021-05-10,2,3
+106,M,Vacina Covid-19 - Covishield,2021-05-10,2,1
+121,F,Vacina Covid-19 - Covishield,2021-05-10,2,4
+121,M,Vacina Covid-19 - Covishield,2021-05-10,1,1

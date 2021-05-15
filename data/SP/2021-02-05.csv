@@ -1,0 +1,6 @@
+paciente_idade,paciente_enumSexoBiologico,vacina_nome,data,dose,contagem
+35,F,Covid-19-Coronavac-Sinovac/Butantan,2021-02-05,2,2
+35,F,Vacina Covid-19 - Covishield,2021-02-05,2,1
+36,F,Vacina Covid-19 - Covishield,2021-02-05,2,1
+36,M,Covid-19-Coronavac-Sinovac/Butantan,2021-02-05,2,3
+36,M,Vacina Covid-19 - Covishield,2021-02-05,2,1
