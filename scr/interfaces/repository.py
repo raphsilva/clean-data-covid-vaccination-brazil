@@ -11,9 +11,9 @@ def clone():
     git.Repo.clone_from(REMOTE, PATH_REPO)
 
 
-def commit_and_push():
+def commit_and_push(msg='Update'):
     repo = git.Repo(PATH_REPO)
     repo.git.add(".")
-    repo.index.commit("Automatic update.")
+    repo.index.commit(msg)
     origin = repo.remote(name="origin")
     origin.push()

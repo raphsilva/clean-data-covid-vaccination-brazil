@@ -49,4 +49,4 @@ for uf in uf_list:
             update_file(uf, dt, info)
             print('Saved', dt, uf)
 
-commit_and_push()
+commit_and_push("Updating data.")
