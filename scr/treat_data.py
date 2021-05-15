@@ -24,7 +24,7 @@ def detect_wrong_date(df):
     if len(df) == 0:
         return pd.DataFrame(), pd.DataFrame()
     df['data_incorreta'] = False
-    df[df['data'] < '2021-01-17'] = True
+    df.loc[df['data'] < '2021-01-17', 'data_incorreta'] = True
     wr = df[df['data_incorreta']].copy()
     df = df[~df['data_incorreta']].copy()
     del df['data_incorreta']
