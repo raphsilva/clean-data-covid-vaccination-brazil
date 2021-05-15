@@ -1,0 +1,16 @@
+index,vacina_dataAplicacao,paciente_idade,paciente_enumSexoBiologico,vacina_nome,dose,contagem,data_incorreta
+27,2021-05-11 00:00:00,67,F,Vacina Covid-19 - Covishield,2,1,False
+28,2021-05-11 00:00:00,67,F,Vacina Covid-19 - Covishield,2,1,False
+29,2021-05-11 00:00:00,67,F,Vacina Covid-19 - Covishield,2,1,False
+33,2021-05-11 00:00:00,67,M,Vacina Covid-19 - Covishield,2,1,False
+34,2021-05-11 00:00:00,67,M,Vacina Covid-19 - Covishield,2,1,False
+35,2021-05-11 00:00:00,67,M,Vacina Covid-19 - Covishield,2,1,False
+39,2021-05-11 00:00:00,48,F,Vacina Covid-19 - Covishield,2,1,False
+40,2021-05-11 00:00:00,48,F,Vacina Covid-19 - Covishield,2,1,False
+41,2021-05-11 00:00:00,48,F,Vacina Covid-19 - Covishield,2,1,False
+42,2021-05-11 00:00:00,48,M,Covid-19-Coronavac-Sinovac/Butantan,2,1,False
+43,2021-05-11 00:00:00,48,M,Covid-19-Coronavac-Sinovac/Butantan,2,1,False
+44,2021-05-11 00:00:00,48,M,Covid-19-Coronavac-Sinovac/Butantan,2,1,False
+45,2021-05-11 00:00:00,48,M,Vacina Covid-19 - Covishield,2,1,False
+46,2021-05-11 00:00:00,48,M,Vacina Covid-19 - Covishield,2,1,False
+47,2021-05-11 00:00:00,48,M,Vacina Covid-19 - Covishield,2,1,False

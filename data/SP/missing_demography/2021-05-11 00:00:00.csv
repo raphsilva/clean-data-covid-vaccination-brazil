@@ -1,0 +1,10 @@
+level_0,index,vacina_dataAplicacao,paciente_idade,paciente_enumSexoBiologico,vacina_nome,paciente_id,contagem,dose
+2,38,2021-05-11,48,F,Covid-19-Coronavac-Sinovac/Butantan,6c38f33871c0ccc230ee27430198e4f13236ea2736b50e31fbe16a2aeeca4599,2,2
+3,37,2021-05-11,48,F,Covid-19-Coronavac-Sinovac/Butantan,69fe32d41234cff59a1c0052e2af1b77dc9e2071cc2084073986c4a1d0b87d0c,2,2
+4,36,2021-05-11,48,F,Covid-19-Coronavac-Sinovac/Butantan,5b6f35ea7318b32abee6fbb3cd1d0b20afea8cf9eccbb0665d3946540c93d145,2,2
+5,32,2021-05-11,67,M,Covid-19-Coronavac-Sinovac/Butantan,b24fae2e234223a7bb1ee7eecc977fc433f6c8a446792e3e4c37133474f9f2fb,2,2
+6,31,2021-05-11,67,M,Covid-19-Coronavac-Sinovac/Butantan,401b8f725105facab946be32def9f3c02adba46d0c045ef02569d689406fdf59,2,2
+7,30,2021-05-11,67,M,Covid-19-Coronavac-Sinovac/Butantan,0f475e2ffbee6a0cd26036c1944ad61d82504994d9665abe04f017b911061ec8,2,2
+8,26,2021-05-11,67,F,Covid-19-Coronavac-Sinovac/Butantan,526836e35d7cae3b2b15b7c068640aec599b802d9d9497006242355718fea2f1,2,2
+9,25,2021-05-11,67,F,Covid-19-Coronavac-Sinovac/Butantan,3ce0691c6dd8a63880f162b6b77dc5fef77cd1d0949318b65bf06edb71d6dcd6,2,2
+13,24,2021-05-11,67,F,Covid-19-Coronavac-Sinovac/Butantan,37f753fbc0c03342c78e154b58b22b2b67c98132d3d51814468a612550147c32,2,2
