@@ -1,6 +1,0 @@
-paciente_idade,paciente_enumSexoBiologico,vacina_nome,paciente_id,contagem,data,dose
-52,M,Covid-19-Coronavac-Sinovac/Butantan,6c62b4b30f72b5dea26d914c5ede09ec6d75e4bbe8f01bac4242a7cdc10f14c3,853,2021-04-12,1
-52,M,Vacina Covid-19 - Covishield,6c62b4b30f72b5dea26d914c5ede09ec6d75e4bbe8f01bac4242a7cdc10f14c3,166,2021-04-12,1
-67,F,Covid-19-Coronavac-Sinovac/Butantan,7daddc761a4e0b55f5dd8258d1da745ef66847cddc190d2e781a676008be0b2d,2,2021-04-12,1
-67,M,Covid-19-Coronavac-Sinovac/Butantan,ec5dabffaeaab18bccff093856da404ca3e8d19b402d7366f30dac9f75a6065c,2,2021-04-12,1
-67,M,Vacina Covid-19 - Covishield,d8307551a91fc45f57152c4a8ac8ca8e45f3850bcbc77a0da41d23d46c662620,2,2021-04-12,1
