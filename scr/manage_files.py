@@ -37,7 +37,7 @@ def _merge_data(data_old, data_new):
     # return data_old.sum(data_new, fill_value=0).reindex(data_old.index)
 
 
-def update_file(uf, date: str, data: pd.DataFrame, data_name: str=None):
+def update_file(uf, date: str, data: pd.DataFrame, data_name: str = None):
     filepath = _get_path(uf, date, data_name)
     os.makedirs(os.path.dirname(filepath), exist_ok=True)
     if not os.path.isfile(filepath):

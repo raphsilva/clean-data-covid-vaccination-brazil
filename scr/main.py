@@ -2,10 +2,9 @@ from datetime import datetime
 
 from control_dates import get_last_time
 from get_data import get_data_uf
+from interfaces.repository import clone_repository, commit_and_push
 from manage_files import update_file
 from time_format import hours_to_timestamp, timestamp_to_date, date_to_timestamp
-from interfaces.repository import clone_repository, commit_and_push
-from SETUP import MIN_DATE
 from treat_data import detect_missing, detect_wrong_date, separate_by_date
 
 # update local repository
@@ -17,7 +16,6 @@ date_now = datetime.utcnow().timestamp() * 1000
 
 
 def update_for_dates(date_A, date_B, uf):
-
     data = get_data_uf(uf, date_A, date_B)
 
     print('LENGTH', len(data))
@@ -45,6 +43,7 @@ def update_for_dates(date_A, date_B, uf):
                 update_file(uf, date, data, data_name)
             print('Saved', data_name, date, uf)
 
+
 def select_dates(uf, update_all=False):
     if update_all:
         yield 0, date_to_timestamp('2019-12-01')
@@ -54,7 +53,7 @@ def select_dates(uf, update_all=False):
     else:
         a = get_last_time(uf) - hours_to_timestamp(7 * 24)
     while a < date_now:
-        b = a + hours_to_timestamp(7 * 24)
+        b = a + hours_to_timestamp(2 * 24)
         yield a, b
         a = b
 
@@ -74,9 +73,6 @@ def update_data(request):
 if __name__ == '__main__':
     request = dict()
     request['uf_list'] = ['SP']
-    request['update_all'] = True
+    request['update_all'] = False
     request['commit_msg'] = 'Test update.'
     update_data(request)
-
-
-

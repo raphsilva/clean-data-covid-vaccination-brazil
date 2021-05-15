@@ -1,11 +1,8 @@
-import json
 import os
 
 from SETUP import MIN_DATE
-
-from time_format import date_to_timestamp
-
 from manage_files import get_directory_path
+from time_format import date_to_timestamp
 
 
 def get_last_time(uf):

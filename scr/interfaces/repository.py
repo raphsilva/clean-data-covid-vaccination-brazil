@@ -1,8 +1,10 @@
-import git
 import os
 import shutil
-from integrations.git.git_x import REMOTE
+
+import git
+
 from SETUP import PATH_REPO
+from integrations.git.git_x import REMOTE
 
 
 def clone_repository():

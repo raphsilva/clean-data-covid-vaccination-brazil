@@ -1,11 +1,11 @@
 from base64 import b64encode
-from time_format import datetime_to_str
+from multiprocessing.pool import ThreadPool
+
 import pandas as pd
 import requests
-from pprint import pprint
-import concurrent.futures
+
 from SETUP import QUICK_TEST
-from multiprocessing.pool import ThreadPool
+from time_format import datetime_to_str
 
 if QUICK_TEST:
     MAX_SIZE = 3
@@ -36,7 +36,6 @@ def get_data(uf, dose, date_A, date_B):
             else:
                 unrolled = unroll(aggregators, a, partial, unrolled)
         return unrolled
-
 
     def make_aggdic(aggtors):
         if len(aggtors) == 1:
