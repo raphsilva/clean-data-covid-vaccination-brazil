@@ -1,8 +1,8 @@
 from base64 import b64encode
-
+from time_format import datetime_to_str
 import pandas as pd
 import requests
-
+from pprint import pprint
 from SETUP import QUICK_TEST
 
 if QUICK_TEST:
@@ -68,7 +68,8 @@ def get_data(uf, dose, date_A, date_B):
                 },
                 "aggs": make_aggdic(aggregators)
             }
-        }
+        },
+        'size': 0
     }
 
     r = requests.post(url, json=body, auth=(username, password))
@@ -76,12 +77,17 @@ def get_data(uf, dose, date_A, date_B):
     data = r.json()
     if 'aggregations' not in data:
         print('Could not get data', data)
-        return []
+        return pd.DataFrame()
 
     u = unroll(aggregators, data['aggregations']['filtered'])
     df = pd.DataFrame(u)
+
+    if len(df) == 0:
+        return pd.DataFrame()
+
     df = df.sort_values(by='contagem', ascending=False)
-    df['data'] = pd.to_datetime(df['vacina_dataAplicacao'], unit='ms').str()[:10]
+    df['data'] = pd.to_datetime(df['vacina_dataAplicacao'], unit='ms').apply(lambda x: datetime_to_str(x))
+    del df['vacina_dataAplicacao']
     df['dose'] = dose
 
     return df.reset_index()

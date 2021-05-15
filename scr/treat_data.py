@@ -1,5 +1,5 @@
 import pandas as pd
-from time_format import date_to_datetime
+from time_format import date_to_datetime, datetime_to_str
 from datetime import datetime
 
 
@@ -22,10 +22,10 @@ def detect_wrong_date(df):
     print(df)
     print(df.columns)
     df['data_incorreta'] = False
-    df[df['data'] < date_to_datetime('2021-01-17')] = True
-    df[df['data'] > datetime.now()] = True
-    wr = df[df['data']].copy()
-    df = df[~df['data']].copy()
+    df[df['data'] < '2021-01-17'] = True
+    df[df['data'] > datetime_to_str(datetime.now())] = True
+    wr = df[df['data_incorreta']].copy()
+    df = df[~df['data_incorreta']].copy()
     del df['data_incorreta']
     return wr, df
 
