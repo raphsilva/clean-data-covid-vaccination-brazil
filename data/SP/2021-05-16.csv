@@ -1,0 +1,14 @@
+paciente_enumSexoBiologico,paciente_idade,vacina_descricao_dose,vacina_nome,vacina_categoria_nome,vacina_grupoAtendimento_nome,data,dose,contagem,0
+F,22,1ª Dose,Covid-19-AstraZeneca,Trabalhadores da Educação,Ensino Básico,2021-05-16,1,1,1
+F,22,1ª Dose,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Acadêmicos/estudantes em estágio em estabelecimentos de saúde,2021-05-16,1,1,1
+F,23,1ª Dose,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Acadêmicos/estudantes em estágio em estabelecimentos de saúde,2021-05-16,1,1,1
+F,24,1ª Dose,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Acadêmicos/estudantes em estágio em estabelecimentos de saúde,2021-05-16,1,1,1
+F,25,1ª Dose,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Básico,2021-05-16,1,1,1
+F,26,1ª Dose,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Básico,2021-05-16,1,1,1
+F,26,1ª Dose,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Acadêmicos/estudantes em estágio em estabelecimentos de saúde,2021-05-16,1,1,2
+F,27,1ª Dose,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Acadêmicos/estudantes em estágio em estabelecimentos de saúde,2021-05-16,1,1,1
+F,28,1ª Dose,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Superior,2021-05-16,1,1,1
+F,28,1ª Dose,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Médico,2021-05-16,1,1,1
+F,28,2ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Enfermeiro(a),2021-05-16,2,1,1
+M,18,1ª Dose,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Básico,2021-05-16,1,1,1
+M,28,2ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Técnico de Enfermagem,2021-05-16,2,1,1
