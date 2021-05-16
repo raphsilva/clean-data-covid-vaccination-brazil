@@ -1,50 +1,50 @@
-paciente_enumSexoBiologico,paciente_idade,vacina_descricao_dose,vacina_nome,vacina_categoria_nome,vacina_grupoAtendimento_nome,data,dose,contagem,0
-F,18,1ª Dose,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores da Educação,Ensino Superior,2021-05-15,1,1,1
-F,19,1ª Dose,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores da Educação,Ensino Superior,2021-05-15,1,1,2
-F,20,1ª Dose,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Outros,2021-05-15,1,1,1
-F,21,1ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Acadêmicos/estudantes em estágio em estabelecimentos de saúde,2021-05-15,1,1,1
-F,21,1ª Dose,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores da Educação,Ensino Superior,2021-05-15,1,1,1
-F,22,1ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Acadêmicos/estudantes em estágio em estabelecimentos de saúde,2021-05-15,1,1,1
-F,22,1ª Dose,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Forças de Segurança e Salvamento,Policial Militar,2021-05-15,1,1,1
-F,22,1ª Dose,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores da Educação,Ensino Superior,2021-05-15,1,1,1
-F,23,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Obesidade Grave (Imc>=40),2021-05-15,1,1,1
-F,23,1ª Dose,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores da Educação,Ensino Superior,2021-05-15,1,1,1
-F,23,2ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Médico,2021-05-15,2,1,1
-F,23,2ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2021-05-15,2,1,2
-F,24,1ª Dose,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Básico,2021-05-15,1,1,1
-F,24,1ª Dose,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Comorbidades,Outros Imunossuprimidos,2021-05-15,1,1,1
-F,24,1ª Dose,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,2021-05-15,1,1,1
-F,25,1ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Nutricionista,2021-05-15,1,1,1
-F,25,1ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Recepcionista,2021-05-15,1,1,2
-F,25,1ª Dose,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores da Educação,Ensino Superior,2021-05-15,1,1,1
-F,25,2ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2021-05-15,2,1,1
-F,26,1ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Fisioterapeutas,2021-05-15,1,1,1
-F,26,1ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2021-05-15,1,1,1
-F,26,1ª Dose,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Comorbidades,Pneumopatias Crônicas Graves,2021-05-15,1,1,1
-F,26,1ª Dose,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores da Educação,Ensino Superior,2021-05-15,1,1,1
-F,28,1ª Dose,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Acadêmicos/estudantes em estágio em estabelecimentos de saúde,2021-05-15,1,1,1
-F,28,2ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2021-05-15,2,1,1
-F,29,1ª Dose,Covid-19-AstraZeneca,Comorbidades,Cirrose hepática,2021-05-15,1,1,1
-F,29,1ª Dose,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Comorbidades,Doença Renal Crônica,2021-05-15,1,1,1
-F,29,2ª Dose,Covid-19-AstraZeneca,Trabalhadores de Saúde,Enfermeiro(a),2021-05-15,2,1,1
-M,18,1ª Dose,Vacina Covid-19 - Covishield,Pessoas com Deficiência,Pessoas com Deficiências Permanente Grave,2021-05-15,1,1,1
-M,18,1ª Dose,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Comorbidades,Diabetes Mellitus,2021-05-15,1,1,1
-M,18,1ª Dose,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Comorbidades,Doenças Cardiovasculares e Cerebrovasculares,2021-05-15,1,1,1
-M,19,1ª Dose,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Comorbidades,Obesidade Grave (Imc>=40),2021-05-15,1,1,1
-M,20,1ª Dose,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Comorbidades,Doença Renal Crônica,2021-05-15,1,1,1
-M,21,1ª Dose,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Outros,2021-05-15,1,1,2
-M,22,2ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Farmacêutico,2021-05-15,2,1,1
-M,23,1ª Dose,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Comorbidades,Obesidade Grave (Imc>=40),2021-05-15,1,1,1
-M,23,1ª Dose,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Outros,2021-05-15,1,1,1
-M,24,1ª Dose,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Comorbidades,Doença Renal Crônica,2021-05-15,1,1,1
-M,24,1ª Dose,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,2021-05-15,1,1,1
-M,24,2ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Acadêmicos/estudantes em estágio em estabelecimentos de saúde,2021-05-15,2,1,1
-M,25,1ª Dose,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Comorbidades,Doenças Cardiovasculares e Cerebrovasculares,2021-05-15,1,1,1
-M,25,1ª Dose,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Médico,2021-05-15,1,1,1
-M,26,1ª Dose,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Comorbidades,Doença Renal Crônica,2021-05-15,1,1,1
-M,26,2ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2021-05-15,2,1,1
-M,27,1ª Dose,Covid-19-AstraZeneca,Trabalhadores de Saúde,Outros,2021-05-15,1,1,1
-M,27,1ª Dose,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Pessoas com Deficiência,Pessoas com Deficiências Permanente Grave,2021-05-15,1,1,1
-M,29,1ª Dose,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Comorbidades,Diabetes Mellitus,2021-05-15,1,1,1
-M,29,1ª Dose,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,2021-05-15,1,1,1
-M,29,1ª Dose,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Comorbidades,Outros Imunossuprimidos,2021-05-15,1,1,1
+paciente_enumSexoBiologico,paciente_idade,vacina_descricao_dose,vacina_nome,vacina_categoria_nome,vacina_grupoAtendimento_nome,dose,contagem
+F,18,1ª Dose,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores da Educação,Ensino Superior,1,1
+F,19,1ª Dose,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores da Educação,Ensino Superior,1,2
+F,20,1ª Dose,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Outros,1,1
+F,21,1ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Acadêmicos/estudantes em estágio em estabelecimentos de saúde,1,1
+F,21,1ª Dose,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores da Educação,Ensino Superior,1,1
+F,22,1ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Acadêmicos/estudantes em estágio em estabelecimentos de saúde,1,1
+F,22,1ª Dose,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Forças de Segurança e Salvamento,Policial Militar,1,1
+F,22,1ª Dose,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores da Educação,Ensino Superior,1,1
+F,23,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Obesidade Grave (Imc>=40),1,1
+F,23,1ª Dose,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores da Educação,Ensino Superior,1,1
+F,23,2ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Médico,2,1
+F,23,2ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2,2
+F,24,1ª Dose,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Básico,1,1
+F,24,1ª Dose,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Comorbidades,Outros Imunossuprimidos,1,1
+F,24,1ª Dose,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,1,1
+F,25,1ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Nutricionista,1,1
+F,25,1ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Recepcionista,1,2
+F,25,1ª Dose,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores da Educação,Ensino Superior,1,1
+F,25,2ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2,1
+F,26,1ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Fisioterapeutas,1,1
+F,26,1ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1,1
+F,26,1ª Dose,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Comorbidades,Pneumopatias Crônicas Graves,1,1
+F,26,1ª Dose,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores da Educação,Ensino Superior,1,1
+F,28,1ª Dose,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Acadêmicos/estudantes em estágio em estabelecimentos de saúde,1,1
+F,28,2ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2,1
+F,29,1ª Dose,Covid-19-AstraZeneca,Comorbidades,Cirrose hepática,1,1
+F,29,1ª Dose,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Comorbidades,Doença Renal Crônica,1,1
+F,29,2ª Dose,Covid-19-AstraZeneca,Trabalhadores de Saúde,Enfermeiro(a),2,1
+M,18,1ª Dose,Vacina Covid-19 - Covishield,Pessoas com Deficiência,Pessoas com Deficiências Permanente Grave,1,1
+M,18,1ª Dose,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Comorbidades,Diabetes Mellitus,1,1
+M,18,1ª Dose,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Comorbidades,Doenças Cardiovasculares e Cerebrovasculares,1,1
+M,19,1ª Dose,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Comorbidades,Obesidade Grave (Imc>=40),1,1
+M,20,1ª Dose,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Comorbidades,Doença Renal Crônica,1,1
+M,21,1ª Dose,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Outros,1,2
+M,22,2ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Farmacêutico,2,1
+M,23,1ª Dose,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Comorbidades,Obesidade Grave (Imc>=40),1,1
+M,23,1ª Dose,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Outros,1,1
+M,24,1ª Dose,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Comorbidades,Doença Renal Crônica,1,1
+M,24,1ª Dose,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,1,1
+M,24,2ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Acadêmicos/estudantes em estágio em estabelecimentos de saúde,2,1
+M,25,1ª Dose,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Comorbidades,Doenças Cardiovasculares e Cerebrovasculares,1,1
+M,25,1ª Dose,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Médico,1,1
+M,26,1ª Dose,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Comorbidades,Doença Renal Crônica,1,1
+M,26,2ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2,1
+M,27,1ª Dose,Covid-19-AstraZeneca,Trabalhadores de Saúde,Outros,1,1
+M,27,1ª Dose,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Pessoas com Deficiência,Pessoas com Deficiências Permanente Grave,1,1
+M,29,1ª Dose,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Comorbidades,Diabetes Mellitus,1,1
+M,29,1ª Dose,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1,1
+M,29,1ª Dose,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Comorbidades,Outros Imunossuprimidos,1,1
