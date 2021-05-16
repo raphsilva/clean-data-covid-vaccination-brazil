@@ -1,7 +1,291 @@
 paciente_id,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_nome,vacina_grupoAtendimento_nome,dose,contagem
 003529725668b2f2e78ae41e21b8f11d94d85ba1886308985789bbb2e7b35b05,M,21,Vacina Covid-19 - Covishield,Comorbidades,Síndrome de Down,1,2
+026fa5dbbc8cafd179e49c16fe6033e6e92eddf6b4ffb3081efd9f553790f431,F,60,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1,2
+03c0a78d1b386bf9c44869711fe840fefe0242210519c947e7ef921a04c1d1fa,M,59,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1,2
+03ccd1e11f067d3d5c8f05dd367c159cb53f05d58184f12270e4a8705589814f,M,63,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 60 a 64 anos,2,2
+03f96a0bc2cf75ab4d101f9a9ff32efed83d6b91925893970ea0693a4796d197,F,52,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,2,2
+05c2964a9e2baf002afe82b51af78519a0a08b429cff37174f031fec9f0bd94b,M,61,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1,2
+071c319b960dfd95805edf40f230971d321b46e5bf267a740e1456d96cdacbaf,M,59,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1,2
+07a280910100bcb77dd52b90bc2e79463ec5e2f4ea0ec82a736fbe7410758cd0,F,64,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 60 a 64 anos,2,2
+07f7822e8ff42e5111290d274a3cdd4be500850a4bc0c66331883302662bd486,F,55,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1,2
+08a21fd1ad3eee1751a0a8e72a1ffcbf4ce17ae195f1085e7406430a086b900d,F,44,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2,2
+08ab0a9cbfedcb5a08c45c9be154c7fd01cc353991c82606a75699e75d92bada,M,59,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1,2
+09559bdc954187a557df5086d61f23a86ce72549aa0d28f40494b6ef7284c7bf,M,63,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1,2
+09714e24d7ba2d9b04b50f7f57e727c4ad1776261b66898f526e87cbfabdb9cf,M,82,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,2,2
+097a7e94e1096c82ca8d15ee69a5994f1a463c14de59b527b180f568a0d997be,M,60,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1,2
+097c2b645421f4abad07db76b1d151bf0dfc0fb48a2d87c0c6dac7c737478cf2,F,67,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,2,2
+0ae73de055f5b3a6b27823cb04f1bf166a0cc3598b87d8394c4e21d50d485b88,M,68,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,2,2
+0d3c20548a0ac85aed2bb44763d0facbb7f6b5c60fd01f2233b5fc6d500a06f2,F,61,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1,2
+0e6f2be2d98ff142d3ce00caa7cefff65cbb88ee17279e3935a36a3bd098f5e9,F,47,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,2,2
+0f475e2ffbee6a0cd26036c1944ad61d82504994d9665abe04f017b911061ec8,M,67,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,2,2
+0ffe6e03ad6893f8e01224dc374dc6b5f809e5843515837069e77f752f40a4a9,F,61,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1,2
+10ea0d69551b561612da3611ea97fc8d6509f1e481c6e52a3fa26af3e336d7dc,F,60,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1,2
+12096bebcb9a74142c76285a7c8a5b5e10a28960d84baf9f58d272f712095cc4,F,60,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1,2
+13329d4c9dd62f6f9856fb3c852a07c43011c2c600e40e61375abb26d9717ec4,F,64,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 60 a 64 anos,2,2
+13bb1f36882e9e1a3cb80897b7626be5138ada42d2c8c8e689c0c71ae618ebcb,F,47,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,2,2
+16562f4d0fbc944ba695a9d8c83e57fec777d0bd5efd62039271c18c75008803,M,55,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1,2
+165f64efc86970f084346925f84cf77ae8858b08fcec412fa1e5bf1da96f185f,M,62,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1,2
+188d710152fdd43464c3de7e8ac59baac6a3def00f2d8239508fcd4a42243db8,M,88,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,2,2
+1a8275da94b4c48e2f85fe61ddd5e9771d25aa6971fd2b5c3a5247e78a06c0d9,F,61,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1,2
+1b7193fe8c75bee9805be2db14cf7004a83b1a4e2fabf570f928a79c0d1307ac,M,67,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,1,2
+1c623bbe1ebe2963b0eab7d63360a321e78384043b3a3d62f26d52e9b31e7b9d,F,65,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 65 a 69 anos,2,2
+1cab53dc77319512be53b3da0155f0033bf253199c59c7b1b18bbae0464369ec,M,56,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1,2
+1d985ce28cbf876047bc44c0232763b261482140f65b430de4dd8ec04180b097,F,62,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1,2
+1ec1788720a63930ed2e402ebcb2ddf10c8e6ab5eb3f17e713f2f5a56dbf08bd,F,57,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1,2
+1ef8fcce557f79960028a7ea2710280b988cfd2c0047f2aeb2a4e6f457778101,F,61,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1,2
+1f3c05a986b1b8eae0645d5114c3c1f9521fdfa73f2bbe4fd02b2d0acabeefec,F,56,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1,2
+1f90c9aee29fc3e35f9c6dc5ecd9d05b77322abbf75dbdd99f7c8e90fc7085c3,F,56,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1,2
+213c8847360c8ef9186e6c979f43133adcd7193e62e15d19c307a23b211a817f,M,57,Vacina Covid-19 - Covishield,Comorbidades,Doenças Cardiovasculares e Cerebrovasculares,1,2
+21766f0be5e254ace7505e4d4711820ff7118995feb6b28fb66a3d92b80eed6d,F,57,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Básico,1,2
+24806db9ea339f839417c0cfbaf613b38fded687bd6e13a59ecdbe41b6fda5bc,F,47,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,2,2
+249b59599b1a417028022cd468d0878de97770e98fab7fa8a61550a3d5631242,M,59,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1,2
+2574d5629dc5170b100288651a021b3c505fd74d370e6f8ab1470deb1c5af4c2,F,47,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,2,2
+2618c0b7298f8c9822d7c80321b5b044f5ba55fc93394ab818ef7499b34c402d,M,57,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1,2
+2650b80eaf898fdbfe578d1b3d9b82071b1147936147caa34ff7d97b4f8d8415,F,47,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1,2
+27dd0ca498e7d131a25c7d50bf1e36376d0c8dc22ab416aae1a8a7a45f2523f6,M,38,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1,2
+286bebb81e7780b6253567b60eb78d835ac8764ccb369ead07ba5c144f5124ec,F,61,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1,2
+299ea0385ce241aec067420c1f9292937619ebe9b54b95837c7abe3a9c2df5aa,F,60,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1,2
+29b95a8075746f9330d69313d68e5bb4608e9c5d16455cd55c9274a5699b3418,F,55,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1,2
+2bcd59181c35897802a82d66687f301b1d46c3de28d31b223fd9ba154876a9f2,F,62,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1,2
+2cf546b3825663698029f4b809ba69f2c4509aa72202615345c20ed4b857ebb7,F,55,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,2,2
+2fb40fc27b6d1230ab46f309e1e64fcd5bdba872986c477bf22ccf6b6c7dcfde,F,57,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1,2
+3125095c25f5fcbf8aa88056ed3e422441e602cf6ecd7b41d185e9a789772a12,M,55,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1,2
+3141778e0b491af420fc4f4d3e8438a0a52894b795df19ea08da2e87ba3337cf,F,51,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,2,2
+321b43ecb992b333080db915d345288e9bfd5a10850a8841db6a88b2d2300e99,F,62,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1,2
+336bf5808df7c1b708f5c8a15a3e53cb474473c50dd4d7c3511bb24c2818b5c3,F,71,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 70 a 74 anos,1,2
+33ece3c6521d7b3ffee47b451249693864cd3ac479fe7cffc9d89b6685f41aa5,M,60,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1,2
+35154d2fd48ac9a8e1e1db1ef2ce9d12a1fc642d2498c65cf92b586ceba1009c,F,58,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,2,2
+35acabca3d9dbba929f6c5974ef9d6cf144b0acbbf9908f1889c207fdcfc538d,M,62,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1,2
+35ca63b72c35f439a1bb17659f66b27d5e452ae270abd61f0458b16836424983,F,64,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 60 a 64 anos,2,2
+35d5e283343bf6f66e7f547371a616cecd8a5d8b1af715c7d2f9e50c01908130,F,52,Vacina Covid-19 - Covishield,Comorbidades,Síndrome de Down,1,2
+3617d79b42e233119b5415ebcb4e9bf7ae1a929dbd805d3596180a80241b8ca5,F,52,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,2,2
 361d986d9c7351fdba64b3b063617864856f75d71ba4c2d5f59974915a98e13d,M,25,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1,2
+37130525bdb2f6bc2033f6b14a325a50406d5d3f9f1ad85fbc191f2164c6b622,M,64,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 60 a 64 anos,1,2
+37f753fbc0c03342c78e154b58b22b2b67c98132d3d51814468a612550147c32,F,67,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,2,2
+39623bbc3e3e316c07e5311d5456274e45eab24b4d96ef22d4db4ddc85095347,F,66,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 65 a 69 anos,1,2
+39892a51390e46150a9af0c8c2f4fc1b9d8df7edce16d71722ff3e880a3c0192,F,61,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1,2
+398b2a7064efc94cd25d0fbb138b63b5d55b884de72df3db2942159e7bdf4642,M,67,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,2,2
+3ac1f785fd1788abd5900385cabd6834f2ea642ed5ee60bc24689ea4423d7c0a,F,77,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 75 a 79 anos,1,2
+3b6eb9e46ced7f3f7cece3f488321143095184e36d8635e8e77e0a99f9eafbd7,M,61,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1,2
+3ce0691c6dd8a63880f162b6b77dc5fef77cd1d0949318b65bf06edb71d6dcd6,F,67,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,2,2
+3cff8f882f6ac245a75e190f074cfa8772647dfb17cb8b5e8c89a1ba068770aa,F,60,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1,2
+3dba685d2bd728db7ccb51b36a55cd9554b24615fa8f52b1c737f7782fcc07bc,F,63,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1,2
+3f89fbe7f06fa7c2b6929379895b3a3904b11f76840f1eab318417a46d0ddfbe,F,56,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,2,2
+3fbea2c0df2412ac3a94da39b3e3ba5beb7975365a31f426f0acbb25eb51f09d,M,59,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1,2
+401b8f725105facab946be32def9f3c02adba46d0c045ef02569d689406fdf59,M,67,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,2,2
+406d01e7d6fba100fe0628282c163658b6b8bdb36314bf54aac1d47f0b0480fa,F,62,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1,2
+40b83fdae98de881be46831eb0dc886cd4d2cd9c52cfd427753330c2048f258a,M,59,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1,2
+40cb839b6928b6b4a03258527e61c8e367f3db4201b2d2aa6af65f64f6d86644,F,53,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,2,2
+427fe8d98026923937ca52ad8351cba24f9c9dc9b16269fcc4020cbea83b2811,M,59,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1,2
+429ce918fe1075a93ec860382146503b36664f952e65e2a4cef586300fced7d2,F,60,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 60 a 64 anos,1,2
+43bc8dd70b39de4f75198e84db50bfa16e419cc08283f2e4e2e589e19b839df1,M,64,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 60 a 64 anos,2,2
+442be9505d2f0d0cd82b988a8064ceb9f6d1b51f2f85d438f2fb9e45a8366172,F,49,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,2,2
+446ed6323b358763064cad288d08f3253656cf850c16247929d519bd07a1a493,F,48,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,2,2
+44e21ed07c1d0c50cdc7047bc8b5872a1d8c212a9dc3bf854d1fe75bd43b8e68,F,46,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1,2
+4584da3c00975fbe3824b4ed944a52ca1aabc7f63de14b0f0c9e8e255b36b807,F,59,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1,2
+45f2a482325fadee77a38bf3815a9240b928f3b9bf18adebffd2c2181c492e4b,M,74,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 70 a 74 anos,1,2
+4653d6a54354825fe4b9933533979ea8ac234c94c64fb88132668c2090144075,M,64,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1,2
+46d4bbb5a41c35b0738d7320e316ef31240297c49551662386b7b6456177a5b3,F,61,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1,2
+472fbc5d89d8a8d3c80805b4c980c9a84430f7f6f94d1b06ae972e4324577071,M,58,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1,2
+4795fdd92c5f464aa2b68649a114ced9003a19bf61b328bf4a7bb73bf1d89196,M,61,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1,2
+47d5518804c5e49e5967b08071d16352019489ac9272b19d12ddd2ebad46cb2e,F,61,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1,2
+4a29db35c48c531d329c048b0a78fd61f966ce24c8e9e3310ce6b81440e21b24,F,73,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 70 a 74 anos,1,2
+4c403dc79287f3edde37f99d9f15b941ae40629a6ff6f8cdd594a4d1548bebe0,F,62,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1,2
+4d7bb0509b5fcf8c10ed51b2d18fead2cda5ddf61f6e1046193b446a1f82e7c8,F,59,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1,2
+4db5807205ad84a50fb74b755f627c1d0ac2448ee9cadc912a0b3ec85ffecc50,M,57,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1,2
+4ed2f89b9106a8edcf0b7962178125a1f32c9521bff1af3c2cba497fbdc18802,F,60,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1,2
+4fa426d4d4efa4d6745fd7474c53c48b384e8292c7836f4d1c5a1ed68f6fa251,F,61,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1,2
+50cbda964093a462cefde9496d66fa4403931b910d01396ce9be158e6f97bce1,M,60,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1,2
+516f7c3f5a38b6be955388ad2cbb4340053ba54aadede16d989c0c21155c3b30,M,56,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1,2
+526836e35d7cae3b2b15b7c068640aec599b802d9d9497006242355718fea2f1,F,67,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,2,2
+554147456bb11b6ccfc7b9114125a1b19ac287c150783dba7ef1d4dc33a4246d,M,58,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1,2
+571a5bb7be50e992da78eb3cca56f0c724369b655f672e92e6b394113447a13a,M,58,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1,2
+58e607316e0d51c1f2826c0f225850c897694646d8d107ae1462f77b6d810f97,F,62,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1,2
+5955abe926369fe82fdfcccbb5680345ca798080e467944ba3596ecb9ba3cde2,F,59,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1,2
+5b6f35ea7318b32abee6fbb3cd1d0b20afea8cf9eccbb0665d3946540c93d145,F,48,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,2,2
+5b7b9a74c057b8cf08a6f11834b5e3101fade4c7de75a1b3919ba90da4e4d3c7,F,87,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,2,2
+5c621a358ec621252b2a732457e3542b197be5b9e17afece90c5377bef45c64a,F,55,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,2,2
+5c9d50f649686fc1e23382d5669bb69b8e40252590e73aee78a7d6e3210a6ac4,M,82,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,2,2
+5cc674fbe9f3d6a5f3594d624dda7a1cfebfbaf78fe959d4a2132c1805666098,F,59,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1,2
+5f1980bdf84ab96a64689f3114e5260c73c465c330c3750280e6506193b7335a,M,69,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,2,2
+5ff4f9aeebcb69feb95fb16e8ce2c9a01b4db394c7e87dfadf9c9b9122d8fdb4,F,60,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1,2
+63f5fdab53440542c57cdfd5feeb9b15acf16149e1548c4f26787c484f45d1a6,F,64,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 60 a 64 anos,2,2
+6532e245d0da5bcebeb9d12362ce6fb514c22d51b80ebdbb0c305f1b5cb923f0,M,57,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1,2
+65f09ce35a0c210948186ac207edba168df5621b45fee1a1fa15c5f25ad64ce2,F,53,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,2,2
+66d4b02b23595309a58e3aadd23b26aa88525dcd4ed188552cd516c0269c133c,F,58,Vacina Covid-19 - Covishield,Comorbidades,Doenças Cardiovasculares e Cerebrovasculares,1,2
+676a3f511d0a33f122cb5cbf23d08583786348730c4114b1811bff8822b934d4,F,60,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1,2
+67f1d609d5fe2cfd7b8e45e989822e9ff2fd2497fd838fb8ef7d79b14616132e,M,68,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,2,2
+68232f868e67c45277d5e7fe393f69da76454b4385d022ab33d4f575fda492d3,F,62,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1,2
+68389adcdecb341be70df08d311e107b9cdd37622c2e7d5242f434435dd48d8e,M,62,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1,2
+69ec90d855620c3ad9a2145c11e21b900b908153541165fbcf943c17f681730e,F,59,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,2,2
+69fe32d41234cff59a1c0052e2af1b77dc9e2071cc2084073986c4a1d0b87d0c,F,48,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,2,2
+6b39272acef82ec99cc1113a2f69d19b5dfec0ee971389891c75846c0834acdc,F,59,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1,2
+6ba06b9fe6d30ed25cb928becf7817125526d722c8cc7211e925b47ca0e44d4e,M,36,Vacina Covid-19 - Covishield,Comorbidades,Indivíduos Transplantados de Órgão Sólido,1,2
+6c6a9b263c59ca7cd901a8438a1805811a44c2908456b9de90f8aea1c401ab30,F,65,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 65 a 69 anos,1,2
+6d88b6539dc2fb500a7b238772cb5aaf7ac6603974572a1a3c67104da2c72091,F,57,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1,2
+6f77f8c4cd294f720779dd42c7a465bcff27cac09ce45e1e1fc61833c79d5696,F,56,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,2,2
+6fbfc105a38c7b48b208b9d296564ea2d56628995b71a27e3dad6f7e436740ab,F,62,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1,2
+6fdeb627796913723bb0c4007717285c37f438a008199d7a4b06c3bc41e9387d,F,59,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1,2
+6ffaab2fc8b50911b86260eda10f1e23efa06fcd1a4dd5026a0261ad611bee25,F,62,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1,2
+705d5eb3a061cdfc604807e1f5b05fa08a4519cf62e29fb013fcfa1ce8617df3,F,59,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,2,2
+70b767c1478b12fe939a895f9334f3ca6a06ab34475f908673eae34a8bf83035,F,51,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,2,2
+70fa05b3af964494e37670d41153c387720b73c6daeed247093691fd79f15cde,F,52,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,2,2
+71dc974a027ba635a77e85f3d11353c86ad14cd7ce4a42e5e0ca5941f02e2f91,F,59,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1,2
+71ef81994fa8d2b5826389a5b5e4acba9850d548e8c32798c9b5adb889841868,F,59,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1,2
+71f23d4d100f754d1c4cc886d7ce0a905c96f647109d99049b0b451d87117ff7,F,61,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1,2
+72101385496e5fa5ac3fa43b6fc3cd0ab94c8354fbdd33ff41d67ad828b61bfe,M,61,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1,2
+749ee570eee6dedd84c35e4832be4ab4899ed22df47eb18bc0df78a5008471ce,F,60,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1,2
+7661ea2bf551665c2225a270aa7db639aeebfc952dddc787d18846e9c2b6df71,M,55,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1,2
+772cbd941133bd56cc82c47cc346291fa6ceb1e134a890066809ce59b7319902,F,52,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,2,2
+778135de74418313f0d4dbc3953c7f526f58487d6ce3d2d6395358750414f2bb,M,67,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,2,2
+793b32795b348ffe35d42ee8c0c672e3818d51dd14dd6ad86c12dac2bad17946,M,58,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1,2
+799b0ecaac57b1a0b8a2034d788e1cd1de995eba90d9d3e679a2ef79f126072f,F,48,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,2,2
+7a4e7e9ffae66415acee5a63f4ecf9ef5be7da2e826b4bdc39c09723a0af9ba3,F,67,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,2,2
+7c011499029c0676f51ba6d6e36ee0f9f640654816044aabe44a9c590f747424,M,60,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1,2
+7c343f9143aee68f1f56bf727f06d121105838a13eca7d3320283620729ac250,M,68,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,2,2
+7c6ff5fe7e48b9333a124270e58a1f5052a19bc3c43ff0a50beb5e3ee1aeb2bc,F,62,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1,2
+7d12ac6882e4b8baf149dfdf3fc415b576cfc6764221c7cf2fc0c110e45d1fca,F,52,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,2,2
+7e05c71567fb512249001e69d6e24f20ac63e5bf78f3056e684e06abc750727c,F,59,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1,2
+7ffd1a358661a5fb1c6d1357317d4f561152d101729dab02e1155edaf6762f1e,M,60,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1,2
+8107583dd96fc3b7cb2f1dbec0cf0ab1bcbe54c809e8f8a2d81e3d12e498fd3f,M,61,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1,2
+810ddbf72cc57130e9eb1a91f03a1df6c67a8a573ea76a14d54e4e2f9a4acb41,M,61,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1,2
+8294441d0e2f26365a6c1ca3075e9b23c5c1e75f8e917e55dc44ca86707ddedf,F,62,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1,2
+82ac7ef1e21464d533746244f402228d863adddc7eab73f2a75bd2aecdcb10d3,F,62,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1,2
+83662ab4c2dfaf9969017c52d6098f47e71d597f4780431194e34384cad5ccb3,F,58,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1,2
+85cffcaa3d726dece145997f1307f456811737dafa788d3053048f98dc5d058c,M,50,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,2,2
+877997e92607964ff9338aca1df10383e95b20ec32a0538a4797ba9b8d50333d,F,62,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1,2
+89883660d778f53aa79ba9f17a89ce8da91faf650b61b19f75e992be84a337a2,F,56,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1,2
+8a28664412c87706d7fc118e3b93e3262ddefc6dec642f4cfb585e6ee5c95773,F,60,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1,2
+8b9433271707370868c99ac3f56e8847c661eaca09be644d89ce73f06149018f,F,64,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 60 a 64 anos,2,2
 8d8474672bfbfa155d791ee10438c7509269569da719b0c304c4b2fe37e34ad2,M,27,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Síndrome de Down,1,2
+917bc338db4a13437186de861b12dc36b8b1b354b02a06d3a4ca491d886b3da5,F,49,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1,2
+93de64dfe9bc7225dde8b2ae99252fb9599cdd523eb62298b702e94b1b9e9ff1,F,54,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1,2
+95001d3457891fc233eefc82990d0fe744e497d75c45f8471317aa41ccd4617f,F,59,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1,2
+95dd5be42c472380a0e51c19b5130781bc1044ad02be72bd942efa5874a5dde9,F,62,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1,2
+96eb69a2229672c3c04b94f154a4a12523856f81cbc27652dbf8d3e86b792e8c,M,55,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1,2
+970312c0248c69fefa6c38f07c6cbc2e081f217ec895ad49e28102b9d6bd5de4,F,61,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1,2
+985aeb9e6b210f1951ccd04cf4e95b5c6c9e82c349fabcbe569ba40e3a8b885a,F,62,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1,2
+9931c56e6a79333411beb80385790d571d04e21a47bb9ddb21652bec90c2838c,F,60,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1,2
+993ec2d4c78eb07e162cfaa64e03861eab28e67723630ecb5eb2cbc70f0bd775,M,58,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1,2
+9ac67616db80a8a285bc55d84d214611781737d2f453d79747fe161bb874ceab,F,61,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1,2
+9b219c69339641fb22ff42a9c3ef63a71fb1aa476d5884ae2d5fac747c60244d,M,59,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1,2
+9bccb6255574530149bdfcbc6eca4e48b89725347438a9318845e44f3fc36f89,F,72,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 70 a 74 anos,1,2
+9d6d58c5957d25cee332cf04b1e42057eccb4cb7e306f77011faebd280e95272,F,62,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,2,2
+9d998018ba1c0730f553a4ac008c6042f990a801347b2e12b70bc28b5e87be42,F,58,Vacina Covid-19 - Covishield,Comorbidades,Doenças Cardiovasculares e Cerebrovasculares,1,2
+9da6d1325474eff2a7debe97a4f6b8e3a5e5ef044f0f812708bfcd0d34e63e84,F,59,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1,2
 9e69ab825dbf30fbed8dc6b5a1056e445504c8178ce9208c4433b44f8ab5d926,F,20,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1,2
+9f6f487c6a74fda2f6da23229c478a7be43ef98ede4f31851eb29bf1da31ad33,M,69,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,2,2
 a0b8191bc9ab1f6832797de823db5c0c8960ae3b7a222f0a8a1b21c4a1b76fe3,M,29,Vacina Covid-19 - Covishield,Comorbidades,Síndrome de Down,1,2
 a0ec085df7ebc5cc6091d457cc7815a42c7c9c8c7b0485b77322b1b4963dec66,F,21,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2,2
+a142047c86999d24ae11195252977df1d1115228929f8fe7ae4cbb6f8414a36a,F,61,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1,2
+a142ed939e6474d1e74497831eb27e10d2fae49031f74d4d84f64bf20ead70eb,F,68,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 65 a 69 anos,1,2
+a1a587b22eeda294f872f9e3175826b00870794c6d30d4364829b566cea1daca,M,62,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 60 a 64 anos,2,2
+a1c774e0be1a04d2c4a9da04b91bca29e4071634839e42ed79d922d1ff5e4a04,F,62,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,2,2
+a234fcb3ecf1ff2510be42596e84e5edb0b76ff0f024ad801e326e31e4f403b2,M,60,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1,2
+a3896aacdd2f7fa1c0eb7b563acb2533387326441dd99561699e5052250339a5,F,53,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,2,2
+a3d76ce4ba9b7d7f88aab2cd0887bfc746980b3ab5eadad2ee15a194b9ec4a00,F,67,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,2,2
+a44d8228399aac7f15d1d12dcf04404128904b078e68effe4777563835880401,M,57,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1,2
+a4ad7219100835665247a7c7f4e9876e28da45e34ee7ff748326ee18a7790e6c,F,86,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,2,2
+a78d6ee312d73142de1557a9b0d58ed2f9ec3afb1423e57450ce0635f2674561,M,61,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1,2
+a7acae8fa286fe2ce8e52f1f94705e2caabd36abb3f97da61dc2570bd7d2e5e0,M,60,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1,2
+a7cfda4fbbacce866b8c580a9c326ffa524a70c1069f3786a6e17b1ba765e94f,M,61,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1,2
+a8755c53a065a29f870b1a094271291a93d78ea9f49aaaa7209b6c8b3df0072f,F,62,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1,2
+a97fc0db8ff630559975596354b838e0fcb2010bd9dff3a4937299fe4dcebd54,M,50,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,2,2
+a994c0492f511740156f07138972155d1a3c2d367a41fdad6ef22d79b17f8657,M,57,Vacina Covid-19 - Covishield,Comorbidades,Doenças Cardiovasculares e Cerebrovasculares,1,2
+a9a0113828f1e8c9e4db1e02b5a90e481eb7ff3d78f952af42e1de419c0d3acf,F,67,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,2,2
+a9efbd238e1798ebf8facd9178e125dc0b964642a16c9672fdac70be884b4b86,F,62,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1,2
+aa30d2f673cda896b6ad505c6905c8fe51e15fa6b7a996f88bc300b7e4679865,F,89,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,2,2
+add49343f00ed16b3a2fc725013efa1d373c27b84440e4bd34c321ef399203e2,M,67,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,2,2
+ade8020143d511d2348b570d50d0dc24949d4c6ff7804824b16dcf5e99d1dc22,F,51,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,2,2
+ae59ff5de5e5845fa192ab2386212a6ed97aae8e1f494f75190d012f3796d69a,M,55,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1,2
+ae5c8a31078feb337216bf624af3d03cee381a3bdd387f60ad049df502382444,F,64,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 60 a 64 anos,2,2
+af0f6b7109f6315d414ee7396db68b128c10304ff9e3664d3c3547963b2d529c,F,57,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1,2
+af33172a765d49b13b3271df42fcfa7521f57f7a39fda6f23d54b35823b58216,F,60,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1,2
+b24fae2e234223a7bb1ee7eecc977fc433f6c8a446792e3e4c37133474f9f2fb,M,67,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,2,2
+b31f63cf929b13e8b812f8b699dfd87682705fd00d4f374d9856fcd447d8dcd9,F,61,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1,2
+b3ddd0f490abbc82431282117d32b43845ee2b5ed195958444c7fd7cc220923e,F,60,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1,2
+b3e7b98c6737ad12554d9d00f3dbfeb7d2ee7a0cf0ffa55d898a1249f20ade74,F,64,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1,2
+b94c7cfc786136a2777dccce90b0b8ef69d0bb26741d6434860f65c70c269fab,M,56,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1,2
+baf0ee66169f2b8d0f70c493bd393452f05d3f36ac9ac15fb9a6f69a66d29a4c,M,61,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1,2
+baf121ce0c018c1ea541bd5b94a55513775442652171571bd36e562f2e14efa3,F,59,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1,2
+bb29a4068d78eeccdc47b5150ba2845185773f1a06744fec6c623820410ea6b0,F,54,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Doenças Cardiovasculares e Cerebrovasculares,1,2
+bc5ee24ac6d30db051691955c630747ae4485e1c24dec242a215243c496658e3,F,65,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,2,2
+bdb6e29238b6334d62e83976797a659b94cc6da15914a281197bb702ab60c2ab,F,57,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1,2
+bdeca077c87710d5db3b7969d5b5b49ae59c566559b4f99f7949e74e299ce6f3,M,60,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1,2
+bf9e105c2ae7d3f3e1a591458b2c539e5d830bcff96eb66783e040b6bb10cef7,F,57,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1,2
+bfa652f555fa0e581e83311f907f98609dbef4308268ef265c4aee27c46f30f7,F,74,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 70 a 74 anos,2,2
+c03517263a0ac8e5c42f465b4df9c24716909d2b8489294a756a5e67a082904f,F,56,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,2,2
+c0b3382f4ff984dba8edb258f1502529f738aaac1f23bd38cad03e640b9253d5,M,61,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1,2
+c1f5ae3a14613260b4519c6dfce4a2330246201ccbf09bf861bf012c921ca167,F,67,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,2,2
+c2e2dd9ce9133387ac1a383681c73042c9a15ac4b01fc820a6e1180d16d63d08,F,62,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1,2
+c521b245162b7e3cc605df931c5ace47e59bb657909cbb48d81e7047ebd72c77,F,61,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1,2
+c5d12e14e59ab2a4715571dc0838ef3ffc7390006c0a15319d6469395df5bfa7,M,60,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1,2
+c61ec634ff19fc2e9e048acaeb2ed597d9486c43d4e5c3b0677edb271db895f1,F,53,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,2,2
+c6b2c1499e9a937d95f869db30543139545f263fba7dc28b346a23aa2b59f67a,M,57,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1,2
+c9d7ba7a66877cfb3ce89adfbd62d1f3e02969fbaebaced0d39d6f553fffc2a5,F,62,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1,2
+cac03983c0cfd77975c5e57d1ce196d46dd41e8b1f05d99280e31e84f9c6352b,M,61,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1,2
+cae2bc09af1c3cdf00aa87e63e30f5c914bec42cedbb2aace4b6ccbff7630697,M,63,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 60 a 64 anos,2,2
+cb13c26951fb79d2780eaafc5b85b26a5fb8972911b6d0fe3ee3bedff99d9435,F,51,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,2,2
+cc93fead9fd4287ab8d11ce93d04ff3f0253de5bb6b3161616e4aba7ab23cbb8,F,60,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1,2
+ccb7a9b8232f700078ca6c68a08aac97bc11f605f6d2c3df77c6d4a95c62fc5d,F,63,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1,2
+cd2a142b662c7ed90e1226897bb9ecd96fba18f026ed61d621685c4cdbc6e4c8,F,63,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,2,2
+cd56bf74ca1e5b29858439348c7b2821ee9a3622a4793be6c28adc52e64952e6,F,49,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1,2
+ce0b4304c5ccf5f1eaff8c7f375872f9e4e8b911a3fcca4ab8afea032f6aac90,M,61,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1,2
+ce8d1a32414f08069ec5905ebe1c21a197a2793280c4ea5da636bd66a8eac7ff,F,57,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1,2
+cf26c347dd144f3ded2440c25fb556ddc886b898888f9082f3305303c7c1c8d2,M,60,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1,2
+d30b10377202095339ab450a439f706ea5d455fc9ed5ef36fce9789f8407cbd2,M,62,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1,2
+d36ff4116b1787910f7b2fcb100bdbbdc025d9ff1733f15df3ef12cbae0591c2,F,55,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1,2
+d44ee0846a0b942618b197f2499d69a598287f40bd62a9526da748c4fd9c80ce,M,62,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1,2
+d67f9711c8cad28b4780bb248c775ad9bf61513f37efbc3fd86cd1176277cfe1,M,55,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1,2
+d73a8a53f237447577109aa07b9dd72affcc63c4a11ce37caa9d38f008ce6b1b,F,50,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,2,2
+d7914f289b16d7e24c337ed537259262ca1d63148bd8bcae5f007bb075cd2cdb,M,64,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 60 a 64 anos,2,2
+d7f9e3a2625de720978071c06d057fb058e5db1211e30cbe35b9ac4e830fea4f,F,67,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,2,2
+d946eecb804b2b42ca61626e34a8a130eb7703f5b4d23d8f124ad197bd32fb4c,M,60,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1,2
+da06bd56fe35c6f82663658a820d56f082a3d83229f6d2391fdeda4c3a18ffa2,F,63,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1,2
+da8525e6e27fbeb0fbe22fa9870ef3fbf5c7d31a5f6b9664338f668ccae16021,F,67,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,2,2
+db47cb31544cc304d8acf4ba7b48063281fc922429cdf93f8a0d6b0a84f26577,F,56,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1,2
+dcd9354ebcfbd9349b6e36d8773d6c3a4f5944336715858a28a52beaa0097054,F,59,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1,2
+dcdca5db1952e3967b9a9d579d3bd8e4a0f9e3a6611f4c428b5d14378daf42b2,F,67,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,2,2
+df4d1e42778eb471e943188df1400e871dc5821066cf35d64ff5705de0b4accc,F,65,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,2,2
+dfe6d548292d0ab7c044f82b8ff54c467d7526ca6b425118ad89a4879983d2f8,M,56,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1,2
+e002a0f6c5aa26fdba7ad36e06eb8e01a873443645cd26aabb411d10e24f46c1,M,60,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1,2
+e021ed607f9d5797f194a2346b9d220accfd8981ca1c43ddb61a0b7ae7043264,M,67,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,2,2
+e0356e013584b1b2ac12d81b5723ad83d4ae9a6463ff1c530524d0aa859db6d7,M,43,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1,2
+e0c1968ea349a0464432878019ce10c18358560db75edd4054dd11dd2f40706f,M,67,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,2,2
+e172c47899b46440561486503c56ab22415b56d781622d535053e1e67defe53d,M,65,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 65 a 69 anos,1,2
+e18d4430f75ce7a396692fe477b0084485d23e3d228b4668c16853aae7f38131,M,57,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1,2
+e49e3bba700e0967908da14c0908b881d72763b31c8f1056d765ea1fcb70c71b,F,62,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1,2
+e4b905568e843bf400b2bc88842882cb2da959ea81b258b3a25704b62567671e,F,63,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 60 a 64 anos,2,2
+e548ace0c0191070b3dcd5013a59d22190304c104482cb61c7453c18e04c6c90,F,56,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,2,2
+e661f1b0c10f345163ad107f00c0634fe73895703671204f67eb37498546bff1,M,57,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,2,2
+e79f3909341bd3daea3707d3215ae13c46e6c4c3491ca827ef51794e7dda7108,F,64,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 60 a 64 anos,2,2
+e97f0ec196e07dd70dd8cb9cc79810d37c2f29d07862d1c1f09bbe6867f2f6b4,F,53,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,2,2
+ea661fea19a4b1c7a65fd5e78b06e0707f5929f76e77688d86bc90df1774d3a1,M,58,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1,2
+eb2ef302c0546451976eb25750feb8ff108c74bcfedc78d99374f581465831a5,F,58,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1,2
+eb3bd651b34d5604e846baf7316a2eb3c0fbb092b1c2c733de605840db9ecb18,F,61,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1,2
+ec00095f9d89905501d7ae2e90b3f6ab729a65710ab3b46de8f6b142006f451a,M,59,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1,2
+ec280269a0e69a363cc31202fcce8f7e90f1144ac3f3462434554ade5f50ba96,F,61,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1,2
+ec3b62f37aadf5f2daaef0bbdc4af6fafb553556ab3f52fbc4cd1dcc6a911235,M,59,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1,2
+ec55f4d7ff6af8a8e43c85e42f27ee2a1b81f57c52370e4a315c2e674f25dd02,F,62,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1,2
+ed9247bec95ba289172a62901a229dd2d4ac49ae294d6015b65c2db0980b176f,M,52,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,2,2
+edaec58cbdee874b5a439c19c67899a66ca7b1865b1b0664ee50aa90f08819a9,F,62,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1,2
+ee4ecd6afc18522e561744e2558fb54feaceb7b08498c048139147e75011d7c3,F,47,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,2,2
+ef05cefcd888bd2a443604dd9e55a923b4ffec9da5eb1df7109a353f43139cc6,M,62,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1,2
+ef5cf5d15d4e4b0d46f70a884f862a71071405ba0829db5740fe0a47ba8ed263,F,54,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,2,2
+f08ae248c2317836aef918eb3a5387cadad0a23f16afdfe0658c87c2667df530,F,55,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1,2
+f0cf532aacf6290e1036903b8777ffbf8d4565b67598f1b5e7b4083e3c69259a,F,64,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1,2
+f1411b1db39ab33222360ef14a5d6b2e23a3aa7dbb532b2b7194707cb269dcc2,M,62,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1,2
+f1e35310e33dfc418624d635ffc3898af138066f8cfd794ce32f42354700fd18,F,61,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1,2
+f209b8a801e34036fe9c695c997b3dabe73f92fc7a1fed3edfc92eae05a3695e,M,48,Vacina Covid-19 - Covishield,Comorbidades,Indivíduos Transplantados de Órgão Sólido,1,2
+f39b1e54f4e76f50b7d05136935975cf4e4730af5b4c1b19e98f1bbc6941e90f,F,48,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,2,2
+f5bd1f9f6480b921199077ae4bac996fc1e19348a61621f15800700c350ad7f9,M,62,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1,2
+f5e7361b9ce8c5ae5acd8fa8eb948d510ada4e856e1ff155a80879947d37b940,F,67,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,2,2
+f6bd57e247dfe93a30c32d131e66be8fdb1b180b40d890c91bbcda356ee31d52,M,67,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,2,2
+f6e3a516a5fb8a33ea1d0de5cb83f1350c4e09757bd6fe9c00a5ee17df9772d4,F,79,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 75 a 79 anos,2,2
+f761604f24cf355a39fe0f46a9fc55160c389084bbf64d14db32504cffd4eeb2,F,39,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1,2
+f8605247f3ae1d22818cb73bdd432d092fb4df17e79ca58dc36cbab36546eeca,F,49,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,2,2
+fa8b9c8b21ba9a5540d131e6984ed72ca01f18759a4d8c0ccb88b48b89c4f705,M,61,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1,2
+fc2e889533611aa440f8b60068a4ffbe7fcb14650045698c009bd268b21fd306,F,57,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1,2
+fdede9259467df2360a6d7ec96612dd89b6150432c6282643c8c3ffcc487dcf1,M,62,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1,2
+fe4103148c0167ff93a6d9638587cd222b2f242ca1e169edc42ee753750c822e,F,51,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,2,2
+ffdf2d390576f82e7c4c4a0395fcb2ce489ce716a906506f090b3cc5650539dd,F,90,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,2,2
