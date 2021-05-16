@@ -6,6 +6,7 @@ from interfaces.repository import clone_repository, commit_and_push
 from manage_files import update_file
 from time_format import hours_to_timestamp, timestamp_to_date, date_to_timestamp
 from treat_data import detect_missing, detect_wrong_date, separate_by_date
+from multiprocessing.pool import ThreadPool
 
 # update local repository
 print('Cloning repository.')
@@ -59,13 +60,22 @@ def select_dates(uf, update_all=False):
 
 
 def update_data(request):
+    pool = ThreadPool(processes=8)
+    futures = list()
     uf_list = request['uf_list']
     update_all = request['update_all']
     commit_msg = request['commit_msg']
     for uf in uf_list:
         for a, b in select_dates(uf, update_all):
             print('\nDATE: ', a, b, timestamp_to_date(a), '-', timestamp_to_date(b))
-            update_for_dates(a, b, uf)
+            # update_for_dates(a, b, uf)
+            future = pool.apply_async(update_for_dates, (a, b, uf))  # tuple of args for foo
+            futures.append(future)
+        d = 0
+        for f in futures:
+            f.get()
+            d += 1
+            print(f'done {d}/{len(futures)}')
         commit_and_push(commit_msg)
     return 'done'
 
@@ -73,6 +83,6 @@ def update_data(request):
 if __name__ == '__main__':
     request = dict()
     request['uf_list'] = ['SP']
-    request['update_all'] = False
+    request['update_from'] = ['beginning', 'last', 'few_last'][0]
     request['commit_msg'] = 'Test update.'
     update_data(request)
