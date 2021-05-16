@@ -1,16 +1,16 @@
 from base64 import b64encode
 from multiprocessing.pool import ThreadPool
-
+import sys
 import pandas as pd
 import requests
-
+from pprint import pprint
 from SETUP import QUICK_TEST
 from time_format import datetime_to_str
 
 if QUICK_TEST:
     MAX_SIZE = 3
 else:
-    MAX_SIZE = 10000
+    MAX_SIZE = 1000000
 
 url = 'https://imunizacao-es.saude.gov.br/_search'
 username = 'imunizacao_public'
@@ -23,8 +23,8 @@ aggregators = ['vacina_dataAplicacao', 'paciente_idade', 'paciente_enumSexoBiolo
 
 
 def get_data(uf, dose, date_A, date_B):
-    pool = ThreadPool(processes=10)
-    ages = [0, 10, 20, 30, 40, 50, 60, 70, 90, 110, 1000]
+    pool = ThreadPool(processes=20)
+    ages = [r for r in range(0, 90)] + [1000]
     futures = list()
     for i in range(len(ages) - 1):
         a = ages[i]
@@ -35,6 +35,15 @@ def get_data(uf, dose, date_A, date_B):
     data_parts = [v.get() for v in futures]
     return pd.concat(data_parts)
 
+
+def request_data(body, trial=1):
+    if trial > 10:
+        return None
+    try:
+        r = requests.post(url, json=body, auth=(username, password))
+    except:
+        print('Request did not suceed. Trial', trial)
+        return request_data(body, trial+1)
     return r
 
 
@@ -89,12 +98,15 @@ def get_data_age(uf, dose, date_A, date_B, age_A, age_B):
         'size': 0
     }
 
-    r = requests.post(url, json=body, auth=(username, password))
+    r = request_data(body)
 
     data = r.json()
     if 'aggregations' not in data:
-        print('Could not get data', data)
-        return pd.DataFrame()
+        print('\nERROR Could not get data')
+        print(uf, dose, date_A, date_B, age_A, age_B)
+        print(data)
+        print()
+        sys.exit()
 
     u = unroll(aggregators, data['aggregations']['filtered'])
     df = pd.DataFrame(u)
