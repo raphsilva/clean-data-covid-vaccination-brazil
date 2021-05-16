@@ -1,7 +1,7 @@
-paciente_id,paciente_enumSexoBiologico,paciente_idade,vacina_descricao_dose,vacina_nome,vacina_categoria_nome,vacina_grupoAtendimento_nome,data,dose,contagem
-003529725668b2f2e78ae41e21b8f11d94d85ba1886308985789bbb2e7b35b05,M,21,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Síndrome de Down,2021-05-11,1,2
-361d986d9c7351fdba64b3b063617864856f75d71ba4c2d5f59974915a98e13d,M,25,1ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2021-05-11,1,2
-8d8474672bfbfa155d791ee10438c7509269569da719b0c304c4b2fe37e34ad2,M,27,1ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Síndrome de Down,2021-05-11,1,2
-9e69ab825dbf30fbed8dc6b5a1056e445504c8178ce9208c4433b44f8ab5d926,F,20,1ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2021-05-11,1,2
-a0b8191bc9ab1f6832797de823db5c0c8960ae3b7a222f0a8a1b21c4a1b76fe3,M,29,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Síndrome de Down,2021-05-11,1,2
-a0ec085df7ebc5cc6091d457cc7815a42c7c9c8c7b0485b77322b1b4963dec66,F,21,2ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2021-05-11,2,2
+paciente_id,paciente_enumSexoBiologico,paciente_idade,vacina_descricao_dose,vacina_nome,vacina_categoria_nome,vacina_grupoAtendimento_nome,dose,contagem
+003529725668b2f2e78ae41e21b8f11d94d85ba1886308985789bbb2e7b35b05,M,21,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Síndrome de Down,1,2
+361d986d9c7351fdba64b3b063617864856f75d71ba4c2d5f59974915a98e13d,M,25,1ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1,2
+8d8474672bfbfa155d791ee10438c7509269569da719b0c304c4b2fe37e34ad2,M,27,1ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Síndrome de Down,1,2
+9e69ab825dbf30fbed8dc6b5a1056e445504c8178ce9208c4433b44f8ab5d926,F,20,1ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1,2
+a0b8191bc9ab1f6832797de823db5c0c8960ae3b7a222f0a8a1b21c4a1b76fe3,M,29,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Síndrome de Down,1,2
+a0ec085df7ebc5cc6091d457cc7815a42c7c9c8c7b0485b77322b1b4963dec66,F,21,2ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2,2
