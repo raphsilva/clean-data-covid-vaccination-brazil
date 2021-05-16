@@ -1,0 +1,484 @@
+paciente_enumSexoBiologico,paciente_idade,vacina_descricao_dose,vacina_nome,vacina_categoria_nome,vacina_grupoAtendimento_nome,data,dose,contagem,0
+F,4,1ª Dose,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,2021-05-10,1,1,1
+F,4,2ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,2021-05-10,2,1,1
+F,9,2ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2021-05-10,2,1,1
+F,12,1ª Dose,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,2021-05-10,1,1,1
+F,15,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Síndrome de Down,2021-05-10,1,1,1
+F,17,1ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2021-05-10,1,1,1
+F,18,1ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2021-05-10,1,1,1
+F,18,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,2021-05-10,1,1,1
+F,18,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Doença Renal,2021-05-10,1,1,2
+F,18,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Doença Renal Crônica,2021-05-10,1,1,1
+F,18,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Doenças Cardiovasculares e Cerebrovasculares,2021-05-10,1,1,1
+F,18,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,2021-05-10,1,1,1
+F,18,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Indivíduos Transplantados de Órgão Sólido,2021-05-10,1,1,10
+F,18,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Síndrome de Down,2021-05-10,1,1,40
+F,18,1ª Dose,Vacina Covid-19 - Covishield,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,2021-05-10,1,1,8
+F,18,1ª Dose,Vacina Covid-19 - Covishield,Povos e Comunidades Tradicionais,Quilombola,2021-05-10,1,1,1
+F,18,1ª Dose,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Básico,2021-05-10,1,1,1
+F,18,1ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2021-05-10,1,1,111
+F,18,2ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,2021-05-10,2,1,1
+F,18,2ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2021-05-10,2,1,15
+F,18,2ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2021-05-10,2,1,13
+F,19,1ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Síndrome de Down,2021-05-10,1,1,1
+F,19,1ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2021-05-10,1,1,8
+F,19,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Doença Renal,2021-05-10,1,1,7
+F,19,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Indivíduos Transplantados de Órgão Sólido,2021-05-10,1,1,5
+F,19,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Síndrome de Down,2021-05-10,1,1,42
+F,19,1ª Dose,Vacina Covid-19 - Covishield,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,2021-05-10,1,1,16
+F,19,1ª Dose,Vacina Covid-19 - Covishield,Povos e Comunidades Tradicionais,Quilombola,2021-05-10,1,1,1
+F,19,1ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Estudante,2021-05-10,1,1,1
+F,19,1ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2021-05-10,1,1,138
+F,19,1ª Dose,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Acadêmicos/estudantes em estágio em estabelecimentos de saúde,2021-05-10,1,1,1
+F,19,2ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2021-05-10,2,1,20
+F,19,2ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2021-05-10,2,1,48
+F,20,1ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2021-05-10,1,1,12
+F,20,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,2021-05-10,1,1,1
+F,20,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Doença Pulmonar Obstrutiva Crônica,2021-05-10,1,1,1
+F,20,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Doença Renal,2021-05-10,1,1,6
+F,20,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Doença Renal Crônica,2021-05-10,1,1,1
+F,20,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Doenças Cardiovasculares e Cerebrovasculares,2021-05-10,1,1,1
+F,20,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Indivíduos Transplantados de Órgão Sólido,2021-05-10,1,1,8
+F,20,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Obesidade Grave (Imc>=40),2021-05-10,1,1,1
+F,20,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Síndrome de Down,2021-05-10,1,1,38
+F,20,1ª Dose,Vacina Covid-19 - Covishield,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,2021-05-10,1,1,8
+F,20,1ª Dose,Vacina Covid-19 - Covishield,Pessoas em Situação de Rua,Pessoas em Situação de Rua,2021-05-10,1,1,2
+F,20,1ª Dose,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Básico,2021-05-10,1,1,2
+F,20,1ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Médico,2021-05-10,1,1,1
+F,20,1ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2021-05-10,1,1,205
+F,20,1ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Segurança,2021-05-10,1,1,1
+F,20,2ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Pessoas em Situação de Rua,Pessoas em Situação de Rua,2021-05-10,2,1,1
+F,20,2ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2021-05-10,2,1,18
+F,20,2ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Segurança,2021-05-10,2,1,1
+F,20,2ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2021-05-10,2,1,51
+F,21,1ª Dose,Covid-19-AstraZeneca,Comorbidades,Diabetes Mellitus,2021-05-10,1,1,1
+F,21,1ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Síndrome de Down,2021-05-10,1,1,1
+F,21,1ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2021-05-10,1,1,4
+F,21,1ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Segurança,2021-05-10,1,1,1
+F,21,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Doenças Cardiovasculares e Cerebrovasculares,2021-05-10,1,1,1
+F,21,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Indivíduos Transplantados de Órgão Sólido,2021-05-10,1,1,6
+F,21,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Síndrome de Down,2021-05-10,1,1,47
+F,21,1ª Dose,Vacina Covid-19 - Covishield,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,2021-05-10,1,1,7
+F,21,1ª Dose,Vacina Covid-19 - Covishield,Pessoas com Deficiência,Pessoas com Deficiências Permanente Grave,2021-05-10,1,1,1
+F,21,1ª Dose,Vacina Covid-19 - Covishield,Povos e Comunidades Tradicionais,Quilombola,2021-05-10,1,1,1
+F,21,1ª Dose,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Básico,2021-05-10,1,1,1
+F,21,1ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Acadêmicos/estudantes em estágio em estabelecimentos de saúde,2021-05-10,1,1,1
+F,21,1ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Estudante,2021-05-10,1,1,1
+F,21,1ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2021-05-10,1,1,263
+F,21,1ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Recepcionista,2021-05-10,1,1,1
+F,21,1ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Segurança,2021-05-10,1,1,1
+F,21,2ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Povos Indígenas,Povos indígenas em terras indígenas,2021-05-10,2,1,1
+F,21,2ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,2021-05-10,2,1,3
+F,21,2ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2021-05-10,2,1,40
+F,21,2ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Psicólogo,2021-05-10,2,1,1
+F,21,2ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Segurança,2021-05-10,2,1,1
+F,21,2ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2021-05-10,2,1,60
+F,22,1ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Indivíduos Transplantados de Órgão Sólido,2021-05-10,1,1,1
+F,22,1ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2021-05-10,1,1,13
+F,22,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,2021-05-10,1,1,1
+F,22,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Doença Renal,2021-05-10,1,1,3
+F,22,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Indivíduos Transplantados de Órgão Sólido,2021-05-10,1,1,5
+F,22,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Síndrome de Down,2021-05-10,1,1,47
+F,22,1ª Dose,Vacina Covid-19 - Covishield,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,2021-05-10,1,1,10
+F,22,1ª Dose,Vacina Covid-19 - Covishield,Povos e Comunidades Tradicionais,Quilombola,2021-05-10,1,1,1
+F,22,1ª Dose,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Básico,2021-05-10,1,1,2
+F,22,1ª Dose,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Superior,2021-05-10,1,1,1
+F,22,1ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Acadêmicos/estudantes em estágio em estabelecimentos de saúde,2021-05-10,1,1,1
+F,22,1ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Biomédico,2021-05-10,1,1,1
+F,22,1ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Estudante,2021-05-10,1,1,1
+F,22,1ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Farmacêutico,2021-05-10,1,1,1
+F,22,1ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2021-05-10,1,1,298
+F,22,1ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Segurança,2021-05-10,1,1,2
+F,22,1ª Dose,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Comorbidades,Câncer,2021-05-10,1,1,1
+F,22,1ª Dose,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Acadêmicos/estudantes em estágio em estabelecimentos de saúde,2021-05-10,1,1,1
+F,22,1ª Dose,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Estudante,2021-05-10,1,1,1
+F,22,2ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,2021-05-10,2,1,1
+F,22,2ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,2021-05-10,2,1,1
+F,22,2ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2021-05-10,2,1,38
+F,22,2ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Recepcionista,2021-05-10,2,1,1
+F,22,2ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2021-05-10,2,1,69
+F,23,1ª Dose,Covid-19-AstraZeneca,Comorbidades,Doença Pulmonar Obstrutiva Crônica,2021-05-10,1,1,1
+F,23,1ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,2021-05-10,1,1,2
+F,23,1ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2021-05-10,1,1,9
+F,23,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,2021-05-10,1,1,2
+F,23,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Doença Pulmonar Obstrutiva Crônica,2021-05-10,1,1,2
+F,23,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Doença Renal,2021-05-10,1,1,11
+F,23,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Doenças Cardiovasculares e Cerebrovasculares,2021-05-10,1,1,1
+F,23,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Indivíduos Transplantados de Órgão Sólido,2021-05-10,1,1,8
+F,23,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Obesidade Grave (Imc>=40),2021-05-10,1,1,1
+F,23,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Síndrome de Down,2021-05-10,1,1,44
+F,23,1ª Dose,Vacina Covid-19 - Covishield,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,2021-05-10,1,1,18
+F,23,1ª Dose,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Básico,2021-05-10,1,1,2
+F,23,1ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Acadêmicos/estudantes em estágio em estabelecimentos de saúde,2021-05-10,1,1,2
+F,23,1ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Estudante,2021-05-10,1,1,1
+F,23,1ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2021-05-10,1,1,268
+F,23,1ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Segurança,2021-05-10,1,1,4
+F,23,2ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,2021-05-10,2,1,5
+F,23,2ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2021-05-10,2,1,47
+F,23,2ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Odontologista,2021-05-10,2,1,1
+F,23,2ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2021-05-10,2,1,73
+F,24,1ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2021-05-10,1,1,6
+F,24,1ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Segurança,2021-05-10,1,1,1
+F,24,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,2021-05-10,1,1,3
+F,24,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Doença Pulmonar Obstrutiva Crônica,2021-05-10,1,1,1
+F,24,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Doença Renal,2021-05-10,1,1,1
+F,24,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Indivíduos Transplantados de Órgão Sólido,2021-05-10,1,1,8
+F,24,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Obesidade Grave (Imc>=40),2021-05-10,1,1,2
+F,24,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Síndrome de Down,2021-05-10,1,1,47
+F,24,1ª Dose,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,2021-05-10,1,1,1
+F,24,1ª Dose,Vacina Covid-19 - Covishield,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,2021-05-10,1,1,9
+F,24,1ª Dose,Vacina Covid-19 - Covishield,Pessoas com Deficiência,Pessoas com Deficiências Permanente Grave,2021-05-10,1,1,1
+F,24,1ª Dose,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Básico,2021-05-10,1,1,3
+F,24,1ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Acadêmicos/estudantes em estágio em estabelecimentos de saúde,2021-05-10,1,1,1
+F,24,1ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Estudante,2021-05-10,1,1,1
+F,24,1ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Nutricionista,2021-05-10,1,1,1
+F,24,1ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2021-05-10,1,1,252
+F,24,1ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Segurança,2021-05-10,1,1,1
+F,24,1ª Dose,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Acadêmicos/estudantes em estágio em estabelecimentos de saúde,2021-05-10,1,1,1
+F,24,2ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Cuidador de Idosos,2021-05-10,2,1,1
+F,24,2ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Enfermeiro(a),2021-05-10,2,1,1
+F,24,2ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Estudante,2021-05-10,2,1,1
+F,24,2ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Médico,2021-05-10,2,1,1
+F,24,2ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2021-05-10,2,1,37
+F,24,2ª Dose,Vacina Covid-19 - Covishield,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,2021-05-10,2,1,1
+F,24,2ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Auxiliar de Enfermagem,2021-05-10,2,1,1
+F,24,2ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2021-05-10,2,1,83
+F,25,1ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2021-05-10,1,1,6
+F,25,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,2021-05-10,1,1,2
+F,25,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Doença Renal,2021-05-10,1,1,11
+F,25,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Doenças Cardiovasculares e Cerebrovasculares,2021-05-10,1,1,1
+F,25,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,2021-05-10,1,1,1
+F,25,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Indivíduos Transplantados de Órgão Sólido,2021-05-10,1,1,4
+F,25,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Síndrome de Down,2021-05-10,1,1,32
+F,25,1ª Dose,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 65 a 69 anos,2021-05-10,1,1,1
+F,25,1ª Dose,Vacina Covid-19 - Covishield,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,2021-05-10,1,1,7
+F,25,1ª Dose,Vacina Covid-19 - Covishield,Povos e Comunidades Tradicionais,Quilombola,2021-05-10,1,1,1
+F,25,1ª Dose,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Básico,2021-05-10,1,1,3
+F,25,1ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Odontologista,2021-05-10,1,1,1
+F,25,1ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2021-05-10,1,1,264
+F,25,1ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Segurança,2021-05-10,1,1,1
+F,25,1ª Dose,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Faixa Etária,Pessoas de 60 a 64 anos,2021-05-10,1,1,1
+F,25,2ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Obesidade Grave (Imc>=40),2021-05-10,2,1,1
+F,25,2ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,2021-05-10,2,1,1
+F,25,2ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2021-05-10,2,1,36
+F,25,2ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Psicólogo,2021-05-10,2,1,1
+F,25,2ª Dose,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,2021-05-10,2,1,1
+F,25,2ª Dose,Vacina Covid-19 - Covishield,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,2021-05-10,2,1,1
+F,25,2ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Médico Veterinário,2021-05-10,2,1,1
+F,25,2ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2021-05-10,2,1,117
+F,25,2ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Segurança,2021-05-10,2,1,1
+F,26,1ª Dose,Covid-19-AstraZeneca,Comorbidades,Doenças Cardiovasculares e Cerebrovasculares,2021-05-10,1,1,1
+F,26,1ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2021-05-10,1,1,10
+F,26,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Doença Renal,2021-05-10,1,1,11
+F,26,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,2021-05-10,1,1,1
+F,26,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Indivíduos Transplantados de Órgão Sólido,2021-05-10,1,1,11
+F,26,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Obesidade Grave (Imc>=40),2021-05-10,1,1,3
+F,26,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Outros Imunossuprimidos,2021-05-10,1,1,1
+F,26,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Pneumopatias Crônicas Graves,2021-05-10,1,1,1
+F,26,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Síndrome de Down,2021-05-10,1,1,43
+F,26,1ª Dose,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,2021-05-10,1,1,1
+F,26,1ª Dose,Vacina Covid-19 - Covishield,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,2021-05-10,1,1,9
+F,26,1ª Dose,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Básico,2021-05-10,1,1,1
+F,26,1ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Estudante,2021-05-10,1,1,1
+F,26,1ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Farmacêutico,2021-05-10,1,1,1
+F,26,1ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Odontologista,2021-05-10,1,1,1
+F,26,1ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2021-05-10,1,1,193
+F,26,1ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Recepcionista,2021-05-10,1,1,1
+F,26,1ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Segurança,2021-05-10,1,1,1
+F,26,1ª Dose,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Comorbidades,Diabetes Mellitus,2021-05-10,1,1,1
+F,26,2ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,2021-05-10,2,1,1
+F,26,2ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,2021-05-10,2,1,1
+F,26,2ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2021-05-10,2,1,50
+F,26,2ª Dose,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Superior,2021-05-10,2,1,1
+F,26,2ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Estudante,2021-05-10,2,1,1
+F,26,2ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Médico Veterinário,2021-05-10,2,1,1
+F,26,2ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2021-05-10,2,1,94
+F,27,1ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Doença Pulmonar Obstrutiva Crônica,2021-05-10,1,1,1
+F,27,1ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2021-05-10,1,1,15
+F,27,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,2021-05-10,1,1,1
+F,27,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Doença Renal,2021-05-10,1,1,6
+F,27,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,2021-05-10,1,1,1
+F,27,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Indivíduos Transplantados de Órgão Sólido,2021-05-10,1,1,11
+F,27,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Obesidade Grave (Imc>=40),2021-05-10,1,1,1
+F,27,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Síndrome de Down,2021-05-10,1,1,41
+F,27,1ª Dose,Vacina Covid-19 - Covishield,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,2021-05-10,1,1,9
+F,27,1ª Dose,Vacina Covid-19 - Covishield,Povos e Comunidades Tradicionais,Quilombola,2021-05-10,1,1,1
+F,27,1ª Dose,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Básico,2021-05-10,1,1,2
+F,27,1ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2021-05-10,1,1,166
+F,27,1ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Segurança,2021-05-10,1,1,2
+F,27,2ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,2021-05-10,2,1,3
+F,27,2ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2021-05-10,2,1,33
+F,27,2ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Segurança,2021-05-10,2,1,1
+F,27,2ª Dose,Vacina Covid-19 - Covishield,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,2021-05-10,2,1,3
+F,27,2ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Estudante,2021-05-10,2,1,1
+F,27,2ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Fisioterapeutas,2021-05-10,2,1,2
+F,27,2ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2021-05-10,2,1,107
+F,28,1ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,2021-05-10,1,1,1
+F,28,1ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2021-05-10,1,1,7
+F,28,1ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Segurança,2021-05-10,1,1,1
+F,28,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Doença Renal,2021-05-10,1,1,5
+F,28,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,2021-05-10,1,1,1
+F,28,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Indivíduos Transplantados de Órgão Sólido,2021-05-10,1,1,9
+F,28,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Obesidade Grave (Imc>=40),2021-05-10,1,1,1
+F,28,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Síndrome de Down,2021-05-10,1,1,35
+F,28,1ª Dose,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,2021-05-10,1,1,1
+F,28,1ª Dose,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 65 a 69 anos,2021-05-10,1,1,1
+F,28,1ª Dose,Vacina Covid-19 - Covishield,Forças Armadas (membros ativos),Força Aérea Brasileira - FAB,2021-05-10,1,1,1
+F,28,1ª Dose,Vacina Covid-19 - Covishield,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,2021-05-10,1,1,8
+F,28,1ª Dose,Vacina Covid-19 - Covishield,Pessoas com Deficiência,Pessoas com Deficiências Permanente Grave,2021-05-10,1,1,1
+F,28,1ª Dose,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Básico,2021-05-10,1,1,1
+F,28,1ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Biólogo,2021-05-10,1,1,1
+F,28,1ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2021-05-10,1,1,157
+F,28,1ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Segurança,2021-05-10,1,1,1
+F,28,1ª Dose,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Farmacêutico,2021-05-10,1,1,1
+F,28,2ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Acadêmicos/estudantes em estágio em estabelecimentos de saúde,2021-05-10,2,1,1
+F,28,2ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Fisioterapeutas,2021-05-10,2,1,1
+F,28,2ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2021-05-10,2,1,32
+F,28,2ª Dose,Vacina Covid-19 - Covishield,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,2021-05-10,2,1,1
+F,28,2ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Auxiliar de Enfermagem,2021-05-10,2,1,1
+F,28,2ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2021-05-10,2,1,97
+F,29,1ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Indivíduos Transplantados de Órgão Sólido,2021-05-10,1,1,2
+F,29,1ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2021-05-10,1,1,15
+F,29,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Doença Renal,2021-05-10,1,1,9
+F,29,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,2021-05-10,1,1,4
+F,29,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Indivíduos Transplantados de Órgão Sólido,2021-05-10,1,1,14
+F,29,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Obesidade Grave (Imc>=40),2021-05-10,1,1,1
+F,29,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Síndrome de Down,2021-05-10,1,1,31
+F,29,1ª Dose,Vacina Covid-19 - Covishield,Forças Armadas (membros ativos),Força Aérea Brasileira - FAB,2021-05-10,1,1,1
+F,29,1ª Dose,Vacina Covid-19 - Covishield,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,2021-05-10,1,1,10
+F,29,1ª Dose,Vacina Covid-19 - Covishield,Pessoas com Deficiência,Pessoas com Deficiências Permanente Grave,2021-05-10,1,1,1
+F,29,1ª Dose,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Básico,2021-05-10,1,1,2
+F,29,1ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Estudante,2021-05-10,1,1,1
+F,29,1ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2021-05-10,1,1,204
+F,29,1ª Dose,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Biólogo,2021-05-10,1,1,1
+F,29,1ª Dose,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Farmacêutico,2021-05-10,1,1,1
+F,29,1ª Dose,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Recepcionista,2021-05-10,1,1,1
+F,29,2ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Nutricionista,2021-05-10,2,1,1
+F,29,2ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2021-05-10,2,1,32
+F,29,2ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Síndrome de Down,2021-05-10,2,1,1
+F,29,2ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Médico Veterinário,2021-05-10,2,1,1
+F,29,2ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2021-05-10,2,1,96
+F,29,2ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Técnico de Enfermagem,2021-05-10,2,1,1
+M,10,2ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,2021-05-10,2,1,1
+M,14,1ª Dose,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,2021-05-10,1,1,1
+M,16,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Síndrome de Down,2021-05-10,1,1,1
+M,17,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Síndrome de Down,2021-05-10,1,1,1
+M,17,1ª Dose,Vacina Covid-19 - Covishield,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,2021-05-10,1,1,1
+M,18,1ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2021-05-10,1,1,1
+M,18,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Doença Renal,2021-05-10,1,1,1
+M,18,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Indivíduos Transplantados de Órgão Sólido,2021-05-10,1,1,4
+M,18,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Obesidade Grave (Imc>=40),2021-05-10,1,1,2
+M,18,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Síndrome de Down,2021-05-10,1,1,57
+M,18,1ª Dose,Vacina Covid-19 - Covishield,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,2021-05-10,1,1,12
+M,18,1ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2021-05-10,1,1,27
+M,18,2ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2021-05-10,2,1,4
+M,18,2ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Síndrome de Down,2021-05-10,2,1,1
+M,18,2ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2021-05-10,2,1,5
+M,19,1ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Doença Renal,2021-05-10,1,1,1
+M,19,1ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Síndrome de Down,2021-05-10,1,1,1
+M,19,1ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,2021-05-10,1,1,1
+M,19,1ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2021-05-10,1,1,6
+M,19,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Doença Renal,2021-05-10,1,1,3
+M,19,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Doenças Cardiovasculares e Cerebrovasculares,2021-05-10,1,1,1
+M,19,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,2021-05-10,1,1,1
+M,19,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Indivíduos Transplantados de Órgão Sólido,2021-05-10,1,1,8
+M,19,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Síndrome de Down,2021-05-10,1,1,50
+M,19,1ª Dose,Vacina Covid-19 - Covishield,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,2021-05-10,1,1,7
+M,19,1ª Dose,Vacina Covid-19 - Covishield,Pessoas com Deficiência,Pessoas com Deficiências Permanente Grave,2021-05-10,1,1,1
+M,19,1ª Dose,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Básico,2021-05-10,1,1,1
+M,19,1ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Acadêmicos/estudantes em estágio em estabelecimentos de saúde,2021-05-10,1,1,1
+M,19,1ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Estudante,2021-05-10,1,1,1
+M,19,1ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2021-05-10,1,1,48
+M,19,1ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Segurança,2021-05-10,1,1,1
+M,19,2ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,2021-05-10,2,1,1
+M,19,2ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2021-05-10,2,1,12
+M,19,2ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2021-05-10,2,1,11
+M,20,1ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Síndrome de Down,2021-05-10,1,1,1
+M,20,1ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2021-05-10,1,1,4
+M,20,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Doença Renal,2021-05-10,1,1,3
+M,20,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Doenças Cardiovasculares e Cerebrovasculares,2021-05-10,1,1,1
+M,20,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,2021-05-10,1,1,1
+M,20,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Indivíduos Transplantados de Órgão Sólido,2021-05-10,1,1,11
+M,20,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Síndrome de Down,2021-05-10,1,1,60
+M,20,1ª Dose,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,2021-05-10,1,1,1
+M,20,1ª Dose,Vacina Covid-19 - Covishield,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,2021-05-10,1,1,19
+M,20,1ª Dose,Vacina Covid-19 - Covishield,Pessoas com Deficiência,Pessoas com Deficiências Permanente Grave,2021-05-10,1,1,1
+M,20,1ª Dose,Vacina Covid-19 - Covishield,Povos Indígenas,Povos indígenas em terras indígenas,2021-05-10,1,1,1
+M,20,1ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2021-05-10,1,1,61
+M,20,1ª Dose,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Acadêmicos/estudantes em estágio em estabelecimentos de saúde,2021-05-10,1,1,1
+M,20,2ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,2021-05-10,2,1,1
+M,20,2ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2021-05-10,2,1,8
+M,20,2ª Dose,Vacina Covid-19 - Covishield,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,2021-05-10,2,1,3
+M,20,2ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2021-05-10,2,1,20
+M,21,1ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Síndrome de Down,2021-05-10,1,1,1
+M,21,1ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2021-05-10,1,1,5
+M,21,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Doença Renal,2021-05-10,1,1,7
+M,21,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Indivíduos Transplantados de Órgão Sólido,2021-05-10,1,1,8
+M,21,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Síndrome de Down,2021-05-10,1,1,52
+M,21,1ª Dose,Vacina Covid-19 - Covishield,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,2021-05-10,1,1,9
+M,21,1ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Auxiliar de Veterinário,2021-05-10,1,1,1
+M,21,1ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Estudante,2021-05-10,1,1,2
+M,21,1ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2021-05-10,1,1,98
+M,21,1ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Recepcionista,2021-05-10,1,1,1
+M,21,1ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Segurança,2021-05-10,1,1,2
+M,21,2ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,2021-05-10,2,1,1
+M,21,2ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2021-05-10,2,1,12
+M,21,2ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2021-05-10,2,1,18
+M,22,1ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2021-05-10,1,1,3
+M,22,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,2021-05-10,1,1,2
+M,22,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Doença Renal,2021-05-10,1,1,11
+M,22,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Doenças Cardiovasculares e Cerebrovasculares,2021-05-10,1,1,2
+M,22,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Indivíduos Transplantados de Órgão Sólido,2021-05-10,1,1,1
+M,22,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Outros Imunossuprimidos,2021-05-10,1,1,1
+M,22,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Síndrome de Down,2021-05-10,1,1,48
+M,22,1ª Dose,Vacina Covid-19 - Covishield,Forças de Segurança e Salvamento,Policial Militar,2021-05-10,1,1,1
+M,22,1ª Dose,Vacina Covid-19 - Covishield,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,2021-05-10,1,1,9
+M,22,1ª Dose,Vacina Covid-19 - Covishield,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,2021-05-10,1,1,1
+M,22,1ª Dose,Vacina Covid-19 - Covishield,Povos Indígenas,Povos indígenas em terras indígenas,2021-05-10,1,1,1
+M,22,1ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Acadêmicos/estudantes em estágio em estabelecimentos de saúde,2021-05-10,1,1,1
+M,22,1ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Estudante,2021-05-10,1,1,1
+M,22,1ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2021-05-10,1,1,82
+M,22,1ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Segurança,2021-05-10,1,1,1
+M,22,1ª Dose,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Médico,2021-05-10,1,1,1
+M,22,2ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Cozinheiro e Auxiliares,2021-05-10,2,1,1
+M,22,2ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Médico,2021-05-10,2,1,1
+M,22,2ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2021-05-10,2,1,15
+M,22,2ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2021-05-10,2,1,24
+M,23,1ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Obesidade Grave (Imc>=40),2021-05-10,1,1,1
+M,23,1ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Síndrome de Down,2021-05-10,1,1,1
+M,23,1ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2021-05-10,1,1,2
+M,23,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Doença Renal,2021-05-10,1,1,5
+M,23,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Indivíduos Transplantados de Órgão Sólido,2021-05-10,1,1,9
+M,23,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Obesidade Grave (Imc>=40),2021-05-10,1,1,1
+M,23,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Síndrome de Down,2021-05-10,1,1,37
+M,23,1ª Dose,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,2021-05-10,1,1,1
+M,23,1ª Dose,Vacina Covid-19 - Covishield,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,2021-05-10,1,1,10
+M,23,1ª Dose,Vacina Covid-19 - Covishield,Pessoas com Deficiência,Pessoas com Deficiências Permanente Grave,2021-05-10,1,1,1
+M,23,1ª Dose,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Básico,2021-05-10,1,1,1
+M,23,1ª Dose,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Superior,2021-05-10,1,1,1
+M,23,1ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Auxiliar de Veterinário,2021-05-10,1,1,1
+M,23,1ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2021-05-10,1,1,90
+M,23,1ª Dose,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Acadêmicos/estudantes em estágio em estabelecimentos de saúde,2021-05-10,1,1,1
+M,23,2ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,2021-05-10,2,1,1
+M,23,2ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2021-05-10,2,1,12
+M,23,2ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2021-05-10,2,1,33
+M,24,1ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2021-05-10,1,1,4
+M,24,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Doença Pulmonar Obstrutiva Crônica,2021-05-10,1,1,1
+M,24,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Doença Renal,2021-05-10,1,1,10
+M,24,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Doenças Cardiovasculares e Cerebrovasculares,2021-05-10,1,1,1
+M,24,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,2021-05-10,1,1,1
+M,24,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Indivíduos Transplantados de Órgão Sólido,2021-05-10,1,1,6
+M,24,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Síndrome de Down,2021-05-10,1,1,42
+M,24,1ª Dose,Vacina Covid-19 - Covishield,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,2021-05-10,1,1,16
+M,24,1ª Dose,Vacina Covid-19 - Covishield,Pessoas em Situação de Rua,Pessoas em Situação de Rua,2021-05-10,1,1,1
+M,24,1ª Dose,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Básico,2021-05-10,1,1,1
+M,24,1ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2021-05-10,1,1,82
+M,24,1ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Profissionais de Educação Física,2021-05-10,1,1,1
+M,24,1ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Segurança,2021-05-10,1,1,1
+M,24,2ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Pessoas em Situação de Rua,Pessoas em Situação de Rua,2021-05-10,2,1,1
+M,24,2ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,2021-05-10,2,1,1
+M,24,2ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2021-05-10,2,1,14
+M,24,2ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Enfermeiro(a),2021-05-10,2,1,1
+M,24,2ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Estudante,2021-05-10,2,1,1
+M,24,2ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Farmacêutico,2021-05-10,2,1,1
+M,24,2ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Médico,2021-05-10,2,1,1
+M,24,2ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2021-05-10,2,1,39
+M,24,2ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Segurança,2021-05-10,2,1,1
+M,25,1ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,2021-05-10,1,1,1
+M,25,1ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2021-05-10,1,1,1
+M,25,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Doença Renal,2021-05-10,1,1,8
+M,25,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Indivíduos Transplantados de Órgão Sólido,2021-05-10,1,1,6
+M,25,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Síndrome de Down,2021-05-10,1,1,48
+M,25,1ª Dose,Vacina Covid-19 - Covishield,Forças Armadas (membros ativos),Exército Brasileiro - EB,2021-05-10,1,1,1
+M,25,1ª Dose,Vacina Covid-19 - Covishield,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,2021-05-10,1,1,12
+M,25,1ª Dose,Vacina Covid-19 - Covishield,Povos Indígenas,Povos indígenas em terras indígenas,2021-05-10,1,1,1
+M,25,1ª Dose,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Básico,2021-05-10,1,1,2
+M,25,1ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2021-05-10,1,1,64
+M,25,1ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Segurança,2021-05-10,1,1,1
+M,25,2ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,2021-05-10,2,1,2
+M,25,2ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Acadêmicos/estudantes em estágio em estabelecimentos de saúde,2021-05-10,2,1,1
+M,25,2ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2021-05-10,2,1,15
+M,25,2ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Acadêmicos/estudantes em estágio em estabelecimentos de saúde,2021-05-10,2,1,1
+M,25,2ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2021-05-10,2,1,46
+M,26,1ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Síndrome de Down,2021-05-10,1,1,2
+M,26,1ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2021-05-10,1,1,5
+M,26,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Câncer,2021-05-10,1,1,1
+M,26,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Doença Renal,2021-05-10,1,1,8
+M,26,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Doenças Cardiovasculares e Cerebrovasculares,2021-05-10,1,1,2
+M,26,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Indivíduos Transplantados de Órgão Sólido,2021-05-10,1,1,11
+M,26,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Síndrome de Down,2021-05-10,1,1,37
+M,26,1ª Dose,Vacina Covid-19 - Covishield,Forças de Segurança e Salvamento,Guarda Municipal,2021-05-10,1,1,1
+M,26,1ª Dose,Vacina Covid-19 - Covishield,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,2021-05-10,1,1,11
+M,26,1ª Dose,Vacina Covid-19 - Covishield,Pessoas com Deficiência,Pessoas com Deficiências Permanente Grave,2021-05-10,1,1,1
+M,26,1ª Dose,Vacina Covid-19 - Covishield,Pessoas em Situação de Rua,Pessoas em Situação de Rua,2021-05-10,1,1,1
+M,26,1ª Dose,Vacina Covid-19 - Covishield,Povos e Comunidades Tradicionais,Quilombola,2021-05-10,1,1,1
+M,26,1ª Dose,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Básico,2021-05-10,1,1,1
+M,26,1ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2021-05-10,1,1,72
+M,26,1ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Segurança,2021-05-10,1,1,1
+M,26,1ª Dose,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Comorbidades,Obesidade Grave (Imc>=40),2021-05-10,1,1,1
+M,26,2ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2021-05-10,2,1,12
+M,26,2ª Dose,Vacina Covid-19 - Covishield,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,2021-05-10,2,1,2
+M,26,2ª Dose,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Básico,2021-05-10,2,1,1
+M,26,2ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Médico,2021-05-10,2,1,1
+M,26,2ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2021-05-10,2,1,31
+M,27,1ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,2021-05-10,1,1,1
+M,27,1ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2021-05-10,1,1,5
+M,27,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,2021-05-10,1,1,2
+M,27,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Doença Renal,2021-05-10,1,1,6
+M,27,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Indivíduos Transplantados de Órgão Sólido,2021-05-10,1,1,16
+M,27,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Obesidade Grave (Imc>=40),2021-05-10,1,1,1
+M,27,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Síndrome de Down,2021-05-10,1,1,35
+M,27,1ª Dose,Vacina Covid-19 - Covishield,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,2021-05-10,1,1,14
+M,27,1ª Dose,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Básico,2021-05-10,1,1,1
+M,27,1ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2021-05-10,1,1,73
+M,27,2ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Pessoas em Situação de Rua,Pessoas em Situação de Rua,2021-05-10,2,1,1
+M,27,2ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,2021-05-10,2,1,2
+M,27,2ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Cuidador de Idosos,2021-05-10,2,1,1
+M,27,2ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2021-05-10,2,1,12
+M,27,2ª Dose,Vacina Covid-19 - Covishield,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,2021-05-10,2,1,1
+M,27,2ª Dose,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Básico,2021-05-10,2,1,1
+M,27,2ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2021-05-10,2,1,38
+M,28,1ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2021-05-10,1,1,6
+M,28,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Doença Renal,2021-05-10,1,1,8
+M,28,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Doenças Cardiovasculares e Cerebrovasculares,2021-05-10,1,1,1
+M,28,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Indivíduos Transplantados de Órgão Sólido,2021-05-10,1,1,17
+M,28,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Síndrome de Down,2021-05-10,1,1,43
+M,28,1ª Dose,Vacina Covid-19 - Covishield,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,2021-05-10,1,1,7
+M,28,1ª Dose,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Básico,2021-05-10,1,1,2
+M,28,1ª Dose,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Superior,2021-05-10,1,1,1
+M,28,1ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Acadêmicos/estudantes em estágio em estabelecimentos de saúde,2021-05-10,1,1,1
+M,28,1ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2021-05-10,1,1,74
+M,28,2ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Pessoas em Situação de Rua,Pessoas em Situação de Rua,2021-05-10,2,1,1
+M,28,2ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,2021-05-10,2,1,1
+M,28,2ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2021-05-10,2,1,14
+M,28,2ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Segurança,2021-05-10,2,1,1
+M,28,2ª Dose,Vacina Covid-19 - Covishield,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,2021-05-10,2,1,1
+M,28,2ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Nutricionista,2021-05-10,2,1,1
+M,28,2ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Odontologista,2021-05-10,2,1,1
+M,28,2ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2021-05-10,2,1,36
+M,29,1ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Pessoas em Situação de Rua,Pessoas em Situação de Rua,2021-05-10,1,1,1
+M,29,1ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2021-05-10,1,1,2
+M,29,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Doença Pulmonar Obstrutiva Crônica,2021-05-10,1,1,1
+M,29,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Doença Renal,2021-05-10,1,1,13
+M,29,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,2021-05-10,1,1,3
+M,29,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Indivíduos Transplantados de Órgão Sólido,2021-05-10,1,1,16
+M,29,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Obesidade Grave (Imc>=40),2021-05-10,1,1,1
+M,29,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Outros Imunossuprimidos,2021-05-10,1,1,1
+M,29,1ª Dose,Vacina Covid-19 - Covishield,Comorbidades,Síndrome de Down,2021-05-10,1,1,30
+M,29,1ª Dose,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,2021-05-10,1,1,1
+M,29,1ª Dose,Vacina Covid-19 - Covishield,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,2021-05-10,1,1,11
+M,29,1ª Dose,Vacina Covid-19 - Covishield,Povos e Comunidades Tradicionais,Quilombola,2021-05-10,1,1,1
+M,29,1ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Motorista de Ambulância,2021-05-10,1,1,1
+M,29,1ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2021-05-10,1,1,72
+M,29,1ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Segurança,2021-05-10,1,1,1
+M,29,2ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,2021-05-10,2,1,1
+M,29,2ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Forças de Segurança e Salvamento,Policial Militar,2021-05-10,2,1,1
+M,29,2ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Pessoas em Situação de Rua,Pessoas em Situação de Rua,2021-05-10,2,1,2
+M,29,2ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,2021-05-10,2,1,2
+M,29,2ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Odontologista,2021-05-10,2,1,1
+M,29,2ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2021-05-10,2,1,10
+M,29,2ª Dose,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Profissionais de Educação Física,2021-05-10,2,1,1
+M,29,2ª Dose,Vacina Covid-19 - Covishield,Forças de Segurança e Salvamento,Bombeiro Civil,2021-05-10,2,1,1
+M,29,2ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Médico,2021-05-10,2,1,1
+M,29,2ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2021-05-10,2,1,30
+M,29,2ª Dose,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Técnico de Enfermagem,2021-05-10,2,1,1
