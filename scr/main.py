@@ -5,7 +5,7 @@ from get_data import get_data_uf
 from interfaces.repository import clone_repository, commit_and_push
 from manage_files import update_file
 from time_format import hours_to_timestamp, timestamp_to_date, date_to_timestamp
-from treat_data import detect_missing, detect_wrong_date, separate_by_date
+from treat_data import detect_missing, detect_wrong_date, separate_by_date, aggregate_count
 from multiprocessing.pool import ThreadPool
 
 # update local repository
@@ -26,6 +26,7 @@ def update_for_dates(date_A, date_B, uf):
         return
 
     missing, complete = detect_missing(data)
+    complete = aggregate_count(complete)
     wrong_date, correct = detect_wrong_date(complete)
 
     to_save = {'missing_demography': missing,
@@ -52,15 +53,15 @@ def select_dates(uf, update_all=False):
         yield date_to_timestamp('2020-12-01'), date_to_timestamp('2021-01-17')
         a = date_to_timestamp('2021-01-17')
     else:
-        a = get_last_time(uf) - hours_to_timestamp(7 * 24)
+        a = get_last_time(uf) - hours_to_timestamp(6 * 24)
     while a < date_now:
-        b = a + hours_to_timestamp(2 * 24)
+        b = a + hours_to_timestamp(4 * 24)
         yield a, b
         a = b
 
 
 def update_data(request):
-    pool = ThreadPool(processes=8)
+    pool = ThreadPool(processes=4)
     futures = list()
     uf_list = request['uf_list']
     update_all = request['update_all']
@@ -84,5 +85,6 @@ if __name__ == '__main__':
     request = dict()
     request['uf_list'] = ['SP']
     request['update_from'] = ['beginning', 'last', 'few_last'][0]
+    request['update_all'] = False
     request['commit_msg'] = 'Test update.'
     update_data(request)

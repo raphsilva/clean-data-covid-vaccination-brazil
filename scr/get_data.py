@@ -1,20 +1,22 @@
 from base64 import b64encode
 from multiprocessing.pool import ThreadPool
-import sys
+import os
 import pandas as pd
 import requests
 from pprint import pprint
 from SETUP import QUICK_TEST
 from time_format import datetime_to_str
+from elasticsearch import Elasticsearch, helpers, exceptions
 
 if QUICK_TEST:
     MAX_SIZE = 3
 else:
     MAX_SIZE = 1000000
 
-url = 'https://imunizacao-es.saude.gov.br/_search'
+url = 'https://imunizacao-es.saude.gov.br/'
 username = 'imunizacao_public'
 password = 'qlto5t&7r_@+#Tlstigi'
+client = Elasticsearch(url, http_auth=(username, password))
 
 userAndPass = b64encode((b"f'{username}:{password}'")).decode("ascii")
 headers = {'Authorization': 'Basic %s' % userAndPass}
@@ -23,8 +25,8 @@ aggregators = ['vacina_dataAplicacao', 'paciente_idade', 'paciente_enumSexoBiolo
 
 
 def get_data(uf, dose, date_A, date_B):
-    pool = ThreadPool(processes=20)
-    ages = [r for r in range(0, 90)] + [1000]
+    pool = ThreadPool(processes=8)
+    ages = [0, 30, 50, 70, 1000]
     futures = list()
     for i in range(len(ages) - 1):
         a = ages[i]
@@ -36,18 +38,69 @@ def get_data(uf, dose, date_A, date_B):
     return pd.concat(data_parts)
 
 
-def request_data(body, trial=1):
+def __request_data(body, trial=1):
+    print('Requesting data', body['query']['bool']['must'])
     if trial > 10:
         return None
     try:
         r = requests.post(url, json=body, auth=(username, password))
     except:
         print('Request did not suceed. Trial', trial)
-        return request_data(body, trial+1)
+        return __request_data(body, trial + 1)
+    print('Got data', body['query']['bool']['must'])
     return r
 
+def request_scan(body, trial=1):
+    print('Requesting data', trial, body['query']['bool']['must'][2])
+    if trial > 5:
+        return None
+    try:
+        resp = helpers.scan(
+            client,
+            scroll='3m',
+            size=10000,
+            query=body,
+            request_timeout=50
+        )
+    except:
+        print('Request did not suceed. Trial', trial)
+        return __request_data(body, trial + 1)
+    print('Got data', body['query']['bool']['must'])
+    return resp
 
+pending = 0
 def get_data_age(uf, dose, date_A, date_B, age_A, age_B):
+    global pending
+    keys_to_keep = ['paciente_id', 'paciente_enumSexoBiologico', 'paciente_idade', 'vacina_nome', 'vacina_categoria_nome', 'vacina_grupoAtendimento_nome', 'vacina_dataAplicacao']
+    body = {
+        "query": {
+            "bool": {
+                "must": [{"term": {"paciente_endereco_uf": uf}},
+                         {"regexp": {"vacina_descricao_dose": f'.*{dose}.*'}},
+                         {"range": {"paciente_idade": {"gte": age_A, "lt": age_B}}},
+                         {"range": {"vacina_dataAplicacao": {"gte": date_A, "lt": date_B}}},
+                         ]
+            },
+        },
+        "_source": keys_to_keep
+    }
+    resp = request_scan(body)
+    print('Processing data', age_A, date_A)
+    pending += 1
+    result = list(resp)
+    data = [i['_source'] for i in result]
+    df = pd.DataFrame(data)
+    df = df[keys_to_keep]
+    df['data'] = df['vacina_dataAplicacao'].str[:10]
+    del df['vacina_dataAplicacao']
+    df['dose'] = dose
+    print('Got data of length', len(df), '--', date_A, dose, age_A)
+    print('Now being requested:', pending)
+    pending -= 1
+    return df
+
+
+def __get_data_age_agg(uf, dose, date_A, date_B, age_A, age_B):
     def unroll(aggregators, data, partial={}, unrolled=[]):
         agg = aggregators[0]
         aggregators = aggregators[1:]
@@ -98,7 +151,7 @@ def get_data_age(uf, dose, date_A, date_B, age_A, age_B):
         'size': 0
     }
 
-    r = request_data(body)
+    r = __request_data(body)
 
     data = r.json()
     if 'aggregations' not in data:
