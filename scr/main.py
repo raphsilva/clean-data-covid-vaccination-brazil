@@ -53,7 +53,7 @@ def select_dates(uf, update_all=False):
         yield date_to_timestamp('2020-12-01'), date_to_timestamp('2021-01-17')
         a = date_to_timestamp('2021-01-17')
     else:
-        a = get_last_time(uf) - hours_to_timestamp(6 * 24)
+        a = get_last_time(uf) - hours_to_timestamp(2 * 24)
     while a < date_now:
         b = a + hours_to_timestamp(4 * 24)
         yield a, b
