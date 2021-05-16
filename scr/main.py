@@ -86,5 +86,5 @@ if __name__ == '__main__':
     request['uf_list'] = ['SP']
     request['update_from'] = ['beginning', 'last', 'few_last'][0]
     request['update_all'] = False
-    request['commit_msg'] = 'Test update.'
+    request['commit_msg'] = '[data] Test update.'
     update_data(request)
