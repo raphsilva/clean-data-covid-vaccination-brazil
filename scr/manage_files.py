@@ -54,11 +54,12 @@ def update_file_uf_date(uf, date: str, data: pd.DataFrame, data_name: str = None
     _update_file(filepath, data)
 
 
-def update_info_updates(uf, date: str, data: pd.DataFrame, data_name: str = None):
+def update_info_updates(uf, date: str, data: pd.DataFrame, data_name: str, spent_time):
     filepath = _get_path(uf, date, '_info/updates_totals')
     total = data['contagem'].sum()
     info = {'data_atualizacao': get_today_str(),
             'tipo': data_name,
+            'media_tempo_gasto': spent_time,
             'total': total
             }
     _update_file(filepath, pd.DataFrame([info]), ['data_atualizacao', 'tipo'])
@@ -67,6 +68,7 @@ def update_info_updates(uf, date: str, data: pd.DataFrame, data_name: str = None
     filepath = get_directory_path(uf, '_info') + '/totals.csv'
     info = {'data_aplicaçao': date,
             'tipo': data_name,
+            'media_tempo_gasto': spent_time,
             'total': total
             }
     _update_file(filepath, pd.DataFrame([info]), ['data_aplicaçao', 'tipo'])
