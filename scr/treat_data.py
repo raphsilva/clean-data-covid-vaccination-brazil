@@ -50,6 +50,8 @@ def aggregate_count(df):
     columns = list(df.columns)
     columns.remove('contagem')
     df = df[columns + ['contagem']]
+    df = df[['contagem'] + columns]
+    df = df.sort_values(by='contagem', ascending=False)
     return df
 
 
