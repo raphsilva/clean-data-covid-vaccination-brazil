@@ -21,3 +21,7 @@ def timestamp_to_date(timestamp):
     timestamp /= 1000
     date = datetime.fromtimestamp(timestamp)
     return date.strftime('%Y-%m-%d')
+
+
+def get_today_str():
+    return datetime_to_str(datetime.today())

@@ -3,7 +3,7 @@ from datetime import datetime
 from control_dates import get_last_time
 from get_data import get_data_uf
 from interfaces.repository import clone_repository, commit_and_push
-from manage_files import update_file
+from manage_files import update_file_uf_date, update_info_updates
 from time_format import hours_to_timestamp, timestamp_to_date, date_to_timestamp
 from treat_data import detect_missing, detect_wrong_date, separate_by_date, aggregate_count
 from multiprocessing.pool import ThreadPool
@@ -31,7 +31,7 @@ def update_for_dates(date_A, date_B, uf):
 
     to_save = {'missing_demography': missing,
                'wrong_date': wrong_date,
-               'data': correct}
+               'complete': correct}
 
     for data_name in to_save:
         if len(to_save[data_name]) == 0:
@@ -39,10 +39,8 @@ def update_for_dates(date_A, date_B, uf):
         r = separate_by_date(to_save[data_name])
         for date in r:
             data = r[date]
-            if data_name == 'data':
-                update_file(uf, date, data)
-            else:
-                update_file(uf, date, data, data_name)
+            update_file_uf_date(uf, date, data, data_name)
+            update_info_updates(uf, date, data, data_name)
             print('Saved', data_name, date, uf)
 
 
@@ -95,6 +93,6 @@ def handle_request(request):
 if __name__ == '__main__':
     request = dict()
     request['uf_list'] = ['SP']
-    request['update_from'] = ['beginning', 'last', 'few_last', '2021-02-20'][0]
+    request['update_from'] = ['beginning', 'last', 'few_last', '2021-05-12'][3]
     request['commit_msg'] = '[data] Test update.'
     handle_request(request)
