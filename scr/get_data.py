@@ -7,6 +7,7 @@ from pprint import pprint
 from SETUP import QUICK_TEST
 from time_format import datetime_to_str
 from elasticsearch import Elasticsearch, helpers, exceptions
+from time import time
 
 if QUICK_TEST:
     MAX_SIZE = 3
@@ -25,7 +26,7 @@ aggregators = ['vacina_dataAplicacao', 'paciente_idade', 'paciente_enumSexoBiolo
 
 
 def get_data(uf, dose, date_A, date_B):
-    pool = ThreadPool(processes=8)
+    pool = ThreadPool(processes=3)
     ages = [0, 30, 50, 70, 1000]
     futures = list()
     for i in range(len(ages) - 1):
@@ -51,7 +52,6 @@ def __request_data(body, trial=1):
     return r
 
 def request_scan(body, trial=1):
-    print('Requesting data', trial, body['query']['bool']['must'][2])
     if trial > 5:
         return None
     try:
@@ -60,12 +60,11 @@ def request_scan(body, trial=1):
             scroll='3m',
             size=10000,
             query=body,
-            request_timeout=50
+            request_timeout=5000
         )
     except:
         print('Request did not suceed. Trial', trial)
-        return __request_data(body, trial + 1)
-    print('Got data', body['query']['bool']['must'])
+        return request_scan(body, trial + 1)
     return resp
 
 pending = 0
@@ -84,9 +83,9 @@ def get_data_age(uf, dose, date_A, date_B, age_A, age_B):
         },
         "_source": keys_to_keep
     }
-    resp = request_scan(body)
-    print('Processing data', age_A, date_A)
     pending += 1
+    t0 = time()
+    resp = request_scan(body)
     result = list(resp)
     data = [i['_source'] for i in result]
     df = pd.DataFrame(data)
@@ -96,9 +95,8 @@ def get_data_age(uf, dose, date_A, date_B, age_A, age_B):
     df['data'] = df['vacina_dataAplicacao'].str[:10]
     del df['vacina_dataAplicacao']
     df['dose'] = dose
-    print('Got data of length', len(df), '--', date_A, dose, age_A)
-    print('Now being requested:', pending)
     pending -= 1
+    print('Now being requested:', pending, '  Got data of length', len(df), '--', date_A, dose, age_A, f'{int(time()-t0)}s')
     return df
 
 
@@ -161,7 +159,7 @@ def __get_data_age_agg(uf, dose, date_A, date_B, age_A, age_B):
         print(uf, dose, date_A, date_B, age_A, age_B)
         print(data)
         print()
-        sys.exit()
+        os._exit(1)
 
     u = unroll(aggregators, data['aggregations']['filtered'])
     df = pd.DataFrame(u)

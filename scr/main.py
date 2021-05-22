@@ -18,9 +18,8 @@ date_now = datetime.utcnow().timestamp() * 1000
 
 
 def update_for_dates(date_A, date_B, uf):
+    print(f'GETTING {uf} {timestamp_to_date(date_A)}')
     data = get_data_uf(uf, date_A, date_B)
-
-    print('LENGTH', len(data))
 
     if len(data) == 0:
         print('No data')
@@ -66,13 +65,13 @@ def update_data(uf, dates, commit_msg):
     futures = list()
     for a, b in dates:
         print('\nDATE: ', a, b, timestamp_to_date(a), '-', timestamp_to_date(b))
-        future = pool.apply_async(update_for_dates, (a, b, uf))  # tuple of args for foo
+        future = pool.apply_async(update_for_dates, (a, b, uf))
         futures.append(future)
     d = 0
     for f in futures:
         f.get()
         d += 1
-        print(f'done {uf} {d}/{len(futures)}')
+        print(f'done {uf} {d}/{len(dates)}')
     commit_and_push(commit_msg)
 
 
@@ -93,6 +92,6 @@ if __name__ == '__main__':
     request = dict()
     request['uf_list'] = ['SP']
     request['update_from'] = ['beginning', 'last', 'few_last'][0]
-    request['update_all'] = False
+    request['update_all'] = True
     request['commit_msg'] = '[data] Test update.'
     handle_request(request)
