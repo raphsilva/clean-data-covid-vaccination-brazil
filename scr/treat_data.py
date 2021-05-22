@@ -46,12 +46,11 @@ def aggregate_count(df):
     df = pd.DataFrame(gb)
     df.columns = ['contagem']
     df = df.reset_index()
-    df = df.sort_values(by=list(df.columns))
     columns = list(df.columns)
     columns.remove('contagem')
     df = df[columns + ['contagem']]
     df = df[['contagem'] + columns]
-    df = df.sort_values(by='contagem', ascending=False)
+    df = df.sort_values(by=list(df.columns), ascending=False)
     return df
 
 
