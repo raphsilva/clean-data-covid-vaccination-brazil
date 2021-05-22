@@ -17,7 +17,7 @@ else:
 url = 'https://imunizacao-es.saude.gov.br/'
 username = 'imunizacao_public'
 password = 'qlto5t&7r_@+#Tlstigi'
-client = Elasticsearch(url, http_auth=(username, password))
+client = Elasticsearch(url, http_auth=(username, password), maxsize=25, retry_on_timeout=True, max_retries=5)
 
 userAndPass = b64encode((b"f'{username}:{password}'")).decode("ascii")
 headers = {'Authorization': 'Basic %s' % userAndPass}
@@ -27,14 +27,24 @@ aggregators = ['vacina_dataAplicacao', 'paciente_idade', 'paciente_enumSexoBiolo
 
 def get_data(uf, dose, date_A, date_B):
     pool = ThreadPool(processes=3)
-    ages = [0, 30, 50, 70, 1000]
+    ages = [0, 25, 30, 40, 50, 60, 80, 1000]
     futures = list()
+    reg = list()
     for i in range(len(ages) - 1):
         a = ages[i]
         b = ages[i + 1]
-        future = pool.apply_async(get_data_age, (uf, dose, date_A, date_B, a, b))  # tuple of args for foo
+        args = (uf, dose, date_A, date_B, a, b)
+        future = pool.apply_async(get_data_age, args)  # tuple of args for foo
         futures.append(future)
-
+        reg.append(args)
+    for i in range(len(futures)):
+        try:
+            futures[i].get()
+        except:
+            print('>>> ERROR')
+            print()
+            print('>>>', reg[i])
+            print()
     data_parts = [v.get() for v in futures]
     return pd.concat(data_parts)
 
@@ -68,8 +78,11 @@ def request_scan(body, trial=1):
     return resp
 
 pending = 0
+pend_times = dict()
+pend_args = dict()
+id_d = 0
 def get_data_age(uf, dose, date_A, date_B, age_A, age_B):
-    global pending
+    global pending, pend_times, id_d, pend_args
     keys_to_keep = ['paciente_id', 'paciente_enumSexoBiologico', 'paciente_idade', 'vacina_nome', 'vacina_categoria_nome', 'vacina_grupoAtendimento_nome', 'vacina_dataAplicacao']
     body = {
         "query": {
@@ -85,6 +98,10 @@ def get_data_age(uf, dose, date_A, date_B, age_A, age_B):
     }
     pending += 1
     t0 = time()
+    id_d += 1
+    t_id = id_d
+    pend_times[t_id] = t0
+    pend_args[t_id] = (uf, dose, date_A, age_A)
     resp = request_scan(body)
     result = list(resp)
     data = [i['_source'] for i in result]
@@ -96,7 +113,23 @@ def get_data_age(uf, dose, date_A, date_B, age_A, age_B):
     del df['vacina_dataAplicacao']
     df['dose'] = dose
     pending -= 1
-    print('Now being requested:', pending, '  Got data of length', len(df), '--', date_A, dose, age_A, f'{int(time()-t0)}s')
+
+    r_times = list()
+    del pend_times[t_id]
+    queue_time = None
+    blocker_args = None
+    if len(pend_times) > 0:
+        for i in pend_times:
+            r_times.append(int(time()-pend_times[i]))
+        queue_time = sorted(r_times, reverse=True)
+        gt = max(r_times)
+        for i in list(pend_times.keys()):
+            if time()-pend_times[i] >= gt:
+                blocker_args = pend_args[i]
+                break
+
+    print('Now being requested:', pending, '  Got data of length', len(df), '--', date_A, dose, age_A, f'{int(time()-t0)}s', queue_time, blocker_args)
+
     return df
 
 
