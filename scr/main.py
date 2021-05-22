@@ -10,6 +10,8 @@ from multiprocessing.pool import ThreadPool
 from time import time
 
 DATA_SIZE_DAYS = 4
+OVERLAP_DAYS = 2
+RECENT_DAYS = 7
 MAX_DAYS = 21
 
 # update local repository
@@ -50,6 +52,16 @@ def update_for_dates(date_A, date_B, uf):
             print('Saved', data_name, date, uf)
 
 
+def decide_update_mode(uf):
+    last = get_last_time(uf)
+    if last is None:
+        return 'beginning'
+    elif date_now - last < hours_to_timestamp(4 * 24):
+        return 'recent'
+    else:
+        return 'last'
+
+
 def select_dates(uf, update_from, update_until):
     if update_from == 'beginning':
         yield 0, date_to_timestamp('2019-12-01')
@@ -57,11 +69,9 @@ def select_dates(uf, update_from, update_until):
         yield date_to_timestamp('2020-12-01'), date_to_timestamp('2021-01-17')
         a = date_to_timestamp('2021-01-17')
     elif update_from == 'recent':
-        a = date_now - hours_to_timestamp(7 * 24)
-    elif update_from == 'few_last':
-        a = get_last_time(uf) - hours_to_timestamp(2 * 24)
+        a = date_now - hours_to_timestamp(RECENT_DAYS * 24)
     elif update_from == 'last':
-        a = get_last_time(uf)
+        a = get_last_time(uf) - hours_to_timestamp(OVERLAP_DAYS * 24)
     else:
         a = date_to_timestamp(update_from)
     if update_until is None:
@@ -92,13 +102,16 @@ def update_data(uf, dates, commit_msg):
 def handle_request(request):
     uf_list = request['uf_list']
     if 'update_from' not in request:
-        request['update_from'] = 'recent'
+        request['update_from'] = 'auto'
     if 'update_until' not in request:
         request['update_until'] = None
     update_from = request['update_from']
     update_until = request['update_until']
     commit_msg = request['commit_msg']
     for uf in uf_list:
+        if update_from == 'auto':
+            update_from = decide_update_mode(uf)
+            print('Update mode:', update_from)
         dates = list(select_dates(uf, update_from, update_until))
         if len(dates) == 0:
             print('Nothing to update.')
@@ -113,7 +126,7 @@ def handle_request(request):
 if __name__ == '__main__':
     request = dict()
     request['uf_list'] = ['SP']
-    request['update_from'] = ['beginning', 'last', 'few_last', '2021-05-12'][2]
+    # request['update_from'] = ['beginning', 'last', 'few_last', '2021-05-12'][2]
     # request['update_until'] = '2021-04-01'
     request['commit_msg'] = '[data] Update.'
     handle_request(request)
