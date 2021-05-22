@@ -12,7 +12,7 @@ from time import time
 DATA_SIZE_DAYS = 4
 OVERLAP_DAYS = 2
 RECENT_DAYS = 7
-MAX_DAYS = 21
+MAX_DAYS = 14
 
 # update local repository
 print('Cloning repository.')
@@ -32,23 +32,27 @@ def update_for_dates(date_A, date_B, uf):
         print('No data')
         return
 
+    total_data_len = len(data)
+
     missing, complete = detect_missing(data)
     complete = aggregate_count(complete)
-    wrong_date, correct = detect_wrong_date(complete)
+    wrong_date, complete = detect_wrong_date(complete)
 
-    to_save = {'missing_demography': missing,
-               'wrong_date': wrong_date,
-               'complete': correct}
+    to_save = dict()
+    if len(missing) > 0:
+        to_save['missing_demography'] = missing
+    if len(wrong_date) > 0:
+        to_save['wrong_date'] = wrong_date
+    if len(complete) > 0:
+        to_save['wrong_date'] = complete
 
     for data_name in to_save:
-        if len(to_save[data_name]) == 0:
-            continue
         r = separate_by_date(to_save[data_name])
-        avg_spent_time = int(spent/len(r))
         for date in r:
             data = r[date]
             update_file_uf_date(uf, date, data, data_name)
             update_info_updates(uf, date, data, data_name, avg_spent_time)
+            avg_spent_time = int(spent*len(data)/total_data_len)
             print('Saved', data_name, date, uf)
 
 
