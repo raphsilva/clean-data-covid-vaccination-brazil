@@ -51,7 +51,7 @@ def _save_file(filepath, data):
 
 def update_file_uf_date(uf, date: str, data: pd.DataFrame, data_name: str = None):
     filepath = _get_path(uf, date, data_name)
-    _update_file(filepath, data)
+    _save_file(filepath, data)
 
 
 def update_info_updates(uf, date: str, data: pd.DataFrame, data_name: str, spent_time):
