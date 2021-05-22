@@ -90,6 +90,8 @@ def get_data_age(uf, dose, date_A, date_B, age_A, age_B):
     result = list(resp)
     data = [i['_source'] for i in result]
     df = pd.DataFrame(data)
+    if len(df) == 0:
+        df = pd.DataFrame(columns=keys_to_keep)
     df = df[keys_to_keep]
     df['data'] = df['vacina_dataAplicacao'].str[:10]
     del df['vacina_dataAplicacao']
