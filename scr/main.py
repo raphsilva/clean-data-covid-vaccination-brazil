@@ -51,7 +51,7 @@ def update_for_dates(date_A, date_B, uf):
         for date in r:
             data = r[date]
             update_file_uf_date(uf, date, data, data_name)
-            avg_spent_time = int(spent*len(data)/total_data_len)
+            avg_spent_time = int(spent*data['contagem'].sum()/total_data_len)
             update_info_updates(uf, date, data, data_name, avg_spent_time)
             print('Saved', data_name, date, uf)
 
