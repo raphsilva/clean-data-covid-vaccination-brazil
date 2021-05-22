@@ -7,6 +7,7 @@ from manage_files import update_file
 from time_format import hours_to_timestamp, timestamp_to_date, date_to_timestamp
 from treat_data import detect_missing, detect_wrong_date, separate_by_date, aggregate_count
 from multiprocessing.pool import ThreadPool
+from time import time
 
 # update local repository
 print('Cloning repository.')
@@ -60,24 +61,31 @@ def select_dates(uf, update_all=False):
         a = b
 
 
-def update_data(request):
+def update_data(uf, dates, commit_msg):
     pool = ThreadPool(processes=4)
     futures = list()
+    for a, b in dates:
+        print('\nDATE: ', a, b, timestamp_to_date(a), '-', timestamp_to_date(b))
+        future = pool.apply_async(update_for_dates, (a, b, uf))  # tuple of args for foo
+        futures.append(future)
+    d = 0
+    for f in futures:
+        f.get()
+        d += 1
+        print(f'done {uf} {d}/{len(futures)}')
+    commit_and_push(commit_msg)
+
+
+def handle_request(request):
     uf_list = request['uf_list']
     update_all = request['update_all']
     commit_msg = request['commit_msg']
     for uf in uf_list:
-        for a, b in select_dates(uf, update_all):
-            print('\nDATE: ', a, b, timestamp_to_date(a), '-', timestamp_to_date(b))
-            # update_for_dates(a, b, uf)
-            future = pool.apply_async(update_for_dates, (a, b, uf))  # tuple of args for foo
-            futures.append(future)
-        d = 0
-        for f in futures:
-            f.get()
-            d += 1
-            print(f'done {d}/{len(futures)}')
-        commit_and_push(commit_msg)
+        dates = list(select_dates(uf, update_all))
+        t0 = time()
+        update_data(uf, dates, commit_msg)
+        tt = time() - t0
+        print(f'Finished {uf} in {int(tt)} seconds. -- {timestamp_to_date(dates[0][0])} - {timestamp_to_date(dates[-1][1])}')
     return 'done'
 
 
@@ -87,4 +95,4 @@ if __name__ == '__main__':
     request['update_from'] = ['beginning', 'last', 'few_last'][0]
     request['update_all'] = False
     request['commit_msg'] = '[data] Test update.'
-    update_data(request)
+    handle_request(request)
