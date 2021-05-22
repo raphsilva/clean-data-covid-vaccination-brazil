@@ -44,7 +44,7 @@ def update_for_dates(date_A, date_B, uf):
     if len(wrong_date) > 0:
         to_save['wrong_date'] = wrong_date
     if len(complete) > 0:
-        to_save['wrong_date'] = complete
+        to_save['complete'] = complete
 
     for data_name in to_save:
         r = separate_by_date(to_save[data_name])
