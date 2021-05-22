@@ -46,14 +46,18 @@ def update_for_dates(date_A, date_B, uf):
             print('Saved', data_name, date, uf)
 
 
-def select_dates(uf, update_all=False):
-    if update_all:
+def select_dates(uf, update_from):
+    if update_from == 'beginning':
         yield 0, date_to_timestamp('2019-12-01')
         yield date_to_timestamp('2019-12-01'), date_to_timestamp('2020-12-01')
         yield date_to_timestamp('2020-12-01'), date_to_timestamp('2021-01-17')
         a = date_to_timestamp('2021-01-17')
-    else:
+    elif update_from == 'few_last':
         a = get_last_time(uf) - hours_to_timestamp(2 * 24)
+    elif update_from == 'last':
+        a = get_last_time(uf)
+    else:
+        a = date_to_timestamp(update_from)
     while a < date_now:
         b = a + hours_to_timestamp(4 * 24)
         yield a, b
@@ -77,10 +81,10 @@ def update_data(uf, dates, commit_msg):
 
 def handle_request(request):
     uf_list = request['uf_list']
-    update_all = request['update_all']
+    update_from = request['update_from']
     commit_msg = request['commit_msg']
     for uf in uf_list:
-        dates = list(select_dates(uf, update_all))
+        dates = list(select_dates(uf, update_from))
         t0 = time()
         update_data(uf, dates, commit_msg)
         tt = time() - t0
@@ -91,7 +95,6 @@ def handle_request(request):
 if __name__ == '__main__':
     request = dict()
     request['uf_list'] = ['SP']
-    request['update_from'] = ['beginning', 'last', 'few_last'][0]
-    request['update_all'] = True
+    request['update_from'] = ['beginning', 'last', 'few_last', '2021-02-20'][0]
     request['commit_msg'] = '[data] Test update.'
     handle_request(request)
