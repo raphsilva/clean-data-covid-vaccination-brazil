@@ -11,15 +11,15 @@ from time import time
 
 DATA_SIZE_DAYS = 4
 OVERLAP_DAYS = 2
-RECENT_DAYS = 7
-MAX_DAYS = 14
+RECENT_DAYS = 21
+MAX_DAYS = 21
 
 # update local repository
 print('Cloning repository.')
 clone_repository()
 print('Done: cloned repository.')
 
-date_now = datetime.utcnow().timestamp() * 1000
+date_now = int(datetime.utcnow().timestamp() * 1000)
 
 
 def update_for_dates(date_A, date_B, uf):
@@ -51,7 +51,7 @@ def update_for_dates(date_A, date_B, uf):
         for date in r:
             data = r[date]
             update_file_uf_date(uf, date, data, data_name)
-            avg_spent_time = int(spent*data['contagem'].sum()/total_data_len)
+            avg_spent_time = round(spent*data['contagem'].sum()/total_data_len)
             update_info_updates(uf, date, data, data_name, avg_spent_time)
             print('Saved', data_name, date, uf)
 
