@@ -1,4 +1,6 @@
 from datetime import datetime
+from multiprocessing.pool import ThreadPool
+from time import time
 
 from control_dates import get_last_time
 from get_data import get_data_uf
@@ -6,8 +8,6 @@ from interfaces.repository import clone_repository, commit_and_push
 from manage_files import update_file_uf_date, update_info_updates
 from time_format import hours_to_timestamp, timestamp_to_date, date_to_timestamp
 from treat_data import detect_missing, detect_wrong_date, separate_by_date, aggregate_count
-from multiprocessing.pool import ThreadPool
-from time import time
 
 DATA_SIZE_DAYS = 4
 OVERLAP_DAYS = 2
@@ -26,7 +26,7 @@ def update_for_dates(date_A, date_B, uf):
     print(f'GETTING {uf} {timestamp_to_date(date_A)}')
     t0 = time()
     data = get_data_uf(uf, date_A, date_B)
-    spent = time()-t0
+    spent = time() - t0
 
     if len(data) == 0:
         print('No data')
@@ -51,7 +51,7 @@ def update_for_dates(date_A, date_B, uf):
         for date in r:
             data = r[date]
             update_file_uf_date(uf, date, data, data_name)
-            avg_spent_time = round(spent*data['contagem'].sum()/total_data_len)
+            avg_spent_time = round(spent * data['contagem'].sum() / total_data_len)
             update_info_updates(uf, date, data, data_name, avg_spent_time)
             print('Saved', data_name, date, uf)
 

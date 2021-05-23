@@ -1,5 +1,5 @@
 import pandas as pd
-import os
+
 
 def detect_missing(df: pd.DataFrame()):
     if len(df) == 0:

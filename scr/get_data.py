@@ -1,13 +1,14 @@
+import os
 from base64 import b64encode
 from multiprocessing.pool import ThreadPool
-import os
+from time import time
+
 import pandas as pd
 import requests
-from pprint import pprint
+from elasticsearch import Elasticsearch, helpers
+
 from SETUP import QUICK_TEST
 from time_format import datetime_to_str
-from elasticsearch import Elasticsearch, helpers, exceptions
-from time import time
 
 if QUICK_TEST:
     MAX_SIZE = 3
@@ -61,6 +62,7 @@ def __request_data(body, trial=1):
     print('Got data', body['query']['bool']['must'])
     return r
 
+
 def request_scan(body, trial=1):
     if trial > 5:
         return None
@@ -77,10 +79,13 @@ def request_scan(body, trial=1):
         return request_scan(body, trial + 1)
     return resp
 
+
 pending = 0
 pend_times = dict()
 pend_args = dict()
 id_d = 0
+
+
 def get_data_age(uf, dose, date_A, date_B, age_A, age_B):
     global pending, pend_times, id_d, pend_args
     keys_to_keep = ['paciente_id', 'paciente_enumSexoBiologico', 'paciente_idade', 'vacina_nome', 'vacina_categoria_nome', 'vacina_grupoAtendimento_nome', 'vacina_dataAplicacao']
@@ -120,15 +125,15 @@ def get_data_age(uf, dose, date_A, date_B, age_A, age_B):
     blocker_args = None
     if len(pend_times) > 0:
         for i in pend_times:
-            r_times.append(int(time()-pend_times[i]))
+            r_times.append(int(time() - pend_times[i]))
         queue_time = sorted(r_times, reverse=True)
         gt = max(r_times)
         for i in list(pend_times.keys()):
-            if time()-pend_times[i] >= gt:
+            if time() - pend_times[i] >= gt:
                 blocker_args = pend_args[i]
                 break
 
-    print('Now being requested:', pending, '  Got data of length', len(df), '--', date_A, dose, age_A, f'{int(time()-t0)}s', queue_time, blocker_args)
+    print('Now being requested:', pending, '  Got data of length', len(df), '--', date_A, dose, age_A, f'{int(time() - t0)}s', queue_time, blocker_args)
 
     return df
 

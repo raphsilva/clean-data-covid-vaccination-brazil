@@ -1,6 +1,5 @@
 import os
 
-from SETUP import MIN_DATE
 from manage_files import get_directory_path
 from time_format import date_to_timestamp
 

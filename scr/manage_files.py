@@ -1,9 +1,9 @@
 import os
 
 import pandas as pd
-from time_format import get_today_str
 
 from SETUP import PATH_REPO, PATH_DATA
+from time_format import get_today_str
 
 COMPRESSION = None
 
@@ -64,7 +64,7 @@ def update_info_updates(uf, date: str, data: pd.DataFrame, data_name: str, spent
             }
     _update_file(filepath, pd.DataFrame([info]), ['data_atualizacao', 'tipo'])
 
-    #SUMMARY:
+    # SUMMARY:
     filepath = get_directory_path(uf, '_info') + '/totals.csv'
     info = {'data_aplicaçao': date,
             'tipo': data_name,

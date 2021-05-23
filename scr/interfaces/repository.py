@@ -7,6 +7,7 @@ from SETUP import PATH_REPO
 from integrations.git.git_x import REMOTE
 from integrations.git.git_x import username, useremail
 
+
 def clone_repository():
     if os.path.isdir(PATH_REPO):
         shutil.rmtree(PATH_REPO)
