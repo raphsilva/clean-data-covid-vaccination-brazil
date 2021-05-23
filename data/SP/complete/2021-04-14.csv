@@ -14,7 +14,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 3272,F,75,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 75 a 79 anos,2
 2364,M,75,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 75 a 79 anos,2
 2354,F,76,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 75 a 79 anos,2
-2351,F,70,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 70 a 74 anos,2
+2352,F,70,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 70 a 74 anos,2
 2268,F,66,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 65 a 69 anos,1
 1978,M,66,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 65 a 69 anos,1
 1863,M,70,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 70 a 74 anos,2
@@ -32,7 +32,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1413,F,53,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,1
 1314,F,55,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,1
 1211,F,56,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,1
-1142,M,69,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,2
+1143,M,69,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,2
 1040,F,57,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,1
 906,F,66,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,1
 878,F,58,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,1
@@ -43,7 +43,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 644,F,78,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 75 a 79 anos,2
 636,M,77,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 75 a 79 anos,2
 580,F,65,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,1
-568,F,65,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 65 a 69 anos,1
+569,F,65,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 65 a 69 anos,1
 566,M,65,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 65 a 69 anos,1
 558,F,61,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,1
 518,F,68,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,1
@@ -1834,6 +1834,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,F,57,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2
 1,F,57,Vacina Covid-19 - Covishield,Povos e Comunidades Tradicionais,Quilombola,1
 1,F,57,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 65 a 69 anos,1
+1,F,57,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
 1,F,57,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Segurança,1
 1,F,57,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Enfermeiro(a),2
 1,F,57,Covid-19-Coronavac-Sinovac/Butantan,Pessoas em Situação de Rua,Pessoas em Situação de Rua,1
