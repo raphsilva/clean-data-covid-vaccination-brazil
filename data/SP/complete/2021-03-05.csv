@@ -1,0 +1,1909 @@
+contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_nome,vacina_grupoAtendimento_nome,dose
+4443,F,77,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 75 a 79 anos,1
+4126,F,78,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 75 a 79 anos,1
+3386,F,79,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 75 a 79 anos,1
+3189,F,85,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,2
+2967,F,86,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,2
+2853,M,77,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 75 a 79 anos,1
+2703,M,78,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 75 a 79 anos,1
+2424,F,87,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,2
+2342,F,88,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,2
+1984,M,79,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 75 a 79 anos,1
+1892,F,89,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,2
+1723,M,85,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,2
+1552,M,86,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,2
+1316,M,87,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,2
+1271,F,80,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,1
+1264,F,90,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,2
+1158,F,81,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,1
+1111,M,88,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,2
+968,M,89,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,2
+963,F,91,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,2
+898,M,80,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,1
+874,F,80,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,1
+832,F,77,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 75 a 79 anos,1
+827,F,78,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 75 a 79 anos,1
+821,F,82,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,1
+789,F,81,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,1
+760,F,92,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,2
+757,F,79,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 75 a 79 anos,1
+756,F,76,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 75 a 79 anos,1
+752,M,81,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,1
+681,F,83,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,1
+609,F,82,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,1
+607,F,84,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,1
+589,F,93,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,2
+577,M,90,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,2
+562,M,80,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,1
+560,M,77,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 75 a 79 anos,1
+551,M,82,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,1
+543,M,81,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,1
+529,M,78,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 75 a 79 anos,1
+529,F,83,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,1
+515,M,76,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 75 a 79 anos,1
+511,M,79,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 75 a 79 anos,1
+493,F,84,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,1
+456,M,91,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,2
+455,M,83,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,1
+443,F,38,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+439,F,39,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+435,F,75,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 75 a 79 anos,1
+429,F,94,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,2
+424,F,40,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+423,F,84,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,2
+402,F,37,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+399,F,33,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+386,F,41,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+381,M,82,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,1
+381,F,35,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+379,F,42,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+379,F,36,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+375,F,34,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+372,M,84,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,1
+368,F,26,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+366,F,43,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+364,F,32,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+360,F,31,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+344,M,92,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,2
+344,F,24,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+343,F,30,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+334,F,23,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+331,F,29,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+330,M,75,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 75 a 79 anos,1
+328,M,83,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,1
+327,F,25,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+325,F,45,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+315,F,27,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+311,F,44,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+307,F,28,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+305,F,95,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,2
+293,F,48,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+290,F,46,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+287,F,47,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+270,M,84,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,1
+253,M,93,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,2
+250,F,96,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,2
+246,F,82,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,2
+246,F,81,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,2
+243,F,83,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,2
+239,F,49,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+237,F,51,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+236,F,50,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+232,F,21,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+230,F,22,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+229,F,85,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,1
+209,F,54,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+206,F,80,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,2
+202,M,84,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,2
+201,F,53,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+197,F,52,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+195,F,55,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+188,F,56,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+181,F,20,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+176,F,58,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+175,F,86,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,1
+168,M,94,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,2
+166,F,60,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+165,F,57,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+164,F,97,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,2
+163,F,59,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+161,F,62,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+161,F,61,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+160,M,38,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+151,F,63,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+148,M,41,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+148,F,87,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,1
+146,F,74,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 70 a 74 anos,1
+145,M,82,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,2
+142,M,37,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+140,F,73,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 70 a 74 anos,1
+139,F,76,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 75 a 79 anos,1
+137,M,95,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,2
+137,M,39,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+134,M,80,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,2
+133,M,83,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,2
+133,M,36,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+132,F,56,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+132,F,55,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+131,M,81,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,2
+131,F,19,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+130,M,34,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+130,F,68,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,1
+127,M,85,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,1
+127,M,43,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+127,M,42,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+127,M,40,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+127,F,88,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,1
+126,M,33,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+124,F,98,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,2
+123,M,35,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+122,M,32,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+115,F,79,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,1
+113,M,46,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+113,F,57,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+112,M,44,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+110,M,24,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+109,F,85,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,1
+109,F,64,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+108,M,86,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,1
+108,F,58,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+107,M,51,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+107,F,89,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,1
+104,M,31,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+104,M,28,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+103,M,48,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+102,M,55,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+102,M,45,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+101,M,27,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+101,F,72,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 70 a 74 anos,1
+100,F,59,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+99,F,65,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+98,M,96,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,2
+98,M,74,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 70 a 74 anos,1
+98,M,49,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+98,M,26,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+96,M,68,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,1
+96,F,78,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 75 a 79 anos,2
+94,M,29,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+94,F,77,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 75 a 79 anos,2
+92,M,56,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+92,M,25,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+91,M,47,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+91,M,30,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+91,F,71,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 70 a 74 anos,1
+86,F,79,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 75 a 79 anos,2
+85,M,73,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 70 a 74 anos,1
+84,M,76,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 75 a 79 anos,1
+84,M,57,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+84,F,66,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+83,M,54,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+83,M,23,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+83,F,76,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 75 a 79 anos,2
+82,M,87,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,1
+81,M,22,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+80,M,53,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+80,F,67,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+79,M,79,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,1
+79,F,86,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,1
+79,F,66,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,1
+78,F,70,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 70 a 74 anos,1
+77,M,58,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+77,F,63,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 60 a 64 anos,1
+76,M,60,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+76,F,69,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,1
+74,M,52,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+74,M,21,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+74,F,90,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,1
+74,F,62,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 60 a 64 anos,2
+72,M,85,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,1
+72,M,50,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+72,F,75,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 75 a 79 anos,1
+72,F,38,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+70,F,61,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 60 a 64 anos,2
+69,M,59,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+69,F,62,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 60 a 64 anos,1
+68,F,99,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,2
+67,M,88,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,1
+67,M,57,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+67,F,39,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+66,F,65,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,1
+65,F,64,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 60 a 64 anos,1
+65,F,26,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+64,M,77,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 75 a 79 anos,2
+64,M,63,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+64,F,75,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 75 a 79 anos,2
+64,F,67,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,1
+64,F,18,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+63,F,60,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 60 a 64 anos,2
+62,M,79,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 75 a 79 anos,2
+61,F,71,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 70 a 74 anos,2
+61,F,64,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 60 a 64 anos,2
+60,M,97,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,2
+60,M,61,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+60,M,20,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+59,M,71,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 70 a 74 anos,1
+59,M,70,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 70 a 74 anos,1
+59,F,40,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+58,F,68,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,2
+58,F,61,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 60 a 64 anos,1
+58,F,46,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+58,F,20,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+57,M,89,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,1
+57,M,76,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 75 a 79 anos,2
+57,M,56,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+57,F,43,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+57,F,41,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+56,M,67,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,1
+56,M,62,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+56,F,63,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 60 a 64 anos,2
+56,F,34,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+55,F,74,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 70 a 74 anos,2
+55,F,73,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 70 a 74 anos,2
+55,F,21,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+54,F,91,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,1
+54,F,66,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,2
+53,F,67,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,2
+53,F,60,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 60 a 64 anos,1
+53,F,44,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+53,F,23,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+52,M,72,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 70 a 74 anos,1
+52,M,66,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,1
+52,M,19,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+52,F,100,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,2
+52,F,37,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+52,F,35,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+51,M,65,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,1
+51,M,63,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 60 a 64 anos,1
+51,F,70,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 70 a 74 anos,2
+50,M,64,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+50,F,70,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+50,F,31,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+49,F,68,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+49,F,65,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,2
+49,F,33,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+49,F,32,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+49,F,24,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+49,F,22,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+48,M,98,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,2
+48,F,73,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 70 a 74 anos,1
+48,F,36,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+48,F,27,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+47,M,55,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+47,F,88,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,1
+47,F,69,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+47,F,65,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 65 a 69 anos,1
+47,F,50,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+47,F,25,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+46,M,75,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 75 a 79 anos,2
+46,F,79,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,1
+46,F,74,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 70 a 74 anos,1
+46,F,49,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+45,M,69,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,1
+45,F,72,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 70 a 74 anos,2
+45,F,47,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+45,F,28,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+44,M,78,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 75 a 79 anos,2
+44,F,87,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,1
+43,M,75,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 75 a 79 anos,1
+43,F,51,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+43,F,30,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+42,M,90,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,1
+42,M,86,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,1
+42,M,62,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 60 a 64 anos,1
+42,F,92,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,1
+42,F,69,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,2
+42,F,53,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+42,F,48,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+41,M,65,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+41,F,42,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+41,F,29,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+40,M,61,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 60 a 64 anos,1
+40,F,70,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 70 a 74 anos,1
+40,F,45,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+39,M,66,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+39,F,68,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 65 a 69 anos,1
+39,F,61,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+38,M,74,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 70 a 74 anos,1
+36,M,64,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 60 a 64 anos,1
+36,F,89,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,1
+36,F,69,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 65 a 69 anos,1
+36,F,52,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+35,M,87,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,1
+35,M,61,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 60 a 64 anos,2
+35,F,101,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,2
+35,F,72,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 70 a 74 anos,1
+35,F,60,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+34,M,73,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 70 a 74 anos,1
+34,M,72,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 70 a 74 anos,1
+34,M,68,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+34,M,67,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,2
+34,M,58,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+34,F,93,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,1
+33,M,59,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+33,M,41,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+33,F,54,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+32,M,91,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,1
+32,M,67,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+32,M,62,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 60 a 64 anos,2
+32,F,19,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+31,M,73,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 70 a 74 anos,2
+31,M,68,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,2
+31,M,54,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+31,M,35,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+31,F,67,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 65 a 69 anos,1
+31,F,66,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 65 a 69 anos,1
+30,M,65,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,2
+30,M,60,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 60 a 64 anos,1
+30,M,44,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+30,F,59,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+30,F,57,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+29,M,72,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 70 a 74 anos,2
+29,M,70,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 70 a 74 anos,1
+29,M,63,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 60 a 64 anos,2
+29,M,29,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+29,F,85,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+29,F,71,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 70 a 74 anos,1
+29,F,62,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+28,M,71,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 70 a 74 anos,1
+28,M,69,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,2
+28,M,60,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 60 a 64 anos,2
+27,M,88,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,1
+27,M,65,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 65 a 69 anos,1
+27,M,24,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+27,F,22,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+26,M,79,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,1
+26,M,64,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 60 a 64 anos,2
+26,M,46,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+26,M,39,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+26,M,33,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+26,F,90,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+26,F,58,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+26,F,56,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+26,F,55,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+26,F,20,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+25,M,43,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+25,M,34,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+25,M,18,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+25,F,71,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+25,F,23,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+24,M,74,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 70 a 74 anos,2
+24,M,70,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 70 a 74 anos,2
+24,M,66,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,2
+24,M,38,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+24,M,36,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+24,M,25,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+24,M,23,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+24,F,102,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,2
+24,F,86,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+23,M,52,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+23,M,31,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+23,F,94,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,1
+23,F,66,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+23,F,63,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+23,F,38,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+23,F,19,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+22,M,99,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,2
+22,M,69,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 65 a 69 anos,1
+22,M,53,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+22,M,51,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+22,M,45,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+22,F,95,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,1
+22,F,65,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+22,F,64,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1
+22,F,60,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1
+21,M,77,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+21,M,71,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 70 a 74 anos,2
+21,M,69,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+21,M,49,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+21,M,22,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+21,F,96,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,1
+21,F,90,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,1
+21,F,51,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+21,F,34,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+21,F,33,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+21,F,26,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+20,M,92,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,1
+20,M,72,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+20,M,66,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 65 a 69 anos,1
+20,F,87,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+20,F,78,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,1
+20,F,77,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+20,F,72,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+20,F,68,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+20,F,64,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+20,F,40,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+20,F,36,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+20,F,32,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+19,M,71,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+19,M,61,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+19,M,50,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+19,M,48,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+19,M,42,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+19,M,27,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+19,F,86,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,2
+19,F,63,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1
+19,F,61,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1
+19,F,48,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+19,F,37,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+19,F,21,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+19,F,18,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+18,M,89,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,1
+18,M,87,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+18,M,62,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+18,M,40,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+18,F,85,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,2
+18,F,62,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1
+17,M,70,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+17,M,47,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+17,M,37,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+17,M,32,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+17,M,30,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+17,M,26,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+17,F,88,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+17,F,74,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+17,F,45,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+17,F,25,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+16,M,64,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+16,M,63,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1
+16,M,61,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1
+16,F,91,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+16,F,89,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+16,F,78,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+16,F,77,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,1
+16,F,42,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+16,F,24,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+15,M,78,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+15,M,67,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 65 a 69 anos,1
+15,M,63,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+15,M,34,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+15,M,20,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+15,F,92,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+15,F,87,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,2
+15,F,73,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+15,F,69,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+15,F,67,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+15,F,54,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+15,F,41,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+15,F,28,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+15,F,27,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+14,M,93,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,1
+14,M,90,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,1
+14,M,62,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1
+14,M,60,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+14,M,56,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+14,M,55,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+14,M,28,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+14,F,91,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,1
+14,F,90,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,2
+14,F,35,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+14,F,29,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+13,M,94,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,1
+13,M,85,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+13,M,80,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 75 a 79 anos,1
+13,M,74,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+13,M,73,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+13,M,68,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 65 a 69 anos,1
+13,M,21,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+13,F,89,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,2
+13,F,84,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,2
+13,F,53,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+13,F,46,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+13,F,18,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+12,M,88,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+12,M,86,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+12,M,75,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+12,M,21,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+12,M,19,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+12,F,98,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,1
+12,F,92,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,1
+12,F,88,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,2
+12,F,81,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,2
+12,F,79,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 75 a 79 anos,2
+12,F,79,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+12,F,50,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+12,F,44,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+12,F,39,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+11,M,100,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,2
+11,M,79,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+11,M,60,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1
+11,M,57,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+11,M,33,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+11,M,29,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+11,M,27,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+11,F,52,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+10,M,91,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,1
+10,M,90,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+10,M,64,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1
+10,M,49,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+10,M,46,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+10,M,28,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+10,F,97,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,1
+10,F,82,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,2
+10,F,74,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 75 a 79 anos,1
+10,F,61,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+10,F,43,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+10,F,31,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+9,M,78,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,1
+9,M,77,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+9,M,77,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+9,M,77,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 70 a 74 anos,1
+9,M,41,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+9,M,35,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+9,M,22,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+9,F,105,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,2
+9,F,103,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,2
+9,F,93,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+9,F,82,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,1
+9,F,80,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,2
+9,F,80,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,1
+9,F,78,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,2
+9,F,77,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+9,F,76,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,2
+9,F,65,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+9,F,49,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+8,M,101,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,2
+8,M,89,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+8,M,86,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,2
+8,M,77,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,1
+8,M,76,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+8,M,65,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+8,M,63,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+8,M,54,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+8,M,48,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+8,M,42,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+8,M,38,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+8,M,37,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+8,M,30,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+8,M,20,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+8,F,104,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,2
+8,F,94,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+8,F,93,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,1
+8,F,81,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,2
+8,F,80,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,2
+8,F,80,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 75 a 79 anos,1
+8,F,79,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+8,F,75,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,2
+8,F,71,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,2
+8,F,47,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+7,M,95,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+7,M,94,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+7,M,91,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+7,M,88,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,2
+7,M,81,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,2
+7,M,80,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+7,M,78,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+7,M,76,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,2
+7,M,71,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+7,M,67,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+7,M,58,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+7,M,52,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+7,M,45,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+7,M,40,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+7,M,31,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+7,M,25,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+7,F,121,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+7,F,84,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,2
+7,F,84,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+7,F,83,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+7,F,81,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+7,F,78,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+7,F,78,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 70 a 74 anos,1
+7,F,77,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+7,F,77,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 70 a 74 anos,1
+7,F,76,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+7,F,76,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+7,F,73,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+7,F,73,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,2
+7,F,70,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+7,F,30,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+6,M,102,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,2
+6,M,96,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,1
+6,M,95,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,1
+6,M,93,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+6,M,84,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+6,M,82,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+6,M,82,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 75 a 79 anos,1
+6,M,79,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,2
+6,M,78,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,1
+6,M,74,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 75 a 79 anos,1
+6,M,66,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+6,M,64,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,2
+6,M,44,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+6,M,23,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+6,M,18,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+6,F,96,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,2
+6,F,95,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,1
+6,F,94,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,1
+6,F,94,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,2
+6,F,93,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,2
+6,F,83,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,2
+6,F,83,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,2
+6,F,79,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,2
+6,F,78,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,1
+6,F,77,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,1
+6,F,75,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+6,F,72,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+6,F,71,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+6,F,62,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+6,F,17,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+5,M,121,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+5,M,92,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+5,M,85,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,2
+5,M,84,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,2
+5,M,83,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,2
+5,M,80,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,2
+5,M,79,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+5,M,79,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,2
+5,M,78,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 70 a 74 anos,1
+5,M,76,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+5,M,74,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 75 a 79 anos,2
+5,M,72,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,2
+5,M,71,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+5,M,70,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+5,M,68,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+5,M,66,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,2
+5,M,59,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+5,M,43,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+5,M,39,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+5,M,32,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+5,M,24,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+5,F,106,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,2
+5,F,96,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+5,F,91,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,2
+5,F,84,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+5,F,82,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,2
+5,F,82,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+5,F,80,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Enfermeiro(a),1
+5,F,80,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 75 a 79 anos,1
+5,F,79,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+5,F,78,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,1
+5,F,75,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+5,F,73,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 75 a 79 anos,1
+5,F,72,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,2
+5,F,69,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+5,F,68,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,2
+5,F,64,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+5,F,60,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+4,M,104,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,2
+4,M,103,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,2
+4,M,97,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,1
+4,M,90,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,2
+4,M,87,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,2
+4,M,83,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+4,M,81,Vacina Covid-19 - Covishield,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,1
+4,M,81,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,2
+4,M,81,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,1
+4,M,78,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Enfermeiro(a),1
+4,M,78,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 75 a 79 anos,2
+4,M,77,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,1
+4,M,77,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,2
+4,M,76,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,1
+4,M,75,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 70 a 74 anos,1
+4,M,74,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+4,M,73,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,2
+4,M,69,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,2
+4,M,69,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 70 a 74 anos,1
+4,M,65,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,2
+4,M,61,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,2
+4,M,60,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+4,M,60,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,2
+4,M,53,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+4,M,46,Covid-19-Coronavac-Sinovac/Butantan,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,2
+4,M,45,Covid-19-Coronavac-Sinovac/Butantan,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,2
+4,M,36,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+4,M,34,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Odontologista,2
+4,M,34,Covid-19-Coronavac-Sinovac/Butantan,Povos e Comunidades Tradicionais,Quilombola,2
+4,F,107,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,2
+4,F,103,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,1
+4,F,102,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,1
+4,F,101,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,1
+4,F,97,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,1
+4,F,95,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+4,F,95,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,2
+4,F,92,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,2
+4,F,84,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+4,F,83,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+4,F,82,Vacina Covid-19 - Covishield,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,1
+4,F,81,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+4,F,80,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+4,F,80,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+4,F,79,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Enfermeiro(a),1
+4,F,79,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,2
+4,F,78,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+4,F,77,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,2
+4,F,76,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,1
+4,F,71,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+4,F,70,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,2
+4,F,68,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+4,F,66,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+4,F,64,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,1
+4,F,63,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+4,F,62,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,2
+4,F,60,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,2
+4,F,58,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,2
+4,F,47,Covid-19-Coronavac-Sinovac/Butantan,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,2
+3,M,105,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,2
+3,M,98,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+3,M,95,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,1
+3,M,93,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,1
+3,M,93,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,2
+3,M,92,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,1
+3,M,89,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,2
+3,M,85,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 75 a 79 anos,2
+3,M,83,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+3,M,83,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,1
+3,M,82,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,1
+3,M,81,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+3,M,81,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Enfermeiro(a),1
+3,M,81,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+3,M,81,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 75 a 79 anos,1
+3,M,79,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+3,M,78,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+3,M,78,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,2
+3,M,78,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,1
+3,M,74,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,2
+3,M,70,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+3,M,68,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+3,M,67,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,2
+3,M,64,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,1
+3,M,63,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,2
+3,M,63,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,2
+3,M,62,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,2
+3,M,61,Covid-19-Coronavac-Sinovac/Butantan,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,2
+3,M,57,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,2
+3,M,56,Covid-19-Coronavac-Sinovac/Butantan,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,2
+3,M,55,Covid-19-Coronavac-Sinovac/Butantan,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,2
+3,M,54,Covid-19-Coronavac-Sinovac/Butantan,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,2
+3,M,53,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,2
+3,M,53,Covid-19-Coronavac-Sinovac/Butantan,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,2
+3,M,50,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+3,M,47,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+3,M,47,Covid-19-Coronavac-Sinovac/Butantan,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,2
+3,M,40,Covid-19-Coronavac-Sinovac/Butantan,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,2
+3,M,39,Covid-19-Coronavac-Sinovac/Butantan,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,2
+3,M,39,Covid-19-Coronavac-Sinovac/Butantan,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,1
+3,M,38,Covid-19-Coronavac-Sinovac/Butantan,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,2
+3,M,36,Covid-19-Coronavac-Sinovac/Butantan,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,2
+3,M,35,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Médico,2
+3,M,34,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Profissionais de Educação Física,2
+3,M,33,Covid-19-Coronavac-Sinovac/Butantan,Povos Indígenas,Povos indígenas em terras indígenas,2
+3,M,26,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+3,M,22,Covid-19-Coronavac-Sinovac/Butantan,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,2
+3,M,19,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+3,F,104,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+3,F,99,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,1
+3,F,97,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,2
+3,F,88,Vacina Covid-19 - Covishield,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,1
+3,F,88,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 75 a 79 anos,2
+3,F,86,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 75 a 79 anos,2
+3,F,85,Vacina Covid-19 - Covishield,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,1
+3,F,84,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,1
+3,F,83,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+3,F,82,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+3,F,82,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+3,F,81,Vacina Covid-19 - Covishield,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,1
+3,F,81,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 75 a 79 anos,1
+3,F,80,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 70 a 74 anos,1
+3,F,79,Vacina Covid-19 - Covishield,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,1
+3,F,79,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,1
+3,F,78,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 75 a 79 anos,2
+3,F,77,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,1
+3,F,77,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 75 a 79 anos,2
+3,F,76,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,1
+3,F,75,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,1
+3,F,75,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 70 a 74 anos,1
+3,F,74,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+3,F,74,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,2
+3,F,73,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+3,F,70,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+3,F,67,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,2
+3,F,63,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,2
+3,F,61,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,2
+3,F,53,Covid-19-Coronavac-Sinovac/Butantan,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,2
+3,F,49,Covid-19-Coronavac-Sinovac/Butantan,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,2
+3,F,47,Covid-19-Coronavac-Sinovac/Butantan,Povos e Comunidades Tradicionais,Quilombola,2
+3,F,44,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Médico,2
+3,F,44,Covid-19-Coronavac-Sinovac/Butantan,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,2
+3,F,42,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2
+3,F,41,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Técnico de Enfermagem,2
+3,F,39,Covid-19-Coronavac-Sinovac/Butantan,Povos e Comunidades Tradicionais,Quilombola,2
+3,F,37,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Nutricionista,2
+3,F,37,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Médico,1
+3,F,30,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Odontologista,2
+3,F,27,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Técnico de Enfermagem,2
+3,F,16,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+2,M,110,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,2
+2,M,100,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,1
+2,M,98,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,1
+2,M,96,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,1
+2,M,94,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,1
+2,M,94,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,2
+2,M,92,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,2
+2,M,89,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,2
+2,M,88,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 75 a 79 anos,1
+2,M,86,Covid-19-Coronavac-Sinovac/Butantan,Povos e Comunidades Tradicionais,Quilombola,2
+2,M,86,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 75 a 79 anos,1
+2,M,85,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,2
+2,M,85,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 75 a 79 anos,1
+2,M,85,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,2
+2,M,84,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,2
+2,M,84,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+2,M,84,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,1
+2,M,83,Vacina Covid-19 - Covishield,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,1
+2,M,83,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+2,M,82,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Faixa Etária,Pessoas de 80 anos ou mais,1
+2,M,82,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,2
+2,M,82,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,2
+2,M,82,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 70 a 74 anos,1
+2,M,81,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+2,M,80,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Faixa Etária,Pessoas de 80 anos ou mais,1
+2,M,80,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,2
+2,M,80,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 75 a 79 anos,1
+2,M,80,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 70 a 74 anos,1
+2,M,80,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 65 a 69 anos,1
+2,M,80,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,1
+2,M,79,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,2
+2,M,79,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,1
+2,M,79,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 70 a 74 anos,1
+2,M,78,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,2
+2,M,78,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 70 a 74 anos,1
+2,M,78,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,2
+2,M,77,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,2
+2,M,77,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,1
+2,M,77,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,2
+2,M,76,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+2,M,76,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,1
+2,M,75,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,1
+2,M,74,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+2,M,74,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,1
+2,M,74,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,1
+2,M,73,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+2,M,72,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+2,M,71,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,1
+2,M,70,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,2
+2,M,69,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+2,M,69,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,1
+2,M,67,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+2,M,67,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 75 a 79 anos,1
+2,M,66,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,1
+2,M,65,Covid-19-Coronavac-Sinovac/Butantan,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,2
+2,M,64,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+2,M,64,Covid-19-Coronavac-Sinovac/Butantan,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,2
+2,M,64,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,1
+2,M,62,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+2,M,61,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+2,M,61,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,2
+2,M,59,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,2
+2,M,58,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Motorista de Ambulância,2
+2,M,58,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,2
+2,M,58,Covid-19-Coronavac-Sinovac/Butantan,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,2
+2,M,57,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,1
+2,M,56,Covid-19-Coronavac-Sinovac/Butantan,Povos e Comunidades Tradicionais,Quilombola,2
+2,M,56,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,2
+2,M,51,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+2,M,48,Covid-19-Coronavac-Sinovac/Butantan,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,2
+2,M,46,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Motorista de Ambulância,2
+2,M,46,Covid-19-Coronavac-Sinovac/Butantan,Povos Indígenas,Povos indígenas em terras indígenas,2
+2,M,45,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Profissionais de Educação Física,2
+2,M,43,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Médico,2
+2,M,43,Covid-19-Coronavac-Sinovac/Butantan,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,2
+2,M,42,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Médico,1
+2,M,41,Covid-19-Coronavac-Sinovac/Butantan,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,2
+2,M,38,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Médico,2
+2,M,38,Covid-19-Coronavac-Sinovac/Butantan,Povos Indígenas,Povos indígenas em terras indígenas,2
+2,M,36,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Profissionais de Educação Física,2
+2,M,34,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Médico,1
+2,M,33,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Médico,1
+2,M,33,Covid-19-Coronavac-Sinovac/Butantan,Povos e Comunidades Tradicionais,Quilombola,2
+2,M,33,Covid-19-Coronavac-Sinovac/Butantan,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,2
+2,M,32,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Médico,2
+2,M,30,Covid-19-Coronavac-Sinovac/Butantan,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,2
+2,M,29,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Médico,2
+2,M,26,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Estudante,1
+2,M,26,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Odontologista,2
+2,M,26,Covid-19-Coronavac-Sinovac/Butantan,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,2
+2,M,24,Covid-19-Coronavac-Sinovac/Butantan,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,2
+2,M,20,Covid-19-Coronavac-Sinovac/Butantan,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,2
+2,M,19,Covid-19-Coronavac-Sinovac/Butantan,Povos e Comunidades Tradicionais,Quilombola,2
+2,M,18,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+2,F,112,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,2
+2,F,109,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,2
+2,F,108,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,2
+2,F,106,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+2,F,100,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,1
+2,F,98,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,1
+2,F,98,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,2
+2,F,96,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,1
+2,F,93,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,1
+2,F,90,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,2
+2,F,90,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 75 a 79 anos,1
+2,F,89,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+2,F,89,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,2
+2,F,88,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+2,F,88,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 60 a 64 anos,2
+2,F,87,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 75 a 79 anos,1
+2,F,86,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,2
+2,F,86,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,1
+2,F,86,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,2
+2,F,86,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 60 a 64 anos,2
+2,F,85,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,2
+2,F,84,Vacina Covid-19 - Covishield,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,1
+2,F,83,Vacina Covid-19 - Covishield,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,1
+2,F,83,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,1
+2,F,83,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 75 a 79 anos,1
+2,F,82,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Enfermeiro(a),1
+2,F,81,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Faixa Etária,Pessoas de 80 anos ou mais,1
+2,F,81,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Enfermeiro(a),1
+2,F,81,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 75 a 79 anos,1
+2,F,80,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 75 a 79 anos,2
+2,F,80,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 70 a 74 anos,1
+2,F,79,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,2
+2,F,78,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Enfermeiro(a),1
+2,F,78,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,2
+2,F,76,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,1
+2,F,76,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,2
+2,F,75,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,1
+2,F,74,Vacina Covid-19 - Covishield,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,1
+2,F,74,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,1
+2,F,74,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 75 a 79 anos,1
+2,F,74,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 70 a 74 anos,2
+2,F,72,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,1
+2,F,72,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,1
+2,F,71,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,2
+2,F,71,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 75 a 79 anos,1
+2,F,68,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 70 a 74 anos,1
+2,F,67,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+2,F,66,Vacina Covid-19 - Covishield,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,1
+2,F,65,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,2
+2,F,64,Vacina Covid-19 - Covishield,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,1
+2,F,64,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,2
+2,F,63,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,1
+2,F,63,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,1
+2,F,62,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,1
+2,F,61,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 75 a 79 anos,1
+2,F,60,Vacina Covid-19 - Covishield,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,1
+2,F,60,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,2
+2,F,59,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,2
+2,F,59,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,2
+2,F,59,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 60 a 64 anos,2
+2,F,58,Covid-19-Coronavac-Sinovac/Butantan,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,2
+2,F,57,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Recepcionista,2
+2,F,57,Covid-19-Coronavac-Sinovac/Butantan,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,2
+2,F,56,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Cuidador de Idosos,2
+2,F,56,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,2
+2,F,55,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,1
+2,F,54,Covid-19-Coronavac-Sinovac/Butantan,Povos Indígenas,Povos indígenas em terras indígenas,2
+2,F,54,Covid-19-Coronavac-Sinovac/Butantan,Povos Indígenas,Povos indígenas em terras indígenas,1
+2,F,53,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Assistente Social,2
+2,F,53,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,1
+2,F,51,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,1
+2,F,49,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Cuidador de Idosos,2
+2,F,44,Covid-19-Coronavac-Sinovac/Butantan,Povos e Comunidades Tradicionais,Quilombola,2
+2,F,43,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Odontologista,2
+2,F,42,Covid-19-Coronavac-Sinovac/Butantan,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,2
+2,F,41,Covid-19-Coronavac-Sinovac/Butantan,Povos e Comunidades Tradicionais,Quilombola,2
+2,F,41,Covid-19-Coronavac-Sinovac/Butantan,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,2
+2,F,39,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Odontologista,2
+2,F,38,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Médico,2
+2,F,38,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Farmacêutico,2
+2,F,37,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Técnico de Enfermagem,2
+2,F,37,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Médico,2
+2,F,35,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Médico,2
+2,F,35,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Enfermeiro(a),1
+2,F,35,Covid-19-Coronavac-Sinovac/Butantan,Povos e Comunidades Tradicionais,Quilombola,2
+2,F,34,Covid-19-Coronavac-Sinovac/Butantan,Povos e Comunidades Tradicionais,Quilombola,2
+2,F,34,Covid-19-Coronavac-Sinovac/Butantan,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,2
+2,F,33,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Recepcionista,1
+2,F,33,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Técnico de Enfermagem,2
+2,F,33,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Odontologista,2
+2,F,31,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Enfermeiro(a),2
+2,F,30,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Médico,1
+2,F,30,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Enfermeiro(a),1
+2,F,29,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Odontologista,1
+2,F,29,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Médico,2
+2,F,29,Covid-19-Coronavac-Sinovac/Butantan,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,1
+2,F,28,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Profissionais de Educação Física,2
+2,F,28,Covid-19-Coronavac-Sinovac/Butantan,Povos Indígenas,Povos indígenas em terras indígenas,2
+2,F,28,Covid-19-Coronavac-Sinovac/Butantan,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,2
+2,F,27,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Recepcionista,2
+2,F,26,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Odontologista,2
+2,F,25,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Estudante,1
+2,F,24,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Estudante,1
+2,F,23,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Estudante,1
+2,F,23,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Odontologista,2
+2,F,23,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Fisioterapeutas,2
+2,F,22,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Recepcionista,1
+2,F,22,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Estudante,1
+2,F,21,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Estudante,1
+2,F,20,Covid-19-Coronavac-Sinovac/Butantan,Povos e Comunidades Tradicionais,Quilombola,1
+2,F,20,Covid-19-Coronavac-Sinovac/Butantan,Povos Indígenas,Povos indígenas em terras indígenas,2
+2,F,19,Covid-19-Coronavac-Sinovac/Butantan,Povos Indígenas,Povos indígenas em terras indígenas,2
+1,M,116,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 75 a 79 anos,1
+1,M,108,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,2
+1,M,107,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,2
+1,M,107,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,1
+1,M,106,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,2
+1,M,104,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,1
+1,M,102,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,1
+1,M,98,Vacina Covid-19 - Covishield,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,1
+1,M,98,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,1
+1,M,98,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,2
+1,M,98,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 75 a 79 anos,1
+1,M,97,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+1,M,97,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,2
+1,M,96,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,2
+1,M,96,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+1,M,95,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,2
+1,M,94,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,2
+1,M,93,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 75 a 79 anos,1
+1,M,92,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+1,M,92,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,2
+1,M,91,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,1
+1,M,90,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+1,M,90,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,1
+1,M,90,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 75 a 79 anos,2
+1,M,90,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 70 a 74 anos,2
+1,M,90,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 60 a 64 anos,2
+1,M,89,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+1,M,89,Covid-19-Coronavac-Sinovac/Butantan,Povos Indígenas,Povos indígenas em terras indígenas,2
+1,M,88,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 75 a 79 anos,1
+1,M,87,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+1,M,87,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,2
+1,M,87,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 60 a 64 anos,2
+1,M,86,Vacina Covid-19 - Covishield,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,1
+1,M,86,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,2
+1,M,86,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+1,M,86,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,2
+1,M,85,Covid-19-Coronavac-Sinovac/Butantan,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,2
+1,M,85,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 60 a 64 anos,2
+1,M,85,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 60 a 64 anos,1
+1,M,84,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 75 a 79 anos,1
+1,M,84,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 75 a 79 anos,2
+1,M,84,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 75 a 79 anos,1
+1,M,84,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 60 a 64 anos,1
+1,M,83,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,2
+1,M,83,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 75 a 79 anos,1
+1,M,83,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 60 a 64 anos,1
+1,M,82,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+1,M,82,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Enfermeiro(a),1
+1,M,82,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 75 a 79 anos,1
+1,M,82,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+1,M,82,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,1
+1,M,82,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 60 a 64 anos,1
+1,M,81,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2
+1,M,81,Vacina Covid-19 - Covishield,População Privada de Liberdade,População Privada de Liberdade,1
+1,M,81,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 75 a 79 anos,1
+1,M,81,Covid-19-Coronavac-Sinovac/Butantan,Povos e Comunidades Tradicionais,Quilombola,2
+1,M,81,Covid-19-Coronavac-Sinovac/Butantan,Povos Indígenas,Povos indígenas em terras indígenas,2
+1,M,81,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 70 a 74 anos,1
+1,M,80,Vacina Covid-19 - Covishield,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,1
+1,M,80,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+1,M,80,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+1,M,80,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 75 a 79 anos,2
+1,M,80,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 70 a 74 anos,2
+1,M,80,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 70 a 74 anos,1
+1,M,79,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Enfermeiro(a),1
+1,M,79,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 75 a 79 anos,2
+1,M,79,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 70 a 74 anos,1
+1,M,78,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Faixa Etária,Pessoas de 75 a 79 anos,1
+1,M,78,Vacina Covid-19 - Covishield,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,1
+1,M,78,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 65 a 69 anos,1
+1,M,77,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Faixa Etária,Pessoas de 75 a 79 anos,1
+1,M,77,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 75 a 79 anos,2
+1,M,77,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 70 a 74 anos,1
+1,M,76,Vacina Covid-19 - Covishield,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,1
+1,M,76,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,1
+1,M,76,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Médico,2
+1,M,75,Vacina Covid-19 - Covishield,População Privada de Liberdade,População Privada de Liberdade,1
+1,M,75,Vacina Covid-19 - Covishield,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,1
+1,M,75,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+1,M,75,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,2
+1,M,75,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,2
+1,M,74,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 75 a 79 anos,1
+1,M,74,Covid-19-Coronavac-Sinovac/Butantan,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,2
+1,M,74,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 60 a 64 anos,1
+1,M,73,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2
+1,M,73,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,1
+1,M,73,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,2
+1,M,73,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,1
+1,M,72,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,2
+1,M,71,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Médico,1
+1,M,71,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 75 a 79 anos,1
+1,M,71,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 65 a 69 anos,1
+1,M,71,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,2
+1,M,70,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,2
+1,M,70,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 75 a 79 anos,1
+1,M,69,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+1,M,69,Covid-19-Coronavac-Sinovac/Butantan,Povos e Comunidades Tradicionais,Quilombola,2
+1,M,69,Covid-19-Coronavac-Sinovac/Butantan,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,2
+1,M,69,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 70 a 74 anos,2
+1,M,69,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 60 a 64 anos,2
+1,M,68,Vacina Covid-19 - Covishield,Comorbidades,Doença Renal,1
+1,M,68,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,2
+1,M,68,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,2
+1,M,67,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,1
+1,M,67,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 65 a 69 anos,2
+1,M,67,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Segurança,2
+1,M,67,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Médico Veterinário,2
+1,M,67,Covid-19-Coronavac-Sinovac/Butantan,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,2
+1,M,66,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,1
+1,M,66,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 75 a 79 anos,1
+1,M,66,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Odontologista,2
+1,M,66,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 75 a 79 anos,1
+1,M,66,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 60 a 64 anos,2
+1,M,65,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+1,M,64,Vacina Covid-19 - Covishield,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,1
+1,M,64,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,2
+1,M,64,Covid-19-Coronavac-Sinovac/Butantan,Povos e Comunidades Tradicionais,Quilombola,2
+1,M,64,Covid-19-Coronavac-Sinovac/Butantan,Povos e Comunidades Tradicionais,Quilombola,1
+1,M,64,Covid-19-Coronavac-Sinovac/Butantan,Pessoas em Situação de Rua,Pessoas em Situação de Rua,1
+1,M,64,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 75 a 79 anos,1
+1,M,64,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,2
+1,M,63,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Odontologista,2
+1,M,63,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Médico,2
+1,M,63,Covid-19-Coronavac-Sinovac/Butantan,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,2
+1,M,63,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 70 a 74 anos,1
+1,M,62,Vacina Covid-19 - Covishield,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,1
+1,M,62,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 70 a 74 anos,1
+1,M,62,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Odontologista,1
+1,M,62,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Motorista de Ambulância,2
+1,M,62,Covid-19-Coronavac-Sinovac/Butantan,Povos Indígenas,Povos indígenas em terras indígenas,2
+1,M,62,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,1
+1,M,62,Covid-19-Coronavac-Sinovac/Butantan,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,2
+1,M,62,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,2
+1,M,62,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 70 a 74 anos,1
+1,M,61,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Médico,1
+1,M,61,Vacina Covid-19 - Covishield,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,1
+1,M,61,Covid-19-Coronavac-Sinovac/Butantan,Povos e Comunidades Tradicionais,Quilombola,2
+1,M,60,Covid-19-Coronavac-Sinovac/Butantan,Pessoas em Situação de Rua,Pessoas em Situação de Rua,2
+1,M,60,Covid-19-Coronavac-Sinovac/Butantan,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,2
+1,M,60,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,2
+1,M,59,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Cuidador de Idosos,2
+1,M,59,Covid-19-Coronavac-Sinovac/Butantan,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,2
+1,M,59,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 60 a 64 anos,1
+1,M,59,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Câncer,1
+1,M,58,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Médico,1
+1,M,58,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,1
+1,M,58,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 75 a 79 anos,1
+1,M,58,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 65 a 69 anos,1
+1,M,58,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 75 a 79 anos,1
+1,M,57,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Recepcionista,1
+1,M,57,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2
+1,M,57,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,1
+1,M,57,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Psicólogo,1
+1,M,57,Covid-19-Coronavac-Sinovac/Butantan,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,2
+1,M,57,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 60 a 64 anos,1
+1,M,56,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Segurança,2
+1,M,56,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Assistente Social,2
+1,M,56,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,2
+1,M,56,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,1
+1,M,55,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2
+1,M,55,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,1
+1,M,55,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Cuidador de Idosos,1
+1,M,55,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,1
+1,M,54,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2
+1,M,54,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Cuidador de Idosos,2
+1,M,54,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Cuidador de Idosos,1
+1,M,54,Covid-19-Coronavac-Sinovac/Butantan,Povos e Comunidades Tradicionais,Quilombola,2
+1,M,54,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,1
+1,M,53,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Odontologista,1
+1,M,53,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,1
+1,M,53,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Psicólogo,2
+1,M,53,Covid-19-Coronavac-Sinovac/Butantan,Povos e Comunidades Tradicionais,Quilombola,2
+1,M,53,Covid-19-Coronavac-Sinovac/Butantan,Povos Indígenas,Povos indígenas em terras indígenas,2
+1,M,53,Covid-19-Coronavac-Sinovac/Butantan,Povos Indígenas,Povos indígenas em terras indígenas,1
+1,M,53,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,2
+1,M,52,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Auxiliar de Enfermagem,1
+1,M,52,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 65 a 69 anos,1
+1,M,52,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1
+1,M,52,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Motorista de Ambulância,1
+1,M,52,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,2
+1,M,52,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,1
+1,M,52,Covid-19-Coronavac-Sinovac/Butantan,Povos e Comunidades Tradicionais,Quilombola,2
+1,M,52,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,2
+1,M,52,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,1
+1,M,52,Covid-19-Coronavac-Sinovac/Butantan,Pessoas com Deficiência,Pessoas com Deficiências Permanente Grave,1
+1,M,52,Covid-19-Coronavac-Sinovac/Butantan,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,2
+1,M,51,Covid-19-Coronavac-Sinovac/Butantan,Povos Indígenas,Povos indígenas em terras indígenas,2
+1,M,51,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,2
+1,M,51,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 75 a 79 anos,1
+1,M,50,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Médico,1
+1,M,50,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,2
+1,M,50,Covid-19-Coronavac-Sinovac/Butantan,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,2
+1,M,50,Covid-19-Coronavac-Sinovac/Butantan,Forças de Segurança e Salvamento,Policial Civil,2
+1,M,50,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 75 a 79 anos,2
+1,M,50,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 75 a 79 anos,1
+1,M,49,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Técnico de Enfermagem,2
+1,M,49,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Pessoal da Limpeza,2
+1,M,49,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,1
+1,M,49,Covid-19-Coronavac-Sinovac/Butantan,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,2
+1,M,49,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,1
+1,M,48,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Terapeuta Ocupacional,1
+1,M,48,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Segurança,1
+1,M,48,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Odontologista,1
+1,M,48,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 75 a 79 anos,1
+1,M,47,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Farmacêutico,1
+1,M,47,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Segurança,1
+1,M,47,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Médico,2
+1,M,47,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Médico,1
+1,M,47,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Motorista de Ambulância,1
+1,M,47,Covid-19-Coronavac-Sinovac/Butantan,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,1
+1,M,46,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Segurança,1
+1,M,46,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2
+1,M,46,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Segurança,1
+1,M,46,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Médico,2
+1,M,46,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Motorista de Ambulância,1
+1,M,46,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Funcionário do Sistema Funerário c/ cadáveres potencialmente contaminados,1
+1,M,46,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Assistente Social,2
+1,M,46,Covid-19-Coronavac-Sinovac/Butantan,Povos e Comunidades Tradicionais,Quilombola,2
+1,M,46,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,1
+1,M,46,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,2
+1,M,45,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Médico,2
+1,M,45,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Motorista de Ambulância,2
+1,M,45,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,1
+1,M,45,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,2
+1,M,45,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,2
+1,M,45,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 75 a 79 anos,1
+1,M,44,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Odontologista,2
+1,M,44,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Médico,2
+1,M,44,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Motorista de Ambulância,1
+1,M,44,Covid-19-Coronavac-Sinovac/Butantan,Povos Indígenas,Povos indígenas em terras indígenas,2
+1,M,44,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,1
+1,M,43,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Técnico de Enfermagem,1
+1,M,43,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Profissionais de Educação Física,2
+1,M,43,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Farmacêutico,2
+1,M,43,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Cuidador de Idosos,1
+1,M,43,Covid-19-Coronavac-Sinovac/Butantan,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,1
+1,M,42,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Recepcionista,1
+1,M,42,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Enfermeiro(a),1
+1,M,42,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Profissionais de Educação Física,2
+1,M,42,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Médico,2
+1,M,42,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Motorista de Ambulância,2
+1,M,42,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Motorista de Ambulância,1
+1,M,42,Covid-19-Coronavac-Sinovac/Butantan,Povos e Comunidades Tradicionais,Quilombola,2
+1,M,42,Covid-19-Coronavac-Sinovac/Butantan,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,1
+1,M,41,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Técnico de Enfermagem,2
+1,M,41,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,2
+1,M,40,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Profissionais de Educação Física,2
+1,M,40,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Odontologista,2
+1,M,40,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Farmacêutico,2
+1,M,40,Covid-19-Coronavac-Sinovac/Butantan,Povos Indígenas,Povos indígenas em terras indígenas,2
+1,M,39,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Médico,1
+1,M,39,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Funcionário do Sistema Funerário c/ cadáveres potencialmente contaminados,1
+1,M,39,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Odontologista,1
+1,M,39,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Funcionário do Sistema Funerário c/ cadáveres potencialmente contaminados,2
+1,M,39,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Enfermeiro(a),2
+1,M,39,Covid-19-Coronavac-Sinovac/Butantan,Povos e Comunidades Tradicionais,Quilombola,2
+1,M,39,Covid-19-Coronavac-Sinovac/Butantan,Povos Indígenas,Povos indígenas em terras indígenas,2
+1,M,39,Covid-19-Coronavac-Sinovac/Butantan,Forças de Segurança e Salvamento,Bombeiro Civil,2
+1,M,39,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,1
+1,M,39,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,2
+1,M,38,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Médico,1
+1,M,38,Covid-19-Coronavac-Sinovac/Butantan,Povos e Comunidades Tradicionais,Quilombola,2
+1,M,38,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,2
+1,M,37,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Enfermeiro(a),1
+1,M,37,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Segurança,2
+1,M,37,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Profissionais de Educação Física,2
+1,M,37,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Odontologista,2
+1,M,37,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Médico,1
+1,M,37,Covid-19-Coronavac-Sinovac/Butantan,Povos e Comunidades Tradicionais,Quilombola,1
+1,M,37,Covid-19-Coronavac-Sinovac/Butantan,Povos Indígenas,Povos indígenas em terras indígenas,2
+1,M,37,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,2
+1,M,36,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Psicólogo,1
+1,M,36,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Técnico de Odontologia,1
+1,M,36,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Psicólogo,1
+1,M,36,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Pessoal da Limpeza,1
+1,M,36,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Médico,2
+1,M,36,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Fisioterapeutas,2
+1,M,36,Covid-19-Coronavac-Sinovac/Butantan,Povos Indígenas,Povos indígenas em terras indígenas,2
+1,M,35,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Odontologista,1
+1,M,35,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Pessoal da Limpeza,2
+1,M,35,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Odontologista,2
+1,M,35,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Odontologista,1
+1,M,35,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Médico,1
+1,M,35,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Motorista de Ambulância,2
+1,M,35,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Funcionário do Sistema Funerário c/ cadáveres potencialmente contaminados,1
+1,M,35,Covid-19-Coronavac-Sinovac/Butantan,Povos e Comunidades Tradicionais,Quilombola,2
+1,M,35,Covid-19-Coronavac-Sinovac/Butantan,Povos Indígenas,Povos indígenas em terras indígenas,2
+1,M,34,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Funcionário do Sistema Funerário c/ cadáveres potencialmente contaminados,1
+1,M,34,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Segurança,1
+1,M,34,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Psicólogo,2
+1,M,34,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Médico,2
+1,M,34,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Motorista de Ambulância,1
+1,M,33,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Nutricionista,2
+1,M,33,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,1
+1,M,33,Covid-19-Coronavac-Sinovac/Butantan,Forças de Segurança e Salvamento,Bombeiro Civil,2
+1,M,33,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,2
+1,M,32,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Médico,1
+1,M,32,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Funcionário do Sistema Funerário c/ cadáveres potencialmente contaminados,1
+1,M,32,Vacina Covid-19 - Covishield,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,1
+1,M,32,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Médico Veterinário,2
+1,M,32,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Motorista de Ambulância,2
+1,M,32,Covid-19-Coronavac-Sinovac/Butantan,Povos e Comunidades Tradicionais,Quilombola,2
+1,M,32,Covid-19-Coronavac-Sinovac/Butantan,Povos Indígenas,Povos indígenas em terras indígenas,1
+1,M,32,Covid-19-Coronavac-Sinovac/Butantan,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,2
+1,M,31,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Técnico de Odontologia,1
+1,M,31,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Técnico de Enfermagem,2
+1,M,31,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Recepcionista,2
+1,M,31,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Médico,1
+1,M,31,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Enfermeiro(a),1
+1,M,31,Covid-19-Coronavac-Sinovac/Butantan,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,2
+1,M,31,Covid-19-Coronavac-Sinovac/Butantan,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,1
+1,M,30,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2
+1,M,30,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Técnico de Enfermagem,1
+1,M,30,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Recepcionista,1
+1,M,30,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Profissionais de Educação Física,2
+1,M,30,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Pessoal da Limpeza,2
+1,M,30,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Fisioterapeutas,1
+1,M,30,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Biólogo,1
+1,M,30,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,2
+1,M,30,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 75 a 79 anos,1
+1,M,29,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Farmacêutico,1
+1,M,29,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Estudante,1
+1,M,29,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Técnico de Enfermagem,2
+1,M,29,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Odontologista,2
+1,M,29,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Nutricionista,1
+1,M,29,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Médico,1
+1,M,29,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Fisioterapeutas,1
+1,M,29,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Enfermeiro(a),1
+1,M,29,Covid-19-Coronavac-Sinovac/Butantan,Povos e Comunidades Tradicionais,Quilombola,1
+1,M,29,Covid-19-Coronavac-Sinovac/Butantan,Povos Indígenas,Povos indígenas em terras indígenas,2
+1,M,29,Covid-19-Coronavac-Sinovac/Butantan,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,2
+1,M,28,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Nutricionista,2
+1,M,28,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Médico Veterinário,2
+1,M,28,Covid-19-Coronavac-Sinovac/Butantan,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,2
+1,M,27,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Odontologista,1
+1,M,27,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Pessoal da Limpeza,2
+1,M,27,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Médico,1
+1,M,27,Covid-19-Coronavac-Sinovac/Butantan,Povos e Comunidades Tradicionais,Quilombola,1
+1,M,27,Covid-19-Coronavac-Sinovac/Butantan,Povos Indígenas,Povos indígenas em terras indígenas,2
+1,M,26,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Psicólogo,1
+1,M,26,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Odontologista,1
+1,M,26,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,1
+1,M,26,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Profissionais de Educação Física,2
+1,M,26,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Biólogo,2
+1,M,25,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Estudante,1
+1,M,25,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Técnico de Enfermagem,1
+1,M,25,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Profissionais de Educação Física,2
+1,M,25,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Pessoal da Limpeza,2
+1,M,25,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Odontologista,2
+1,M,25,Covid-19-Coronavac-Sinovac/Butantan,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,2
+1,M,24,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Estudante,1
+1,M,24,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Recepcionista,2
+1,M,24,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Profissionais de Educação Física,2
+1,M,24,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Estudante,2
+1,M,24,Covid-19-Coronavac-Sinovac/Butantan,Povos e Comunidades Tradicionais,Quilombola,2
+1,M,23,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2
+1,M,23,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Estudante,1
+1,M,23,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 70 a 74 anos,1
+1,M,23,Covid-19-Coronavac-Sinovac/Butantan,Povos Indígenas,Povos indígenas em terras indígenas,1
+1,M,23,Covid-19-Coronavac-Sinovac/Butantan,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,2
+1,M,22,Covid-19-Coronavac-Sinovac/Butantan,Povos Indígenas,Povos indígenas em terras indígenas,2
+1,M,22,Covid-19-Coronavac-Sinovac/Butantan,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,1
+1,M,21,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Recepcionista,2
+1,M,21,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Pessoal da Limpeza,2
+1,M,21,Covid-19-Coronavac-Sinovac/Butantan,Povos Indígenas,Povos indígenas em terras indígenas,2
+1,M,21,Covid-19-Coronavac-Sinovac/Butantan,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,1
+1,M,21,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,2
+1,M,20,Covid-19-Coronavac-Sinovac/Butantan,Povos e Comunidades Tradicionais,Quilombola,2
+1,M,20,Covid-19-Coronavac-Sinovac/Butantan,Povos Indígenas,Povos indígenas em terras indígenas,2
+1,M,20,Covid-19-Coronavac-Sinovac/Butantan,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,1
+1,M,20,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,1
+1,M,19,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Técnico de Odontologia,1
+1,M,19,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,1
+1,M,19,Covid-19-Coronavac-Sinovac/Butantan,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,2
+1,M,16,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+1,M,10,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,2
+1,M,9,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+1,I,77,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 75 a 79 anos,1
+1,F,121,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,1
+1,F,111,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,2
+1,F,105,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+1,F,105,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,1
+1,F,103,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+1,F,100,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,1
+1,F,100,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+1,F,99,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,2
+1,F,99,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,1
+1,F,97,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+1,F,95,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+1,F,95,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,1
+1,F,93,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 70 a 74 anos,2
+1,F,93,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 60 a 64 anos,2
+1,F,92,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,2
+1,F,92,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,2
+1,F,91,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,2
+1,F,91,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+1,F,91,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,1
+1,F,91,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,2
+1,F,90,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+1,F,90,Vacina Covid-19 - Covishield,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,1
+1,F,90,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,1
+1,F,89,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Cuidador de Idosos,2
+1,F,89,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,1
+1,F,89,Covid-19-Coronavac-Sinovac/Butantan,Pessoas com Deficiência,Pessoas com Deficiências Permanente Grave,2
+1,F,88,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,2
+1,F,88,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 65 a 69 anos,1
+1,F,88,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 75 a 79 anos,1
+1,F,87,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,2
+1,F,87,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+1,F,87,Covid-19-Coronavac-Sinovac/Butantan,Povos e Comunidades Tradicionais,Quilombola,2
+1,F,87,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 75 a 79 anos,2
+1,F,87,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 70 a 74 anos,2
+1,F,87,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 60 a 64 anos,2
+1,F,86,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Enfermeiro(a),1
+1,F,86,Vacina Covid-19 - Covishield,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,1
+1,F,86,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 65 a 69 anos,1
+1,F,86,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+1,F,86,Covid-19-Coronavac-Sinovac/Butantan,Povos Indígenas,Povos indígenas em terras indígenas,1
+1,F,85,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Enfermeiro(a),1
+1,F,85,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,2
+1,F,85,Covid-19-Coronavac-Sinovac/Butantan,Povos e Comunidades Tradicionais,Quilombola,2
+1,F,85,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,1
+1,F,85,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 75 a 79 anos,2
+1,F,85,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 75 a 79 anos,1
+1,F,85,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 60 a 64 anos,2
+1,F,85,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 60 a 64 anos,1
+1,F,84,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Faixa Etária,Pessoas de 80 anos ou mais,1
+1,F,84,Covid-19-Coronavac-Sinovac/Butantan,Povos e Comunidades Tradicionais,Quilombola,2
+1,F,84,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 75 a 79 anos,1
+1,F,83,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Enfermeiro(a),1
+1,F,83,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 75 a 79 anos,1
+1,F,83,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Fisioterapeutas,1
+1,F,83,Covid-19-Coronavac-Sinovac/Butantan,Povos Indígenas,Povos indígenas em terras indígenas,2
+1,F,83,Covid-19-Coronavac-Sinovac/Butantan,Povos Indígenas,Povos indígenas em terras indígenas,1
+1,F,83,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 75 a 79 anos,2
+1,F,82,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 75 a 79 anos,1
+1,F,82,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Enfermeiro(a),1
+1,F,82,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 75 a 79 anos,2
+1,F,82,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 75 a 79 anos,1
+1,F,81,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+1,F,81,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Enfermeiro(a),1
+1,F,81,Covid-19-Coronavac-Sinovac/Butantan,Povos e Comunidades Tradicionais,Quilombola,2
+1,F,81,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,1
+1,F,81,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 75 a 79 anos,2
+1,F,81,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 60 a 64 anos,1
+1,F,80,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+1,F,80,Vacina Covid-19 - Covishield,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,1
+1,F,80,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 65 a 69 anos,1
+1,F,80,Covid-19-Coronavac-Sinovac/Butantan,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,2
+1,F,80,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,1
+1,F,79,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 70 a 74 anos,1
+1,F,78,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Faixa Etária,Pessoas de 75 a 79 anos,1
+1,F,78,Vacina Covid-19 - Covishield,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,1
+1,F,78,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,2
+1,F,78,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 70 a 74 anos,1
+1,F,78,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 65 a 69 anos,1
+1,F,77,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Faixa Etária,Pessoas de 75 a 79 anos,1
+1,F,77,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,2
+1,F,77,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 70 a 74 anos,1
+1,F,77,Covid-19-Coronavac-Sinovac/Butantan,Povos Indígenas,Povos indígenas em terras indígenas,2
+1,F,77,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 60 a 64 anos,1
+1,F,76,Covid-19-Coronavac-Sinovac/Butantan,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,2
+1,F,75,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+1,F,75,Vacina Covid-19 - Covishield,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,1
+1,F,75,Covid-19-Coronavac-Sinovac/Butantan,Povos Indígenas,Povos indígenas em terras indígenas,1
+1,F,75,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,2
+1,F,75,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,2
+1,F,74,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+1,F,74,Covid-19-Coronavac-Sinovac/Butantan,Povos e Comunidades Tradicionais,Quilombola,2
+1,F,74,Covid-19-Coronavac-Sinovac/Butantan,Povos Indígenas,Povos indígenas em terras indígenas,2
+1,F,74,Covid-19-Coronavac-Sinovac/Butantan,Povos Indígenas,Povos indígenas em terras indígenas,1
+1,F,74,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 75 a 79 anos,2
+1,F,73,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,1
+1,F,73,Covid-19-Coronavac-Sinovac/Butantan,Pessoas com Deficiência,Pessoas com Deficiências Permanente Grave,1
+1,F,73,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,1
+1,F,72,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Faixa Etária,Pessoas de 75 a 79 anos,1
+1,F,72,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+1,F,72,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 75 a 79 anos,1
+1,F,72,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Cuidador de Idosos,2
+1,F,72,Covid-19-Coronavac-Sinovac/Butantan,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,1
+1,F,72,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,1
+1,F,72,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 75 a 79 anos,2
+1,F,72,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 75 a 79 anos,1
+1,F,71,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 70 a 74 anos,2
+1,F,71,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,1
+1,F,70,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,1
+1,F,70,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Auxiliar de Enfermagem,2
+1,F,70,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,1
+1,F,70,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,1
+1,F,70,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 60 a 64 anos,1
+1,F,69,Vacina Covid-19 - Covishield,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,1
+1,F,69,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 75 a 79 anos,1
+1,F,69,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 70 a 74 anos,1
+1,F,69,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Odontologista,2
+1,F,69,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,2
+1,F,69,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,1
+1,F,69,Covid-19-Coronavac-Sinovac/Butantan,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,2
+1,F,69,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,2
+1,F,69,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 75 a 79 anos,1
+1,F,69,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 70 a 74 anos,2
+1,F,69,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 70 a 74 anos,1
+1,F,68,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 70 a 74 anos,1
+1,F,68,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,2
+1,F,67,Vacina Covid-19 - Covishield,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,1
+1,F,67,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1
+1,F,67,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,1
+1,F,66,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,2
+1,F,66,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,1
+1,F,66,Covid-19-Coronavac-Sinovac/Butantan,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,2
+1,F,66,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 70 a 74 anos,1
+1,F,65,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2
+1,F,65,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Assistente Social,2
+1,F,64,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 65 a 69 anos,1
+1,F,64,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Psicólogo,2
+1,F,64,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Cuidador de Idosos,2
+1,F,63,Vacina Covid-19 - Covishield,População Privada de Liberdade,População Privada de Liberdade,1
+1,F,63,Vacina Covid-19 - Covishield,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,1
+1,F,63,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,1
+1,F,63,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Técnico de Enfermagem,2
+1,F,63,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Fonoaudiólogo,2
+1,F,63,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,1
+1,F,62,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Técnico de Enfermagem,2
+1,F,61,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,1
+1,F,61,Covid-19-Coronavac-Sinovac/Butantan,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,2
+1,F,61,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,1
+1,F,60,Covid-19-Coronavac-Sinovac/Butantan,Povos e Comunidades Tradicionais,Quilombola,1
+1,F,60,Covid-19-Coronavac-Sinovac/Butantan,Povos Indígenas,Povos indígenas em terras indígenas,2
+1,F,60,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 75 a 79 anos,1
+1,F,60,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Câncer,1
+1,F,59,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Pessoal da Limpeza,1
+1,F,59,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Técnico de Enfermagem,2
+1,F,59,Covid-19-Coronavac-Sinovac/Butantan,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,1
+1,F,59,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 70 a 74 anos,1
+1,F,58,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2
+1,F,58,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 75 a 79 anos,1
+1,F,58,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Cuidador de Idosos,2
+1,F,58,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,1
+1,F,58,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,1
+1,F,57,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Técnico de Enfermagem,1
+1,F,57,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Recepcionista,1
+1,F,57,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2
+1,F,57,Vacina Covid-19 - Covishield,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,1
+1,F,57,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 75 a 79 anos,1
+1,F,57,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Cuidador de Idosos,2
+1,F,57,Covid-19-Coronavac-Sinovac/Butantan,Povos e Comunidades Tradicionais,Quilombola,2
+1,F,57,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,2
+1,F,56,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Técnico de Odontologia,1
+1,F,56,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Cuidador de Idosos,1
+1,F,56,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Terapeuta Ocupacional,2
+1,F,56,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,2
+1,F,56,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,1
+1,F,55,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Recepcionista,1
+1,F,55,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Médico,1
+1,F,55,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,1
+1,F,55,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Técnico de Enfermagem,2
+1,F,55,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Segurança,2
+1,F,55,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Psicólogo,2
+1,F,55,Covid-19-Coronavac-Sinovac/Butantan,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,2
+1,F,54,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Enfermeiro(a),1
+1,F,54,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Farmacêutico,2
+1,F,54,Covid-19-Coronavac-Sinovac/Butantan,Povos e Comunidades Tradicionais,Quilombola,2
+1,F,53,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2
+1,F,53,Vacina Covid-19 - Covishield,Povos e Comunidades Tradicionais,Quilombola,1
+1,F,53,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Técnico de Enfermagem,1
+1,F,53,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Segurança,2
+1,F,53,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Médico,1
+1,F,53,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Auxiliar de Enfermagem,2
+1,F,53,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,1
+1,F,53,Covid-19-Coronavac-Sinovac/Butantan,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,1
+1,F,52,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Pessoal da Limpeza,1
+1,F,52,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Farmacêutico,1
+1,F,52,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Técnico de Odontologia,1
+1,F,52,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Médico,2
+1,F,52,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Biólogo,2
+1,F,51,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Técnico de Enfermagem,1
+1,F,51,Vacina Covid-19 - Covishield,Povos e Comunidades Tradicionais,Quilombola,1
+1,F,51,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 75 a 79 anos,1
+1,F,51,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Fisioterapeutas,2
+1,F,51,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Farmacêutico,2
+1,F,51,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Farmacêutico,1
+1,F,51,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Enfermeiro(a),2
+1,F,51,Covid-19-Coronavac-Sinovac/Butantan,Povos Indígenas,Povos indígenas em terras indígenas,2
+1,F,51,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 60 a 64 anos,1
+1,F,50,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Técnico de Enfermagem,1
+1,F,50,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Enfermeiro(a),1
+1,F,50,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Recepcionista,1
+1,F,50,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Odontologista,2
+1,F,50,Covid-19-Coronavac-Sinovac/Butantan,Povos e Comunidades Tradicionais,Quilombola,2
+1,F,50,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,1
+1,F,49,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2
+1,F,49,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Recepcionista,2
+1,F,49,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Recepcionista,1
+1,F,49,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Psicólogo,1
+1,F,49,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Profissionais de Educação Física,2
+1,F,49,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Pessoal da Limpeza,1
+1,F,49,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Nutricionista,1
+1,F,49,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Cuidador de Idosos,1
+1,F,49,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,2
+1,F,49,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,1
+1,F,48,Vacina Covid-19 - Covishield,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,1
+1,F,48,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Técnico de Enfermagem,2
+1,F,48,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Segurança,1
+1,F,48,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Recepcionista,2
+1,F,48,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Cuidador de Idosos,2
+1,F,48,Covid-19-Coronavac-Sinovac/Butantan,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,2
+1,F,47,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Psicólogo,1
+1,F,47,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Recepcionista,2
+1,F,47,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Psicólogo,1
+1,F,47,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Odontologista,2
+1,F,47,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Cuidador de Idosos,2
+1,F,47,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 75 a 79 anos,2
+1,F,47,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 75 a 79 anos,1
+1,F,46,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Técnico de Enfermagem,1
+1,F,46,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Médico Veterinário,1
+1,F,46,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Segurança,2
+1,F,46,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Profissionais de Educação Física,2
+1,F,46,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Nutricionista,1
+1,F,46,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Médico,2
+1,F,46,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Assistente Social,2
+1,F,46,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,1
+1,F,46,Covid-19-Coronavac-Sinovac/Butantan,Povos e Comunidades Tradicionais,Quilombola,2
+1,F,46,Covid-19-Coronavac-Sinovac/Butantan,Povos Indígenas,Povos indígenas em terras indígenas,1
+1,F,46,Covid-19-Coronavac-Sinovac/Butantan,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,2
+1,F,45,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2
+1,F,45,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Fonoaudiólogo,1
+1,F,45,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Técnico de Enfermagem,2
+1,F,45,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Segurança,2
+1,F,45,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Segurança,1
+1,F,45,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Psicólogo,2
+1,F,45,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Médico Veterinário,2
+1,F,45,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Médico,2
+1,F,45,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Cozinheiro e Auxiliares,1
+1,F,45,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Assistente Social,2
+1,F,44,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Psicólogo,1
+1,F,44,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2
+1,F,44,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Segurança,2
+1,F,44,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Recepcionista,2
+1,F,44,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Psicólogo,2
+1,F,44,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Pessoal da Limpeza,2
+1,F,44,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Médico Veterinário,2
+1,F,44,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Farmacêutico,2
+1,F,44,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Cuidador de Idosos,2
+1,F,44,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,2
+1,F,43,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Psicólogo,1
+1,F,43,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Técnico de Enfermagem,2
+1,F,43,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Profissionais de Educação Física,2
+1,F,43,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Médico,1
+1,F,43,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Fisioterapeutas,1
+1,F,43,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Enfermeiro(a),2
+1,F,43,Covid-19-Coronavac-Sinovac/Butantan,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,2
+1,F,43,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,1
+1,F,42,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Recepcionista,1
+1,F,42,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Pessoal da Limpeza,1
+1,F,42,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Médico Veterinário,2
+1,F,42,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Médico,2
+1,F,42,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Farmacêutico,1
+1,F,42,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Auxiliar de Enfermagem,2
+1,F,42,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Assistente Social,2
+1,F,42,Covid-19-Coronavac-Sinovac/Butantan,Povos Indígenas,Povos indígenas em terras indígenas,1
+1,F,41,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Fonoaudiólogo,1
+1,F,41,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Fisioterapeutas,1
+1,F,41,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Farmacêutico,1
+1,F,41,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Segurança,2
+1,F,41,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Recepcionista,1
+1,F,41,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Psicólogo,2
+1,F,41,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Profissionais de Educação Física,2
+1,F,41,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Pessoal da Limpeza,2
+1,F,41,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Odontologista,2
+1,F,41,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Médico,2
+1,F,41,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Fisioterapeutas,1
+1,F,41,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,2
+1,F,41,Covid-19-Coronavac-Sinovac/Butantan,Povos e Comunidades Tradicionais,Quilombola,1
+1,F,40,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Médico,1
+1,F,40,Vacina Covid-19 - Covishield,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,1
+1,F,40,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 75 a 79 anos,1
+1,F,40,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Técnico de Enfermagem,2
+1,F,40,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Recepcionista,2
+1,F,40,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Odontologista,2
+1,F,40,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Nutricionista,1
+1,F,40,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Médico,1
+1,F,40,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Fisioterapeutas,1
+1,F,40,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Enfermeiro(a),2
+1,F,40,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Cuidador de Idosos,2
+1,F,40,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Auxiliar de Enfermagem,2
+1,F,40,Covid-19-Coronavac-Sinovac/Butantan,Povos e Comunidades Tradicionais,Quilombola,2
+1,F,40,Covid-19-Coronavac-Sinovac/Butantan,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,2
+1,F,40,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 75 a 79 anos,1
+1,F,39,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Técnico de Enfermagem,1
+1,F,39,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Pessoal da Limpeza,1
+1,F,39,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Cuidador de Idosos,1
+1,F,39,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 75 a 79 anos,1
+1,F,39,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Técnico de Enfermagem,2
+1,F,39,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Técnico de Enfermagem,1
+1,F,39,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Recepcionista,2
+1,F,39,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Médico,2
+1,F,39,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Médico,1
+1,F,39,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Fisioterapeutas,2
+1,F,39,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Farmacêutico,2
+1,F,39,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Enfermeiro(a),1
+1,F,39,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Biólogo,2
+1,F,39,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Assistente Social,2
+1,F,39,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,2
+1,F,39,Covid-19-Coronavac-Sinovac/Butantan,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,2
+1,F,39,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,2
+1,F,39,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,2
+1,F,38,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Terapeuta Ocupacional,1
+1,F,38,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2
+1,F,38,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Pessoal da Limpeza,2
+1,F,38,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Odontologista,2
+1,F,38,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Nutricionista,2
+1,F,38,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Médico,1
+1,F,38,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Fisioterapeutas,1
+1,F,38,Covid-19-Coronavac-Sinovac/Butantan,Povos e Comunidades Tradicionais,Quilombola,2
+1,F,38,Covid-19-Coronavac-Sinovac/Butantan,Povos Indígenas,Povos indígenas em terras indígenas,2
+1,F,38,Covid-19-Coronavac-Sinovac/Butantan,Povos Indígenas,Povos indígenas em terras indígenas,1
+1,F,38,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,1
+1,F,38,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 60 a 64 anos,1
+1,F,37,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Técnico de Enfermagem,1
+1,F,37,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Recepcionista,1
+1,F,37,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2
+1,F,37,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Estudante,1
+1,F,37,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Enfermeiro(a),1
+1,F,37,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Técnico de Odontologia,2
+1,F,37,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Pessoal da Limpeza,1
+1,F,37,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Odontologista,2
+1,F,37,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Enfermeiro(a),1
+1,F,37,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Cuidador de Idosos,2
+1,F,37,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Auxiliar de Enfermagem,2
+1,F,37,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,2
+1,F,37,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,2
+1,F,36,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Técnico de Odontologia,1
+1,F,36,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Técnico de Enfermagem,2
+1,F,36,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Técnico de Enfermagem,1
+1,F,36,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Recepcionista,1
+1,F,36,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Profissionais de Educação Física,2
+1,F,36,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Nutricionista,1
+1,F,36,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Médico,2
+1,F,36,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Médico,1
+1,F,36,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Farmacêutico,2
+1,F,36,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Enfermeiro(a),2
+1,F,36,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,2
+1,F,36,Covid-19-Coronavac-Sinovac/Butantan,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,2
+1,F,36,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,2
+1,F,36,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,1
+1,F,35,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Médico,1
+1,F,35,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,1
+1,F,35,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Técnico de Enfermagem,2
+1,F,35,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Psicólogo,2
+1,F,35,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Pessoal da Limpeza,2
+1,F,35,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Nutricionista,2
+1,F,35,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Fisioterapeutas,2
+1,F,35,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Fisioterapeutas,1
+1,F,35,Covid-19-Coronavac-Sinovac/Butantan,Povos Indígenas,Povos indígenas em terras indígenas,2
+1,F,35,Covid-19-Coronavac-Sinovac/Butantan,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,2
+1,F,35,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 75 a 79 anos,1
+1,F,34,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Técnico de Enfermagem,1
+1,F,34,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Técnico de Enfermagem,2
+1,F,34,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Profissionais de Educação Física,2
+1,F,34,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Odontologista,2
+1,F,34,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Fisioterapeutas,2
+1,F,34,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Fisioterapeutas,1
+1,F,34,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Farmacêutico,1
+1,F,34,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Estudante,1
+1,F,34,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Enfermeiro(a),2
+1,F,33,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Técnico de Odontologia,2
+1,F,33,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Médico,2
+1,F,33,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Fisioterapeutas,2
+1,F,33,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Farmacêutico,2
+1,F,33,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Cuidador de Idosos,2
+1,F,33,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Biólogo,2
+1,F,33,Covid-19-Coronavac-Sinovac/Butantan,Povos e Comunidades Tradicionais,Quilombola,2
+1,F,33,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 75 a 79 anos,1
+1,F,32,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Técnico de Odontologia,1
+1,F,32,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2
+1,F,32,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Médico,1
+1,F,32,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Recepcionista,2
+1,F,32,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Odontologista,1
+1,F,32,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Médico,1
+1,F,32,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Enfermeiro(a),2
+1,F,32,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Cuidador de Idosos,2
+1,F,32,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Cozinheiro e Auxiliares,1
+1,F,32,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Assistente Social,2
+1,F,32,Covid-19-Coronavac-Sinovac/Butantan,Povos e Comunidades Tradicionais,Quilombola,1
+1,F,32,Covid-19-Coronavac-Sinovac/Butantan,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,2
+1,F,32,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,2
+1,F,31,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Psicólogo,1
+1,F,31,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Odontologista,1
+1,F,31,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Farmacêutico,1
+1,F,31,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Técnico de Enfermagem,2
+1,F,31,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Recepcionista,2
+1,F,31,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Psicólogo,2
+1,F,31,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Psicólogo,1
+1,F,31,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Profissionais de Educação Física,2
+1,F,31,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Odontologista,2
+1,F,31,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Médico,2
+1,F,31,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Farmacêutico,2
+1,F,31,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Estudante,2
+1,F,31,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Biomédico,1
+1,F,31,Covid-19-Coronavac-Sinovac/Butantan,Povos e Comunidades Tradicionais,Quilombola,2
+1,F,30,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2
+1,F,30,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Fisioterapeutas,1
+1,F,30,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Estudante,1
+1,F,30,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Técnico de Odontologia,1
+1,F,30,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Técnico de Enfermagem,2
+1,F,30,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Técnico de Enfermagem,1
+1,F,30,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Recepcionista,2
+1,F,30,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Profissionais de Educação Física,2
+1,F,30,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Odontologista,1
+1,F,30,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Fisioterapeutas,2
+1,F,30,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Fisioterapeutas,1
+1,F,30,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Enfermeiro(a),2
+1,F,30,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Cuidador de Idosos,2
+1,F,30,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Auxiliar de Veterinário,2
+1,F,30,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Auxiliar de Enfermagem,2
+1,F,30,Covid-19-Coronavac-Sinovac/Butantan,Povos Indígenas,Povos indígenas em terras indígenas,2
+1,F,29,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Recepcionista,1
+1,F,29,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Psicólogo,1
+1,F,29,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Médico,1
+1,F,29,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Técnico de Odontologia,1
+1,F,29,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Técnico de Enfermagem,2
+1,F,29,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Recepcionista,2
+1,F,29,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Fisioterapeutas,2
+1,F,29,Covid-19-Coronavac-Sinovac/Butantan,Povos Indígenas,Povos indígenas em terras indígenas,2
+1,F,28,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Recepcionista,1
+1,F,28,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2
+1,F,28,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Odontologista,1
+1,F,28,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Enfermeiro(a),1
+1,F,28,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Recepcionista,2
+1,F,28,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Médico,2
+1,F,28,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Fisioterapeutas,2
+1,F,28,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Biólogo,2
+1,F,27,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Psicólogo,1
+1,F,27,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,1
+1,F,27,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Psicólogo,1
+1,F,27,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Pessoal da Limpeza,1
+1,F,27,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Odontologista,2
+1,F,27,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Odontologista,1
+1,F,27,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Estudante,2
+1,F,27,Covid-19-Coronavac-Sinovac/Butantan,Povos e Comunidades Tradicionais,Quilombola,2
+1,F,27,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,2
+1,F,26,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Odontologista,1
+1,F,26,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Médico,1
+1,F,26,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Técnico de Enfermagem,2
+1,F,26,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Recepcionista,2
+1,F,26,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Recepcionista,1
+1,F,26,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Fisioterapeutas,2
+1,F,26,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Fisioterapeutas,1
+1,F,25,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Médico,1
+1,F,25,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Fisioterapeutas,1
+1,F,25,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Recepcionista,1
+1,F,25,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Odontologista,2
+1,F,25,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Nutricionista,2
+1,F,25,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Médico,2
+1,F,25,Covid-19-Coronavac-Sinovac/Butantan,Povos e Comunidades Tradicionais,Quilombola,2
+1,F,25,Covid-19-Coronavac-Sinovac/Butantan,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,1
+1,F,25,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,2
+1,F,24,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Psicólogo,1
+1,F,24,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2
+1,F,24,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Médico Veterinário,1
+1,F,24,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Técnico de Enfermagem,2
+1,F,24,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Técnico de Enfermagem,1
+1,F,24,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Recepcionista,2
+1,F,24,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Psicólogo,2
+1,F,24,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Odontologista,2
+1,F,24,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Auxiliar de Enfermagem,1
+1,F,24,Covid-19-Coronavac-Sinovac/Butantan,Povos Indígenas,Povos indígenas em terras indígenas,1
+1,F,24,Covid-19-Coronavac-Sinovac/Butantan,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,2
+1,F,23,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Odontologista,1
+1,F,23,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Cuidador de Idosos,1
+1,F,23,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Técnico de Enfermagem,2
+1,F,23,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Recepcionista,2
+1,F,23,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,1
+1,F,23,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,2
+1,F,22,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Fisioterapeutas,1
+1,F,22,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,1
+1,F,22,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,2
+1,F,21,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2
+1,F,21,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Técnico de Enfermagem,1
+1,F,21,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Recepcionista,1
+1,F,21,Covid-19-Coronavac-Sinovac/Butantan,Povos Indígenas,Povos indígenas em terras indígenas,2
+1,F,19,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,1
+1,F,18,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Recepcionista,2
+1,F,18,Covid-19-Coronavac-Sinovac/Butantan,Povos Indígenas,Povos indígenas em terras indígenas,2
+1,F,18,Covid-19-Coronavac-Sinovac/Butantan,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,2
+1,F,17,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+1,F,16,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+1,F,16,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,2
+1,F,15,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+1,F,15,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,2
