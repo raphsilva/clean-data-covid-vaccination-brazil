@@ -1,3 +1,3 @@
 data_atualizacao,tipo,media_tempo_gasto,total
-2021-05-22,missing_demography,5,4967
-2021-05-22,complete,165,158419
+2021-05-22,inconsistent,5,4967
+2021-05-22,consistent,165,158419
