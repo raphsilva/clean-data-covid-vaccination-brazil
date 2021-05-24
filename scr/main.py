@@ -40,11 +40,11 @@ def update_for_dates(date_A, date_B, uf):
 
     to_save = dict()
     if len(missing) > 0:
-        to_save['missing_demography'] = missing
+        to_save['inconsistent'] = missing
     if len(wrong_date) > 0:
         to_save['wrong_date'] = wrong_date
     if len(complete) > 0:
-        to_save['complete'] = complete
+        to_save['consistent'] = complete
 
     for data_name in to_save:
         r = separate_by_date(to_save[data_name])
