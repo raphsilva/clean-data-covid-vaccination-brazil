@@ -10,10 +10,12 @@ Este repositório está em fase de validação. Não há garantia sobre a consis
 
 ## Conteúdo
 
-Este repositório é composto por duas seções, descritas abaixo. Para acessar a documentação de cada uma delas, entre na pasta correspondente. 
+Este repositório é composto por duas seções:
 
 * `src`: O código-fonte do script usado para acessar, processar e salvar os dados.
 * `data`: Os dados coletados. 
+
+Para acessar a documentação de cada uma das seções, entre no diretório correspondente. 
 
 
 ## Limitações
