@@ -50,6 +50,10 @@ Se você precisa de dados de um estado específico, envie uma mensagem [neste fo
 
 ## Uso
 
+Para acessar os dados programaticamente, você pode usar como ponto de partida o arquivo `starter.py` disponível no diretório principal deste repositório.
+
+## Licença
+
 Você pode usar como quiser os dados e o código-fonte disponibilizados. Se você pretende fazer acessos automatizados, preencha [este formulário](https://forms.gle/1Yvy67id5pPteGzz9) para ser avisado de eventuais mudanças que possam afetar a automatização. 
 
 Esteja ciente das limitações descritas na seção anterior, e que podem haver outros erros não identificados. Não existe qualquer garantia para o conteúdo fornecido. 
