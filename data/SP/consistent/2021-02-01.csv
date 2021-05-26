@@ -21,13 +21,13 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 385,F,24,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
 377,F,45,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
 366,F,46,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
-358,F,48,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+359,F,48,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+357,F,25,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
 356,F,49,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
-356,F,25,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
 344,F,50,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
 332,F,47,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
 317,F,23,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
-306,F,51,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+307,F,51,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
 265,F,52,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
 253,F,22,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
 251,F,53,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
@@ -64,9 +64,9 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 168,F,20,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
 167,F,48,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
 164,M,42,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
-164,M,36,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
 164,F,32,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
-162,M,43,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+163,M,43,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+163,M,36,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
 160,M,37,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
 159,F,29,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
 155,M,44,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
@@ -109,8 +109,8 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 115,F,62,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1
 113,F,57,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
 110,M,50,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+109,M,54,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
 109,F,23,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
-108,M,54,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
 107,F,58,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
 100,M,53,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
 99,M,58,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
@@ -165,11 +165,11 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 58,F,68,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 65 a 69 anos,1
 58,F,62,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 60 a 64 anos,1
 57,M,67,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 65 a 69 anos,1
+57,F,60,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
 56,M,55,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
 56,F,86,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,1
 56,F,81,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,1
 56,F,64,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 60 a 64 anos,1
-56,F,60,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
 54,M,68,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 65 a 69 anos,1
 54,M,64,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1
 54,M,27,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
@@ -185,14 +185,14 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 50,F,61,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 60 a 64 anos,1
 48,M,25,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
 48,F,78,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 75 a 79 anos,1
+48,F,62,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
 47,F,80,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,1
 47,F,76,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 75 a 79 anos,1
-47,F,62,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+47,F,61,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
 46,M,71,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 70 a 74 anos,1
 46,M,51,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
 46,M,23,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
 46,F,63,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
-46,F,61,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
 44,F,90,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,1
 44,F,69,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 65 a 69 anos,1
 43,M,19,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
@@ -969,6 +969,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 2,F,44,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Técnico de Enfermagem,1
 2,F,44,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Auxiliar de Enfermagem,1
 2,F,44,Vacina Covid-19 - Covishield,Povos e Comunidades Tradicionais,Quilombola,1
+2,F,44,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Técnico de Enfermagem,1
 2,F,44,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
 2,F,44,Covid-19-Coronavac-Sinovac/Butantan,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,1
 2,F,43,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Técnico de Enfermagem,1
@@ -1619,7 +1620,6 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,F,44,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,1
 1,F,44,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 75 a 79 anos,1
 1,F,44,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
-1,F,44,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Técnico de Enfermagem,1
 1,F,44,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Recepcionista,1
 1,F,44,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Enfermeiro(a),1
 1,F,44,Covid-19-Coronavac-Sinovac/Butantan,Povos Indígenas,Povos indígenas em terras indígenas,1
