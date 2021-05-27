@@ -1,224 +1,224 @@
 contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_nome,vacina_grupoAtendimento_nome,dose
-3455,F,64,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 60 a 64 anos,2
-2743,M,64,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 60 a 64 anos,2
-2652,F,81,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,2
-2370,F,82,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,2
-2118,F,83,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,2
-2111,F,80,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,2
-1843,F,84,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,2
-1672,M,81,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,2
-1508,M,82,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,2
-1473,F,49,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
-1370,M,80,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,2
-1348,F,48,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
-1271,F,46,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
-1267,M,83,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,2
-1260,F,47,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
-1216,M,49,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
-1126,F,45,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
-1110,F,53,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
-1107,F,54,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
-1099,M,84,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,2
-1068,M,48,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
-1066,F,52,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
-1040,M,46,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
-1009,M,47,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
-981,F,51,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
-959,F,50,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
-952,M,45,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
-951,F,57,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
-937,F,56,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
-936,M,53,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
-926,F,55,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
-914,F,65,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,2
-900,M,54,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
-875,F,59,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
-872,F,58,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
-851,M,50,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
-836,M,52,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
-809,F,49,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1
-788,M,65,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,2
-771,M,51,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
-769,F,66,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,2
-761,M,49,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1
-735,F,54,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1
-725,F,53,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1
-713,F,48,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1
-710,M,66,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,2
-702,M,55,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
-702,M,48,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1
-688,M,56,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
-682,M,58,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
-673,M,57,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
-671,M,59,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
-669,M,54,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1
-656,F,47,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1
-656,F,46,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1
-645,F,52,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1
-622,M,47,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1
-608,M,53,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1
-601,M,52,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1
-594,F,51,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1
+3472,F,64,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 60 a 64 anos,2
+2753,M,64,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 60 a 64 anos,2
+2711,F,81,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,2
+2413,F,82,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,2
+2167,F,83,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,2
+2157,F,80,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,2
+1879,F,84,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,2
+1697,M,81,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,2
+1539,M,82,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,2
+1477,F,49,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
+1399,M,80,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,2
+1354,F,48,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
+1301,M,83,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,2
+1274,F,46,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
+1267,F,47,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
+1225,M,49,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
+1129,F,45,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
+1126,M,84,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,2
+1117,F,54,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
+1115,F,53,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
+1077,M,48,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
+1068,F,52,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
+1048,M,46,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
+1011,M,47,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
+986,F,51,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
+962,F,50,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
+957,F,57,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
+956,M,45,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
+947,F,56,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
+937,M,53,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
+931,F,55,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
+924,F,65,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,2
+911,M,54,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
+882,F,59,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
+875,F,58,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
+855,M,50,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
+838,M,52,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
+814,F,49,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1
+789,M,65,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,2
+775,M,51,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
+772,F,66,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,2
+766,M,49,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1
+738,F,54,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1
+730,F,53,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1
+716,F,48,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1
+715,M,66,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,2
+709,M,55,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
+704,M,48,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1
+693,M,56,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
+687,M,58,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
+676,M,57,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
+674,M,59,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
+672,M,54,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1
+659,F,47,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1
+657,F,46,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1
+649,F,52,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1
+624,M,47,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1
+610,M,53,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1
+602,M,52,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1
+596,F,51,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1
 574,M,51,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1
-566,F,45,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1
-556,M,46,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1
+567,F,45,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1
+560,M,46,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1
 555,F,67,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,2
-544,F,50,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1
+549,F,50,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1
+536,M,50,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1
 532,M,45,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1
-530,M,50,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1
-508,F,58,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1
-503,M,67,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,2
-491,F,56,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1
-474,F,57,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1
-472,F,85,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,2
-469,F,59,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1
-454,F,55,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1
-449,M,60,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1
-433,M,57,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1
-431,M,58,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1
-415,M,55,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1
-397,M,56,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1
-396,M,59,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1
-395,F,60,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1
-389,F,63,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 60 a 64 anos,2
-364,M,68,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,2
-353,F,68,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,2
+509,F,58,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1
+507,M,67,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,2
+496,F,56,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1
+480,F,57,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1
+478,F,85,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,2
+470,F,59,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1
+463,M,60,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1
+458,F,55,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1
+436,M,57,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1
+433,M,58,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1
+417,M,55,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1
+400,F,60,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1
+398,M,59,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1
+398,M,56,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1
+390,F,63,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 60 a 64 anos,2
+375,M,68,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,2
+370,F,68,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,2
 344,M,63,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 60 a 64 anos,2
-329,F,69,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,2
-303,M,61,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1
-289,F,61,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1
-287,M,85,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,2
-252,M,69,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,2
-249,F,70,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 70 a 74 anos,2
-233,M,62,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1
-209,M,70,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 70 a 74 anos,2
-208,F,71,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 70 a 74 anos,2
-204,F,62,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1
-179,F,49,Vacina Covid-19 - Covishield,Comorbidades,Doenças Cardiovasculares e Cerebrovasculares,1
-171,M,49,Vacina Covid-19 - Covishield,Comorbidades,Doenças Cardiovasculares e Cerebrovasculares,1
+333,F,69,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,2
+309,M,61,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1
+294,F,61,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1
+293,M,85,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,2
+255,M,69,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,2
+250,F,70,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 70 a 74 anos,2
+237,M,62,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1
+210,M,70,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 70 a 74 anos,2
+209,F,71,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 70 a 74 anos,2
+206,F,62,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1
+180,F,49,Vacina Covid-19 - Covishield,Comorbidades,Doenças Cardiovasculares e Cerebrovasculares,1
+173,M,49,Vacina Covid-19 - Covishield,Comorbidades,Doenças Cardiovasculares e Cerebrovasculares,1
 167,M,71,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 70 a 74 anos,2
-165,M,54,Vacina Covid-19 - Covishield,Comorbidades,Doenças Cardiovasculares e Cerebrovasculares,1
-157,F,48,Vacina Covid-19 - Covishield,Comorbidades,Doenças Cardiovasculares e Cerebrovasculares,1
-150,F,45,Vacina Covid-19 - Covishield,Comorbidades,Doenças Cardiovasculares e Cerebrovasculares,1
-146,M,48,Vacina Covid-19 - Covishield,Comorbidades,Doenças Cardiovasculares e Cerebrovasculares,1
-146,F,41,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
-144,M,63,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1
+166,M,54,Vacina Covid-19 - Covishield,Comorbidades,Doenças Cardiovasculares e Cerebrovasculares,1
+159,F,48,Vacina Covid-19 - Covishield,Comorbidades,Doenças Cardiovasculares e Cerebrovasculares,1
+155,F,41,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+152,F,45,Vacina Covid-19 - Covishield,Comorbidades,Doenças Cardiovasculares e Cerebrovasculares,1
+147,M,48,Vacina Covid-19 - Covishield,Comorbidades,Doenças Cardiovasculares e Cerebrovasculares,1
+146,F,34,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+145,M,63,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1
 144,M,50,Vacina Covid-19 - Covishield,Comorbidades,Doenças Cardiovasculares e Cerebrovasculares,1
 144,M,47,Vacina Covid-19 - Covishield,Comorbidades,Doenças Cardiovasculares e Cerebrovasculares,1
-142,F,34,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+142,F,50,Vacina Covid-19 - Covishield,Comorbidades,Doenças Cardiovasculares e Cerebrovasculares,1
 141,M,46,Vacina Covid-19 - Covishield,Comorbidades,Doenças Cardiovasculares e Cerebrovasculares,1
 141,F,54,Vacina Covid-19 - Covishield,Comorbidades,Doenças Cardiovasculares e Cerebrovasculares,1
-140,F,50,Vacina Covid-19 - Covishield,Comorbidades,Doenças Cardiovasculares e Cerebrovasculares,1
+138,F,79,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 75 a 79 anos,2
+138,F,31,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
 137,F,45,Vacina Covid-19 - Covishield,Comorbidades,Pneumopatias Crônicas Graves,1
-137,F,31,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
-135,M,45,Vacina Covid-19 - Covishield,Comorbidades,Doenças Cardiovasculares e Cerebrovasculares,1
-135,F,32,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+136,M,45,Vacina Covid-19 - Covishield,Comorbidades,Doenças Cardiovasculares e Cerebrovasculares,1
+136,F,38,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+136,F,32,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+135,F,33,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+134,F,40,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+134,F,39,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+133,M,53,Vacina Covid-19 - Covishield,Comorbidades,Doenças Cardiovasculares e Cerebrovasculares,1
+133,F,35,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
 132,F,62,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 60 a 64 anos,2
-131,M,53,Vacina Covid-19 - Covishield,Comorbidades,Doenças Cardiovasculares e Cerebrovasculares,1
-131,F,79,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 75 a 79 anos,2
+132,F,46,Vacina Covid-19 - Covishield,Comorbidades,Doenças Cardiovasculares e Cerebrovasculares,1
 131,F,48,Vacina Covid-19 - Covishield,Comorbidades,Outros Imunossuprimidos,1
-131,F,38,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
-131,F,33,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
-130,F,46,Vacina Covid-19 - Covishield,Comorbidades,Doenças Cardiovasculares e Cerebrovasculares,1
-130,F,40,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
-130,F,35,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
 129,M,51,Vacina Covid-19 - Covishield,Comorbidades,Doenças Cardiovasculares e Cerebrovasculares,1
-129,F,39,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
-127,M,52,Vacina Covid-19 - Covishield,Comorbidades,Doenças Cardiovasculares e Cerebrovasculares,1
-127,F,46,Vacina Covid-19 - Covishield,Comorbidades,Pneumopatias Crônicas Graves,1
+128,M,52,Vacina Covid-19 - Covishield,Comorbidades,Doenças Cardiovasculares e Cerebrovasculares,1
+128,F,46,Vacina Covid-19 - Covishield,Comorbidades,Pneumopatias Crônicas Graves,1
 126,F,52,Vacina Covid-19 - Covishield,Comorbidades,Doenças Cardiovasculares e Cerebrovasculares,1
 126,F,47,Vacina Covid-19 - Covishield,Comorbidades,Outros Imunossuprimidos,1
-122,F,47,Vacina Covid-19 - Covishield,Comorbidades,Doenças Cardiovasculares e Cerebrovasculares,1
-121,F,63,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1
-120,F,47,Vacina Covid-19 - Covishield,Comorbidades,Pneumopatias Crônicas Graves,1
-118,F,51,Vacina Covid-19 - Covishield,Comorbidades,Doenças Cardiovasculares e Cerebrovasculares,1
-118,F,23,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
-116,F,49,Vacina Covid-19 - Covishield,Comorbidades,Outros Imunossuprimidos,1
+124,F,63,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1
+123,F,47,Vacina Covid-19 - Covishield,Comorbidades,Doenças Cardiovasculares e Cerebrovasculares,1
+121,F,51,Vacina Covid-19 - Covishield,Comorbidades,Doenças Cardiovasculares e Cerebrovasculares,1
+121,F,47,Vacina Covid-19 - Covishield,Comorbidades,Pneumopatias Crônicas Graves,1
+119,F,36,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+119,F,23,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+118,F,49,Vacina Covid-19 - Covishield,Comorbidades,Outros Imunossuprimidos,1
+117,F,37,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
 116,F,48,Vacina Covid-19 - Covishield,Comorbidades,Pneumopatias Crônicas Graves,1
-115,F,36,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
-114,F,45,Vacina Covid-19 - Covishield,Comorbidades,Outros Imunossuprimidos,1
-114,F,37,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
-113,F,22,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
-111,F,46,Vacina Covid-19 - Covishield,Comorbidades,Outros Imunossuprimidos,1
+115,F,45,Vacina Covid-19 - Covishield,Comorbidades,Outros Imunossuprimidos,1
+115,F,20,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+114,F,30,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+114,F,22,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+112,F,78,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 75 a 79 anos,2
+112,F,46,Vacina Covid-19 - Covishield,Comorbidades,Outros Imunossuprimidos,1
+112,F,42,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+111,F,86,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,2
 110,M,57,Vacina Covid-19 - Covishield,Comorbidades,Doenças Cardiovasculares e Cerebrovasculares,1
 109,F,59,Vacina Covid-19 - Covishield,Comorbidades,Doenças Cardiovasculares e Cerebrovasculares,1
-109,F,30,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
-108,F,78,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 75 a 79 anos,2
 108,F,58,Vacina Covid-19 - Covishield,Comorbidades,Doenças Cardiovasculares e Cerebrovasculares,1
-107,F,86,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,2
-107,F,20,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
-105,M,59,Vacina Covid-19 - Covishield,Comorbidades,Doenças Cardiovasculares e Cerebrovasculares,1
+106,M,59,Vacina Covid-19 - Covishield,Comorbidades,Doenças Cardiovasculares e Cerebrovasculares,1
 105,F,49,Vacina Covid-19 - Covishield,Comorbidades,Pneumopatias Crônicas Graves,1
 104,M,62,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 60 a 64 anos,2
 102,F,57,Vacina Covid-19 - Covishield,Comorbidades,Doenças Cardiovasculares e Cerebrovasculares,1
 102,F,54,Vacina Covid-19 - Covishield,Comorbidades,Outros Imunossuprimidos,1
-102,F,42,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+102,F,21,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
 101,M,58,Vacina Covid-19 - Covishield,Comorbidades,Doenças Cardiovasculares e Cerebrovasculares,1
+101,F,77,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 75 a 79 anos,2
 100,F,53,Vacina Covid-19 - Covishield,Comorbidades,Doenças Cardiovasculares e Cerebrovasculares,1
 99,M,55,Vacina Covid-19 - Covishield,Comorbidades,Doenças Cardiovasculares e Cerebrovasculares,1
 99,F,56,Vacina Covid-19 - Covishield,Comorbidades,Doenças Cardiovasculares e Cerebrovasculares,1
-96,F,25,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
-96,F,21,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+99,F,25,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
 95,M,56,Vacina Covid-19 - Covishield,Comorbidades,Doenças Cardiovasculares e Cerebrovasculares,1
-95,F,77,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 75 a 79 anos,2
 94,M,79,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 75 a 79 anos,2
-92,F,64,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1
+93,F,64,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1
 92,F,55,Vacina Covid-19 - Covishield,Comorbidades,Doenças Cardiovasculares e Cerebrovasculares,1
+92,F,24,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
 90,F,52,Vacina Covid-19 - Covishield,Comorbidades,Outros Imunossuprimidos,1
+89,M,45,Vacina Covid-19 - Covishield,Comorbidades,Outros Imunossuprimidos,1
+89,F,72,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 70 a 74 anos,2
 88,M,64,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1
-88,M,45,Vacina Covid-19 - Covishield,Comorbidades,Outros Imunossuprimidos,1
-88,F,72,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 70 a 74 anos,2
-87,F,24,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
-85,F,44,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+88,F,44,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+88,F,26,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+86,F,43,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
 84,M,53,Vacina Covid-19 - Covishield,Comorbidades,Outros Imunossuprimidos,1
 84,M,48,Vacina Covid-19 - Covishield,Comorbidades,Outros Imunossuprimidos,1
 84,M,46,Vacina Covid-19 - Covishield,Comorbidades,Outros Imunossuprimidos,1
-84,F,26,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
-83,F,43,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+83,M,78,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 75 a 79 anos,2
 82,M,72,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 70 a 74 anos,2
 82,M,49,Vacina Covid-19 - Covishield,Trabalhadores de Transporte,Coletivo Rodoviário Passageiros Urbano e de Longo Curso ,1
+82,M,48,Vacina Covid-19 - Covishield,Trabalhadores de Transporte,Coletivo Rodoviário Passageiros Urbano e de Longo Curso ,1
+81,M,65,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 65 a 69 anos,1
 81,M,49,Vacina Covid-19 - Covishield,Comorbidades,Outros Imunossuprimidos,1
-81,M,48,Vacina Covid-19 - Covishield,Trabalhadores de Transporte,Coletivo Rodoviário Passageiros Urbano e de Longo Curso ,1
 81,F,50,Vacina Covid-19 - Covishield,Comorbidades,Outros Imunossuprimidos,1
-80,M,78,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 75 a 79 anos,2
+81,F,45,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+81,F,27,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
 80,F,51,Vacina Covid-19 - Covishield,Comorbidades,Outros Imunossuprimidos,1
-78,M,65,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 65 a 69 anos,1
+79,F,29,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
 78,F,73,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 70 a 74 anos,2
 78,F,50,Vacina Covid-19 - Covishield,Comorbidades,Pneumopatias Crônicas Graves,1
-78,F,45,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
-78,F,27,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
 77,M,47,Vacina Covid-19 - Covishield,Trabalhadores de Transporte,Coletivo Rodoviário Passageiros Urbano e de Longo Curso ,1
+77,F,54,Vacina Covid-19 - Covishield,Comorbidades,Pneumopatias Crônicas Graves,1
+77,F,46,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
 77,F,45,Vacina Covid-19 - Covishield,Comorbidades,Obesidade Grave (Imc>=40),1
-76,F,46,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
-75,F,54,Vacina Covid-19 - Covishield,Comorbidades,Pneumopatias Crônicas Graves,1
-75,F,51,Vacina Covid-19 - Covishield,Comorbidades,Pneumopatias Crônicas Graves,1
-75,F,29,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+76,F,51,Vacina Covid-19 - Covishield,Comorbidades,Pneumopatias Crônicas Graves,1
+75,F,28,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+75,F,19,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
 74,F,65,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 65 a 69 anos,1
-74,F,28,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
 73,M,50,Vacina Covid-19 - Covishield,Trabalhadores de Transporte,Coletivo Rodoviário Passageiros Urbano e de Longo Curso ,1
 73,M,46,Vacina Covid-19 - Covishield,Trabalhadores de Transporte,Coletivo Rodoviário Passageiros Urbano e de Longo Curso ,1
 73,M,45,Vacina Covid-19 - Covishield,Trabalhadores de Transporte,Coletivo Rodoviário Passageiros Urbano e de Longo Curso ,1
+73,F,53,Vacina Covid-19 - Covishield,Comorbidades,Outros Imunossuprimidos,1
+72,M,51,Vacina Covid-19 - Covishield,Trabalhadores de Transporte,Coletivo Rodoviário Passageiros Urbano e de Longo Curso ,1
 72,M,50,Vacina Covid-19 - Covishield,Comorbidades,Outros Imunossuprimidos,1
 72,M,47,Vacina Covid-19 - Covishield,Comorbidades,Outros Imunossuprimidos,1
 72,F,53,Vacina Covid-19 - Covishield,Comorbidades,Pneumopatias Crônicas Graves,1
-72,F,53,Vacina Covid-19 - Covishield,Comorbidades,Outros Imunossuprimidos,1
-72,F,19,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
-71,M,51,Vacina Covid-19 - Covishield,Trabalhadores de Transporte,Coletivo Rodoviário Passageiros Urbano e de Longo Curso ,1
 70,M,54,Vacina Covid-19 - Covishield,Comorbidades,Outros Imunossuprimidos,1
 70,M,46,Vacina Covid-19 - Covishield,Comorbidades,Pneumopatias Crônicas Graves,1
 70,M,44,Vacina Covid-19 - Covishield,Trabalhadores de Transporte,Coletivo Rodoviário Passageiros Urbano e de Longo Curso ,1
 70,M,39,Vacina Covid-19 - Covishield,Trabalhadores de Transporte,Coletivo Rodoviário Passageiros Urbano e de Longo Curso ,1
 69,M,52,Vacina Covid-19 - Covishield,Trabalhadores de Transporte,Coletivo Rodoviário Passageiros Urbano e de Longo Curso ,1
 69,M,48,Vacina Covid-19 - Covishield,Comorbidades,Pneumopatias Crônicas Graves,1
+69,M,43,Vacina Covid-19 - Covishield,Trabalhadores de Transporte,Coletivo Rodoviário Passageiros Urbano e de Longo Curso ,1
 69,M,40,Vacina Covid-19 - Covishield,Trabalhadores de Transporte,Coletivo Rodoviário Passageiros Urbano e de Longo Curso ,1
+68,M,77,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 75 a 79 anos,2
 68,M,73,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 70 a 74 anos,2
-68,M,43,Vacina Covid-19 - Covishield,Trabalhadores de Transporte,Coletivo Rodoviário Passageiros Urbano e de Longo Curso ,1
 68,F,52,Vacina Covid-19 - Covishield,Comorbidades,Pneumopatias Crônicas Graves,1
-67,M,47,Vacina Covid-19 - Covishield,Comorbidades,Pneumopatias Crônicas Graves,1
-66,M,77,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 75 a 79 anos,2
 66,M,54,Vacina Covid-19 - Covishield,Trabalhadores de Transporte,Coletivo Rodoviário Passageiros Urbano e de Longo Curso ,1
 66,F,60,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
-64,M,45,Vacina Covid-19 - Covishield,Comorbidades,Pneumopatias Crônicas Graves,1
+65,M,47,Vacina Covid-19 - Covishield,Comorbidades,Pneumopatias Crônicas Graves,1
+65,M,45,Vacina Covid-19 - Covishield,Comorbidades,Pneumopatias Crônicas Graves,1
 64,M,42,Vacina Covid-19 - Covishield,Trabalhadores de Transporte,Coletivo Rodoviário Passageiros Urbano e de Longo Curso ,1
 64,F,74,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 70 a 74 anos,2
 64,F,55,Vacina Covid-19 - Covishield,Comorbidades,Outros Imunossuprimidos,1
@@ -226,115 +226,116 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 63,M,53,Vacina Covid-19 - Covishield,Trabalhadores de Transporte,Coletivo Rodoviário Passageiros Urbano e de Longo Curso ,1
 63,M,41,Vacina Covid-19 - Covishield,Trabalhadores de Transporte,Coletivo Rodoviário Passageiros Urbano e de Longo Curso ,1
 63,M,39,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+63,F,87,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,2
 62,M,51,Vacina Covid-19 - Covishield,Comorbidades,Outros Imunossuprimidos,1
 62,M,49,Vacina Covid-19 - Covishield,Comorbidades,Pneumopatias Crônicas Graves,1
-62,F,87,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,2
+62,M,36,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
 61,M,55,Vacina Covid-19 - Covishield,Trabalhadores de Transporte,Coletivo Rodoviário Passageiros Urbano e de Longo Curso ,1
 60,M,52,Vacina Covid-19 - Covishield,Comorbidades,Outros Imunossuprimidos,1
 60,M,38,Vacina Covid-19 - Covishield,Trabalhadores de Transporte,Coletivo Rodoviário Passageiros Urbano e de Longo Curso ,1
+60,F,55,Vacina Covid-19 - Covishield,Comorbidades,Pneumopatias Crônicas Graves,1
 59,M,50,Vacina Covid-19 - Covishield,Comorbidades,Pneumopatias Crônicas Graves,1
-59,M,36,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
-58,F,55,Vacina Covid-19 - Covishield,Comorbidades,Pneumopatias Crônicas Graves,1
-58,F,48,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+59,F,48,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
 58,F,47,Vacina Covid-19 - Covishield,Comorbidades,Obesidade Grave (Imc>=40),1
+57,M,33,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
 57,F,66,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 65 a 69 anos,1
+56,M,56,Vacina Covid-19 - Covishield,Trabalhadores de Transporte,Coletivo Rodoviário Passageiros Urbano e de Longo Curso ,1
 56,F,88,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,2
 55,M,57,Vacina Covid-19 - Covishield,Trabalhadores de Transporte,Coletivo Rodoviário Passageiros Urbano e de Longo Curso ,1
-55,M,56,Vacina Covid-19 - Covishield,Trabalhadores de Transporte,Coletivo Rodoviário Passageiros Urbano e de Longo Curso ,1
-55,M,33,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
 55,F,48,Vacina Covid-19 - Covishield,Comorbidades,Obesidade Grave (Imc>=40),1
+54,F,89,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,2
 54,F,61,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 60 a 64 anos,2
 54,F,44,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
 53,M,86,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,2
 53,M,60,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
 53,M,36,Vacina Covid-19 - Covishield,Trabalhadores de Transporte,Coletivo Rodoviário Passageiros Urbano e de Longo Curso ,1
+53,M,35,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+53,M,34,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
 53,F,60,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1
+53,F,49,Vacina Covid-19 - Covishield,Comorbidades,Neoplasias,1
+52,M,66,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 65 a 69 anos,1
 52,M,35,Vacina Covid-19 - Covishield,Trabalhadores de Transporte,Coletivo Rodoviário Passageiros Urbano e de Longo Curso ,1
-52,F,89,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,2
-52,F,59,Vacina Covid-19 - Covishield,Comorbidades,Outros Imunossuprimidos,1
-52,F,49,Vacina Covid-19 - Covishield,Comorbidades,Neoplasias,1
-51,M,66,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 65 a 69 anos,1
 51,M,45,Vacina Covid-19 - Covishield,Comorbidades,Obesidade Grave (Imc>=40),1
-51,M,35,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
-51,M,34,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+51,M,42,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+51,M,31,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
 51,F,67,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 65 a 69 anos,1
+51,F,59,Vacina Covid-19 - Covishield,Comorbidades,Outros Imunossuprimidos,1
 51,F,57,Vacina Covid-19 - Covishield,Comorbidades,Outros Imunossuprimidos,1
 50,M,51,Vacina Covid-19 - Covishield,Comorbidades,Pneumopatias Crônicas Graves,1
-49,M,38,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
-48,M,31,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+50,M,38,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+50,F,18,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+49,F,47,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+48,M,64,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 60 a 64 anos,1
+48,M,32,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+48,F,58,Vacina Covid-19 - Covishield,Comorbidades,Pneumopatias Crônicas Graves,1
 48,F,47,Vacina Covid-19 - Covishield,Comorbidades,Neoplasias,1
-48,F,18,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
 47,M,54,Vacina Covid-19 - Covishield,Comorbidades,Pneumopatias Crônicas Graves,1
-47,M,32,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
-47,F,58,Vacina Covid-19 - Covishield,Comorbidades,Pneumopatias Crônicas Graves,1
+47,M,37,Vacina Covid-19 - Covishield,Trabalhadores de Transporte,Coletivo Rodoviário Passageiros Urbano e de Longo Curso ,1
 47,F,58,Vacina Covid-19 - Covishield,Comorbidades,Outros Imunossuprimidos,1
-46,M,42,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
-46,M,37,Vacina Covid-19 - Covishield,Trabalhadores de Transporte,Coletivo Rodoviário Passageiros Urbano e de Longo Curso ,1
+47,F,50,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
 46,F,54,Vacina Covid-19 - Covishield,Comorbidades,Neoplasias,1
-46,F,50,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
 45,F,52,Vacina Covid-19 - Covishield,Comorbidades,Neoplasias,1
-45,F,47,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
-44,M,64,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 60 a 64 anos,1
+44,M,52,Vacina Covid-19 - Covishield,Comorbidades,Pneumopatias Crônicas Graves,1
 44,M,46,Vacina Covid-19 - Covishield,Comorbidades,Obesidade Grave (Imc>=40),1
+44,F,76,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 75 a 79 anos,2
 44,F,52,Vacina Covid-19 - Covishield,Comorbidades,Obesidade Grave (Imc>=40),1
 43,M,87,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,2
-43,M,52,Vacina Covid-19 - Covishield,Comorbidades,Pneumopatias Crônicas Graves,1
 43,M,44,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
+43,M,37,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
 43,F,59,Vacina Covid-19 - Covishield,Comorbidades,Pneumopatias Crônicas Graves,1
 43,F,48,Vacina Covid-19 - Covishield,Comorbidades,Neoplasias,1
-42,M,37,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
-41,F,76,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 75 a 79 anos,2
+42,M,53,Vacina Covid-19 - Covishield,Comorbidades,Pneumopatias Crônicas Graves,1
+42,M,30,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+41,F,64,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 60 a 64 anos,1
 41,F,56,Vacina Covid-19 - Covishield,Comorbidades,Outros Imunossuprimidos,1
 41,F,50,Vacina Covid-19 - Covishield,Comorbidades,Obesidade Grave (Imc>=40),1
 40,M,74,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 70 a 74 anos,2
-40,M,53,Vacina Covid-19 - Covishield,Comorbidades,Pneumopatias Crônicas Graves,1
 40,M,49,Vacina Covid-19 - Covishield,Comorbidades,Obesidade Grave (Imc>=40),1
-40,M,30,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
 40,M,21,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
 40,F,68,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 65 a 69 anos,1
-40,F,64,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 60 a 64 anos,1
 40,F,61,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
+40,F,57,Vacina Covid-19 - Covishield,Comorbidades,Pneumopatias Crônicas Graves,1
 40,F,50,Vacina Covid-19 - Covishield,Comorbidades,Neoplasias,1
 39,M,61,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 60 a 64 anos,2
-39,F,57,Vacina Covid-19 - Covishield,Comorbidades,Pneumopatias Crônicas Graves,1
 39,F,56,Vacina Covid-19 - Covishield,Comorbidades,Pneumopatias Crônicas Graves,1
 39,F,52,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+39,F,43,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
 38,M,47,Vacina Covid-19 - Covishield,Comorbidades,Obesidade Grave (Imc>=40),1
-38,F,43,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
+38,M,23,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
 37,M,67,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 65 a 69 anos,1
 37,M,55,Vacina Covid-19 - Covishield,Comorbidades,Outros Imunossuprimidos,1
-37,M,23,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+37,M,40,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
 37,F,53,Vacina Covid-19 - Covishield,Comorbidades,Obesidade Grave (Imc>=40),1
 37,F,51,Vacina Covid-19 - Covishield,Comorbidades,Neoplasias,1
+37,F,49,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
 37,F,49,Vacina Covid-19 - Covishield,Comorbidades,Obesidade Grave (Imc>=40),1
 36,M,75,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 75 a 79 anos,2
+36,M,68,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 65 a 69 anos,1
 36,M,60,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1
 36,M,59,Vacina Covid-19 - Covishield,Comorbidades,Outros Imunossuprimidos,1
 36,M,58,Vacina Covid-19 - Covishield,Trabalhadores de Transporte,Coletivo Rodoviário Passageiros Urbano e de Longo Curso ,1
 36,M,56,Vacina Covid-19 - Covishield,Comorbidades,Outros Imunossuprimidos,1
-36,M,40,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
 36,M,34,Vacina Covid-19 - Covishield,Trabalhadores de Transporte,Coletivo Rodoviário Passageiros Urbano e de Longo Curso ,1
 36,F,54,Vacina Covid-19 - Covishield,Comorbidades,Obesidade Grave (Imc>=40),1
-35,M,68,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 65 a 69 anos,1
+36,F,42,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
+35,M,58,Vacina Covid-19 - Covishield,Comorbidades,Outros Imunossuprimidos,1
 35,M,56,Vacina Covid-19 - Covishield,Comorbidades,Pneumopatias Crônicas Graves,1
 35,M,50,Vacina Covid-19 - Covishield,Comorbidades,Obesidade Grave (Imc>=40),1
 35,M,32,Vacina Covid-19 - Covishield,Trabalhadores de Transporte,Coletivo Rodoviário Passageiros Urbano e de Longo Curso ,1
 35,F,76,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 75 a 79 anos,2
-35,F,42,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
 34,M,62,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
-34,M,58,Vacina Covid-19 - Covishield,Comorbidades,Outros Imunossuprimidos,1
+34,M,45,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+34,M,41,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+34,M,22,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
 34,F,60,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 60 a 64 anos,2
 34,F,46,Vacina Covid-19 - Covishield,Comorbidades,Neoplasias,1
 33,M,61,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
-33,M,45,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
-33,M,41,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
 33,M,33,Vacina Covid-19 - Covishield,Trabalhadores de Transporte,Coletivo Rodoviário Passageiros Urbano e de Longo Curso ,1
-33,M,22,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+33,M,29,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+33,M,25,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
 33,F,75,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 75 a 79 anos,2
 33,F,61,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1
-33,F,49,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
 32,M,52,Vacina Covid-19 - Covishield,Comorbidades,Obesidade Grave (Imc>=40),1
-32,M,25,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
 32,F,51,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
 32,F,51,Vacina Covid-19 - Covishield,Comorbidades,Obesidade Grave (Imc>=40),1
 32,F,45,Vacina Covid-19 - Covishield,Comorbidades,Neoplasias,1
@@ -342,67 +343,69 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 31,M,57,Vacina Covid-19 - Covishield,Comorbidades,Outros Imunossuprimidos,1
 31,M,48,Vacina Covid-19 - Covishield,Comorbidades,Obesidade Grave (Imc>=40),1
 31,M,44,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
-31,M,29,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
 31,M,24,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
 30,M,61,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1
+30,M,58,Vacina Covid-19 - Covishield,Comorbidades,Pneumopatias Crônicas Graves,1
+30,M,55,Vacina Covid-19 - Covishield,Comorbidades,Pneumopatias Crônicas Graves,1
+30,M,54,Vacina Covid-19 - Covishield,Comorbidades,Obesidade Grave (Imc>=40),1
+30,M,20,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+30,F,68,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,1
 30,F,42,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1
-29,M,58,Vacina Covid-19 - Covishield,Comorbidades,Pneumopatias Crônicas Graves,1
 29,M,57,Vacina Covid-19 - Covishield,Comorbidades,Pneumopatias Crônicas Graves,1
-29,M,55,Vacina Covid-19 - Covishield,Comorbidades,Pneumopatias Crônicas Graves,1
-29,M,54,Vacina Covid-19 - Covishield,Comorbidades,Obesidade Grave (Imc>=40),1
 29,M,51,Vacina Covid-19 - Covishield,Comorbidades,Obesidade Grave (Imc>=40),1
+29,M,43,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
 29,M,40,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
-29,M,20,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+29,M,27,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+29,M,19,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+29,F,55,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
 29,F,41,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
 29,F,26,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2
-28,M,27,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
-28,M,19,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+28,M,88,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,2
 28,F,62,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
-28,F,55,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
-27,M,88,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,2
-27,M,43,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+27,M,68,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,1
+27,M,47,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
 27,F,62,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1
+27,F,47,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Básico,1
 26,M,59,Vacina Covid-19 - Covishield,Comorbidades,Pneumopatias Crônicas Graves,1
-26,M,47,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+26,M,26,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
 26,F,83,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,1
-26,F,68,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,1
+26,F,69,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,1
+26,F,58,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+26,F,54,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
 26,F,53,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
 26,F,53,Vacina Covid-19 - Covishield,Comorbidades,Neoplasias,1
 26,F,32,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2
+25,M,77,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 75 a 79 anos,2
 25,M,76,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 75 a 79 anos,2
-25,M,68,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,1
 25,M,59,Vacina Covid-19 - Covishield,Trabalhadores de Transporte,Coletivo Rodoviário Passageiros Urbano e de Longo Curso ,1
-25,F,69,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,1
 25,F,59,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
-25,F,58,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
-25,F,54,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
-25,F,47,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Básico,1
-24,M,77,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 75 a 79 anos,2
+24,M,76,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 75 a 79 anos,2
 24,M,44,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1
 24,M,43,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
 24,M,31,Vacina Covid-19 - Covishield,Trabalhadores de Transporte,Coletivo Rodoviário Passageiros Urbano e de Longo Curso ,1
-24,M,26,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
 24,F,59,Vacina Covid-19 - Covishield,Comorbidades,Neoplasias,1
 24,F,58,Vacina Covid-19 - Covishield,Comorbidades,Neoplasias,1
 24,F,43,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+24,F,40,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
 24,F,39,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2
-23,M,76,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 75 a 79 anos,2
+23,M,42,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
+23,M,41,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1
 23,M,18,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+23,F,77,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 75 a 79 anos,2
+23,F,75,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 75 a 79 anos,2
 23,F,56,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
 23,F,56,Vacina Covid-19 - Covishield,Comorbidades,Neoplasias,1
 23,F,43,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1
-23,F,40,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
 23,F,27,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2
-22,M,42,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
-22,M,41,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1
+22,M,69,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,1
 22,M,28,Vacina Covid-19 - Covishield,Trabalhadores de Transporte,Coletivo Rodoviário Passageiros Urbano e de Longo Curso ,1
-22,F,77,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 75 a 79 anos,2
 22,F,55,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
 22,F,41,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1
 22,F,29,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2
-21,M,69,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,1
+21,M,75,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 75 a 79 anos,2
 21,M,46,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
-21,F,75,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 75 a 79 anos,2
+21,M,28,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+21,F,57,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
 21,F,55,Vacina Covid-19 - Covishield,Comorbidades,Neoplasias,1
 21,F,55,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,2
 21,F,47,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,2
@@ -411,19 +414,17 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 20,M,69,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 65 a 69 anos,1
 20,M,60,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 60 a 64 anos,2
 20,M,48,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+20,M,41,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
 20,M,29,Vacina Covid-19 - Covishield,Trabalhadores de Transporte,Coletivo Rodoviário Passageiros Urbano e de Longo Curso ,1
-20,M,28,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
 20,F,81,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,1
 20,F,64,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,2
 20,F,63,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1
-20,F,57,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
 20,F,40,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1
 20,F,36,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2
 20,F,30,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2
-19,M,75,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 75 a 79 anos,2
+19,M,70,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 70 a 74 anos,1
 19,M,57,Vacina Covid-19 - Covishield,Comorbidades,Neoplasias,1
 19,M,43,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1
-19,M,41,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
 19,F,57,Vacina Covid-19 - Covishield,Comorbidades,Neoplasias,1
 19,F,54,Vacina Covid-19 - Covishield,Comorbidades,Doença Renal Crônica,1
 19,F,53,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,2
@@ -432,17 +433,17 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 19,F,38,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2
 19,F,25,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2
 19,F,24,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
-18,M,70,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 70 a 74 anos,1
+18,M,89,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,2
+18,M,78,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 75 a 79 anos,2
 18,M,30,Vacina Covid-19 - Covishield,Trabalhadores de Transporte,Coletivo Rodoviário Passageiros Urbano e de Longo Curso ,1
+18,F,70,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 70 a 74 anos,1
 18,F,56,Vacina Covid-19 - Covishield,Comorbidades,Obesidade Grave (Imc>=40),1
 18,F,50,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,2
 18,F,31,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2
 18,F,21,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
-17,M,89,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,2
-17,M,78,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 75 a 79 anos,2
 17,M,54,Vacina Covid-19 - Covishield,Comorbidades,Neoplasias,1
 17,F,78,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 75 a 79 anos,2
-17,F,70,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 70 a 74 anos,1
+17,F,74,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 70 a 74 anos,2
 17,F,54,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
 17,F,54,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,2
 17,F,53,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
@@ -459,6 +460,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 16,F,63,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
 16,F,58,Vacina Covid-19 - Covishield,Comorbidades,Obesidade Grave (Imc>=40),1
 16,F,49,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,2
+16,F,48,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Básico,1
 16,F,30,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
 16,F,29,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
 16,F,28,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2
@@ -466,6 +468,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 15,M,64,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,2
 15,M,59,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
 15,M,58,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
+15,M,57,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
 15,M,56,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
 15,M,53,Vacina Covid-19 - Covishield,Comorbidades,Obesidade Grave (Imc>=40),1
 15,M,52,Vacina Covid-19 - Covishield,Comorbidades,Neoplasias,1
@@ -477,20 +480,19 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 15,F,58,Vacina Covid-19 - Covishield,Comorbidades,Doença Renal Crônica,1
 15,F,58,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
 15,F,57,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2
-15,F,48,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Básico,1
+15,F,55,Vacina Covid-19 - Covishield,Comorbidades,Obesidade Grave (Imc>=40),1
 15,F,47,Vacina Covid-19 - Covishield,Comorbidades,Doença Renal Crônica,1
 15,F,42,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2
 15,F,40,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
 15,F,39,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
 15,F,22,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+14,M,73,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 70 a 74 anos,2
 14,M,73,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 70 a 74 anos,1
-14,M,57,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
 14,M,55,Vacina Covid-19 - Covishield,Comorbidades,Obesidade Grave (Imc>=40),1
 14,M,48,Vacina Covid-19 - Covishield,Comorbidades,Neoplasias,1
-14,F,74,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 70 a 74 anos,2
+14,M,42,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1
 14,F,59,Vacina Covid-19 - Covishield,Comorbidades,Obesidade Grave (Imc>=40),1
 14,F,57,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
-14,F,55,Vacina Covid-19 - Covishield,Comorbidades,Obesidade Grave (Imc>=40),1
 14,F,52,Vacina Covid-19 - Covishield,Comorbidades,Doença Renal Crônica,1
 14,F,51,Vacina Covid-19 - Covishield,Comorbidades,Doença Renal Crônica,1
 14,F,50,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
@@ -499,18 +501,20 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 14,F,41,Vacina Covid-19 - Covishield,Trabalhadores de Transporte,Coletivo Rodoviário Passageiros Urbano e de Longo Curso ,1
 14,F,38,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
 14,F,37,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2
+14,F,32,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
 13,M,74,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 70 a 74 anos,1
 13,M,71,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 70 a 74 anos,1
 13,M,64,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
 13,M,63,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1
+13,M,53,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
 13,M,50,Vacina Covid-19 - Covishield,Comorbidades,Neoplasias,1
 13,M,49,Vacina Covid-19 - Covishield,Comorbidades,Neoplasias,1
 13,M,47,Vacina Covid-19 - Covishield,Comorbidades,Doença Renal Crônica,1
 13,M,45,Vacina Covid-19 - Covishield,Comorbidades,Doença Renal Crônica,1
-13,M,42,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1
 13,M,41,Vacina Covid-19 - Covishield,Comorbidades,Outros Imunossuprimidos,1
 13,M,40,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1
 13,F,92,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,2
+13,F,84,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,1
 13,F,75,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 75 a 79 anos,1
 13,F,61,Vacina Covid-19 - Covishield,Comorbidades,Doenças Cardiovasculares e Cerebrovasculares,1
 13,F,57,Vacina Covid-19 - Covishield,Comorbidades,Obesidade Grave (Imc>=40),1
@@ -518,23 +522,22 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 13,F,48,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
 13,F,43,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2
 13,F,42,Vacina Covid-19 - Covishield,Comorbidades,Outros Imunossuprimidos,1
+13,F,41,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2
 13,F,41,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
 13,F,35,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2
 13,F,33,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
-13,F,32,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
 13,F,28,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
 12,M,62,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1
 12,M,56,Vacina Covid-19 - Covishield,Comorbidades,Neoplasias,1
 12,M,55,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
-12,M,53,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
 12,M,27,Vacina Covid-19 - Covishield,Trabalhadores de Transporte,Coletivo Rodoviário Passageiros Urbano e de Longo Curso ,1
 12,F,91,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,2
-12,F,84,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,1
 12,F,82,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,1
 12,F,80,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,1
 12,F,80,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,2
 12,F,74,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 70 a 74 anos,1
 12,F,72,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 70 a 74 anos,1
+12,F,72,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 70 a 74 anos,1
 12,F,71,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 70 a 74 anos,1
 12,F,64,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,2
 12,F,64,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
@@ -545,22 +548,21 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 12,F,48,Vacina Covid-19 - Covishield,Comorbidades,Doença Renal Crônica,1
 12,F,47,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2
 12,F,44,Vacina Covid-19 - Covishield,Comorbidades,Outros Imunossuprimidos,1
-12,F,41,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2
 11,M,82,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,1
 11,M,81,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,1
-11,M,73,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 70 a 74 anos,2
 11,M,63,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
 11,M,55,Vacina Covid-19 - Covishield,Comorbidades,Neoplasias,1
 11,M,47,Vacina Covid-19 - Covishield,Comorbidades,Neoplasias,1
 11,M,46,Vacina Covid-19 - Covishield,Comorbidades,Neoplasias,1
+11,M,42,Vacina Covid-19 - Covishield,Comorbidades,Outros Imunossuprimidos,1
 11,M,39,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
 11,F,86,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,2
-11,F,72,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 70 a 74 anos,1
 11,F,71,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 70 a 74 anos,1
 11,F,56,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,2
 11,F,52,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Básico,1
 11,F,51,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Básico,1
 11,F,50,Vacina Covid-19 - Covishield,Comorbidades,Doença Renal Crônica,1
+11,F,49,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Básico,1
 11,F,45,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2
 11,F,45,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
 11,F,44,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
@@ -573,15 +575,20 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 10,M,51,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
 10,M,46,Vacina Covid-19 - Covishield,Comorbidades,Doença Renal Crônica,1
 10,M,44,Vacina Covid-19 - Covishield,Comorbidades,Outros Imunossuprimidos,1
-10,M,42,Vacina Covid-19 - Covishield,Comorbidades,Outros Imunossuprimidos,1
 10,M,26,Vacina Covid-19 - Covishield,Trabalhadores de Transporte,Coletivo Rodoviário Passageiros Urbano e de Longo Curso ,1
+10,F,73,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 70 a 74 anos,2
+10,F,72,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 70 a 74 anos,2
+10,F,71,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 70 a 74 anos,2
 10,F,70,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 70 a 74 anos,1
 10,F,69,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 65 a 69 anos,2
 10,F,66,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 65 a 69 anos,2
 10,F,55,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2
 10,F,54,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2
+10,F,53,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,1
 10,F,50,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2
-10,F,49,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Básico,1
+10,F,50,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Básico,1
+10,F,48,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,1
+10,F,47,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,1
 10,F,43,Vacina Covid-19 - Covishield,Trabalhadores de Transporte,Coletivo Rodoviário Passageiros Urbano e de Longo Curso ,1
 10,F,37,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
 10,F,37,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Diabetes Mellitus,1
@@ -598,20 +605,17 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 9,M,49,Vacina Covid-19 - Covishield,Comorbidades,Doença Renal Crônica,1
 9,M,48,Vacina Covid-19 - Covishield,Comorbidades,Doença Renal Crônica,1
 9,M,45,Vacina Covid-19 - Covishield,Comorbidades,Neoplasias,1
+9,M,43,Vacina Covid-19 - Covishield,Comorbidades,Outros Imunossuprimidos,1
+9,F,93,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,2
 9,F,74,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 70 a 74 anos,1
-9,F,72,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 70 a 74 anos,2
-9,F,71,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 70 a 74 anos,2
+9,F,70,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 70 a 74 anos,2
 9,F,67,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 65 a 69 anos,2
 9,F,62,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,2
 9,F,61,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2
 9,F,57,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,2
 9,F,53,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Básico,1
-9,F,53,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,1
 9,F,52,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2
-9,F,50,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Básico,1
 9,F,48,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2
-9,F,48,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,1
-9,F,47,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,1
 9,F,46,Vacina Covid-19 - Covishield,Trabalhadores de Transporte,Coletivo Rodoviário Passageiros Urbano e de Longo Curso ,1
 9,F,39,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
 9,F,36,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
@@ -623,6 +627,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 8,M,84,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,1
 8,M,83,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,1
 8,M,80,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,1
+8,M,72,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 70 a 74 anos,2
 8,M,71,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 70 a 74 anos,1
 8,M,64,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1
 8,M,61,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,2
@@ -630,18 +635,17 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 8,M,58,Vacina Covid-19 - Covishield,Comorbidades,Obesidade Grave (Imc>=40),1
 8,M,58,Vacina Covid-19 - Covishield,Comorbidades,Doença Renal Crônica,1
 8,M,57,Vacina Covid-19 - Covishield,Comorbidades,Obesidade Grave (Imc>=40),1
+8,M,55,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
 8,M,54,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
 8,M,53,Vacina Covid-19 - Covishield,Comorbidades,Neoplasias,1
 8,M,52,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
 8,M,43,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2
-8,M,43,Vacina Covid-19 - Covishield,Comorbidades,Outros Imunossuprimidos,1
 8,M,40,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2
 8,M,39,Vacina Covid-19 - Covishield,Comorbidades,Outros Imunossuprimidos,1
 8,M,32,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2
 8,M,28,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2
 8,M,25,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
 8,M,23,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
-8,F,70,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 70 a 74 anos,2
 8,F,68,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 65 a 69 anos,2
 8,F,65,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 60 a 64 anos,2
 8,F,64,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1
@@ -649,6 +653,8 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 8,F,59,Vacina Covid-19 - Covishield,Comorbidades,Doença Renal Crônica,1
 8,F,54,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,1
 8,F,46,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+8,F,44,Vacina Covid-19 - Covishield,Comorbidades,Doenças Cardiovasculares e Cerebrovasculares,1
+8,F,41,Vacina Covid-19 - Covishield,Comorbidades,Outros Imunossuprimidos,1
 8,F,40,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Diabetes Mellitus,1
 8,F,37,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
 8,F,35,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Diabetes Mellitus,1
@@ -680,9 +686,9 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 7,M,25,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2
 7,M,24,Vacina Covid-19 - Covishield,Trabalhadores de Transporte,Coletivo Rodoviário Passageiros Urbano e de Longo Curso ,1
 7,M,21,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
-7,F,93,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,2
 7,F,80,Vacina Covid-19 - Covishield,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,2
-7,F,73,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 70 a 74 anos,2
+7,F,77,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 75 a 79 anos,1
+7,F,73,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 70 a 74 anos,1
 7,F,63,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,2
 7,F,61,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,2
 7,F,60,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,2
@@ -695,19 +701,16 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 7,F,48,Vacina Covid-19 - Covishield,Trabalhadores de Transporte,Coletivo Rodoviário Passageiros Urbano e de Longo Curso ,1
 7,F,47,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
 7,F,44,Vacina Covid-19 - Covishield,Trabalhadores de Transporte,Coletivo Rodoviário Passageiros Urbano e de Longo Curso ,1
-7,F,44,Vacina Covid-19 - Covishield,Comorbidades,Doenças Cardiovasculares e Cerebrovasculares,1
 7,F,43,Vacina Covid-19 - Covishield,Comorbidades,Outros Imunossuprimidos,1
 7,F,42,Vacina Covid-19 - Covishield,Trabalhadores de Transporte,Coletivo Rodoviário Passageiros Urbano e de Longo Curso ,1
 7,F,42,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
 7,F,41,Vacina Covid-19 - Covishield,Comorbidades,Pneumopatias Crônicas Graves,1
-7,F,41,Vacina Covid-19 - Covishield,Comorbidades,Outros Imunossuprimidos,1
 7,F,40,Vacina Covid-19 - Covishield,Trabalhadores de Transporte,Coletivo Rodoviário Passageiros Urbano e de Longo Curso ,1
 7,F,35,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
 7,F,35,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
 7,F,32,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Diabetes Mellitus,1
 6,M,77,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 75 a 79 anos,1
 6,M,74,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 70 a 74 anos,2
-6,M,72,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 70 a 74 anos,2
 6,M,71,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 70 a 74 anos,2
 6,M,67,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 65 a 69 anos,2
 6,M,65,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1
@@ -716,8 +719,8 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 6,M,60,Vacina Covid-19 - Covishield,Comorbidades,Doenças Cardiovasculares e Cerebrovasculares,1
 6,M,60,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 60 a 64 anos,1
 6,M,59,Vacina Covid-19 - Covishield,Comorbidades,Doença Renal Crônica,1
+6,M,58,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
 6,M,56,Vacina Covid-19 - Covishield,Comorbidades,Doença Renal Crônica,1
-6,M,55,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
 6,M,52,Vacina Covid-19 - Covishield,Comorbidades,Doença Renal Crônica,1
 6,M,51,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
 6,M,51,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
@@ -737,13 +740,14 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 6,M,31,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
 6,M,29,Vacina Covid-19 - Covishield,Comorbidades,Outros Imunossuprimidos,1
 6,M,24,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2
+6,F,85,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,1
 6,F,84,Vacina Covid-19 - Covishield,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,2
 6,F,82,Vacina Covid-19 - Covishield,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,2
 6,F,82,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,2
 6,F,81,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,2
-6,F,77,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 75 a 79 anos,1
+6,F,79,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,2
 6,F,75,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 75 a 79 anos,1
-6,F,73,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 70 a 74 anos,1
+6,F,67,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,1
 6,F,63,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 60 a 64 anos,1
 6,F,62,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 60 a 64 anos,1
 6,F,61,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
@@ -767,7 +771,9 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 6,F,39,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
 6,F,38,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1
 6,F,38,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Diabetes Mellitus,1
+6,F,37,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Básico,1
 6,F,33,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Diabetes Mellitus,1
+6,F,31,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Básico,1
 6,F,31,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
 6,F,31,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Diabetes Mellitus,1
 5,M,85,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,1
@@ -778,19 +784,22 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 5,M,75,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 75 a 79 anos,1
 5,M,72,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 70 a 74 anos,1
 5,M,68,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 65 a 69 anos,2
+5,M,66,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 65 a 69 anos,2
 5,M,66,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
 5,M,65,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 65 a 69 anos,2
 5,M,61,Vacina Covid-19 - Covishield,Comorbidades,Doenças Cardiovasculares e Cerebrovasculares,1
 5,M,60,Vacina Covid-19 - Covishield,Comorbidades,Outros Imunossuprimidos,1
 5,M,58,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
-5,M,58,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
 5,M,54,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
+5,M,53,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Comorbidades,Diabetes Mellitus,1
 5,M,53,Vacina Covid-19 - Covishield,Comorbidades,Indivíduos Transplantados de Órgão Sólido,1
 5,M,53,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
 5,M,50,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
 5,M,50,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2
 5,M,49,Vacina Covid-19 - Covishield,Trabalhadores de Transporte,Metroviário,1
+5,M,48,Vacina Covid-19 - Covishield,Trabalhadores de Transporte,Metroviário,1
 5,M,48,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Básico,1
+5,M,47,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
 5,M,46,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
 5,M,45,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2
 5,M,43,Vacina Covid-19 - Covishield,Comorbidades,Obesidade Grave (Imc>=40),1
@@ -812,17 +821,14 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 5,M,23,Vacina Covid-19 - Covishield,Trabalhadores de Transporte,Coletivo Rodoviário Passageiros Urbano e de Longo Curso ,1
 5,M,20,Vacina Covid-19 - Covishield,Trabalhadores de Transporte,Coletivo Rodoviário Passageiros Urbano e de Longo Curso ,1
 5,F,88,Vacina Covid-19 - Covishield,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,2
-5,F,85,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,1
 5,F,85,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,2
 5,F,84,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,2
 5,F,83,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2
 5,F,80,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2
 5,F,80,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 75 a 79 anos,2
-5,F,79,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,2
 5,F,79,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 75 a 79 anos,1
 5,F,78,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 75 a 79 anos,1
 5,F,76,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 75 a 79 anos,1
-5,F,67,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,1
 5,F,65,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2
 5,F,65,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
 5,F,65,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,1
@@ -830,8 +836,10 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 5,F,62,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2
 5,F,62,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
 5,F,60,Vacina Covid-19 - Covishield,Comorbidades,Doenças Cardiovasculares e Cerebrovasculares,1
+5,F,60,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 60 a 64 anos,1
 5,F,58,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Outros,1
 5,F,57,Vacina Covid-19 - Covishield,Comorbidades,Doença Renal Crônica,1
+5,F,54,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Básico,1
 5,F,53,Vacina Covid-19 - Covishield,Trabalhadores de Transporte,Coletivo Rodoviário Passageiros Urbano e de Longo Curso ,1
 5,F,52,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
 5,F,51,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2
@@ -848,9 +856,10 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 5,F,41,Vacina Covid-19 - Covishield,Comorbidades,Doenças Cardiovasculares e Cerebrovasculares,1
 5,F,41,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
 5,F,40,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Básico,1
+5,F,39,Vacina Covid-19 - Covishield,Comorbidades,Outros Imunossuprimidos,1
 5,F,39,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1
 5,F,38,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
-5,F,37,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Básico,1
+5,F,36,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Básico,1
 5,F,34,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
 5,F,31,Vacina Covid-19 - Covishield,Comorbidades,Outros Imunossuprimidos,1
 5,F,29,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
@@ -862,13 +871,13 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 4,M,84,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2
 4,M,82,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2
 4,M,82,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,2
+4,M,81,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2
 4,M,80,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 70 a 74 anos,2
 4,M,75,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 75 a 79 anos,1
 4,M,74,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 70 a 74 anos,1
 4,M,70,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 70 a 74 anos,2
 4,M,69,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 65 a 69 anos,2
 4,M,69,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1
-4,M,66,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 65 a 69 anos,2
 4,M,66,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,1
 4,M,65,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
 4,M,64,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,2
@@ -888,18 +897,15 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 4,M,54,Vacina Covid-19 - Covishield,Comorbidades,Doença Renal Crônica,1
 4,M,54,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,2
 4,M,54,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
-4,M,53,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Comorbidades,Diabetes Mellitus,1
 4,M,53,Vacina Covid-19 - Covishield,Comorbidades,Doença Renal Crônica,1
 4,M,51,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Básico,1
 4,M,51,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,2
 4,M,50,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
 4,M,49,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Básico,1
 4,M,49,Vacina Covid-19 - Covishield,Comorbidades,Indivíduos Transplantados de Órgão Sólido,1
-4,M,48,Vacina Covid-19 - Covishield,Trabalhadores de Transporte,Metroviário,1
 4,M,48,Vacina Covid-19 - Covishield,Comorbidades,Indivíduos Transplantados de Órgão Sólido,1
 4,M,48,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
 4,M,47,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
-4,M,47,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
 4,M,46,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Segurança,1
 4,M,46,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
 4,M,45,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
@@ -911,12 +917,14 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 4,M,42,Vacina Covid-19 - Covishield,Comorbidades,Doenças Cardiovasculares e Cerebrovasculares,1
 4,M,41,Vacina Covid-19 - Covishield,Comorbidades,Obesidade Grave (Imc>=40),1
 4,M,40,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Básico,1
+4,M,40,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
 4,M,38,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2
 4,M,38,Vacina Covid-19 - Covishield,Comorbidades,Outros Imunossuprimidos,1
 4,M,38,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
 4,M,38,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
 4,M,37,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
 4,M,36,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2
+4,M,36,Vacina Covid-19 - Covishield,Comorbidades,Outros Imunossuprimidos,1
 4,M,34,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Básico,1
 4,M,34,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
 4,M,32,Vacina Covid-19 - Covishield,Comorbidades,Outros Imunossuprimidos,1
@@ -942,16 +950,17 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 4,F,79,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 75 a 79 anos,1
 4,F,76,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 75 a 79 anos,1
 4,F,68,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2
+4,F,65,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 65 a 69 anos,2
 4,F,65,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1
 4,F,65,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,2
 4,F,62,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,2
 4,F,61,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,2
 4,F,60,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
-4,F,60,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 60 a 64 anos,1
+4,F,59,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,1
 4,F,59,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
 4,F,57,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,2
 4,F,56,Vacina Covid-19 - Covishield,Trabalhadores de Transporte,Coletivo Rodoviário Passageiros Urbano e de Longo Curso ,1
-4,F,54,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Básico,1
+4,F,54,Vacina Covid-19 - Covishield,Trabalhadores de Transporte,Coletivo Rodoviário Passageiros Urbano e de Longo Curso ,1
 4,F,54,Vacina Covid-19 - Covishield,Comorbidades,Indivíduos Transplantados de Órgão Sólido,1
 4,F,54,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
 4,F,51,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
@@ -966,14 +975,14 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 4,F,41,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
 4,F,41,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Diabetes Mellitus,1
 4,F,40,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
-4,F,39,Vacina Covid-19 - Covishield,Comorbidades,Outros Imunossuprimidos,1
 4,F,38,Vacina Covid-19 - Covishield,Comorbidades,Outros Imunossuprimidos,1
 4,F,38,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Outros Imunossuprimidos,1
 4,F,37,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1
 4,F,36,Vacina Covid-19 - Covishield,Comorbidades,Obesidade Grave (Imc>=40),1
+4,F,33,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Básico,1
 4,F,33,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
 4,F,32,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Básico,1
-4,F,31,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Básico,1
+4,F,32,Vacina Covid-19 - Covishield,Comorbidades,Outros Imunossuprimidos,1
 4,F,30,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Outros,1
 4,F,30,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
 4,F,30,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Pneumopatias Crônicas Graves,1
@@ -981,12 +990,12 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 4,F,27,Vacina Covid-19 - Covishield,Trabalhadores de Transporte,Coletivo Rodoviário Passageiros Urbano e de Longo Curso ,1
 4,F,27,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
 4,F,24,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
+3,M,94,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,2
 3,M,88,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,2
 3,M,83,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2
 3,M,83,Vacina Covid-19 - Covishield,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,2
 3,M,83,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 70 a 74 anos,2
 3,M,83,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,2
-3,M,81,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2
 3,M,80,Covid-19-AstraZeneca,Faixa Etária,Pessoas de 80 anos ou mais,2
 3,M,78,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 75 a 79 anos,1
 3,M,70,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,2
@@ -1001,6 +1010,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 3,M,59,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Comorbidades,Diabetes Mellitus,1
 3,M,59,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
 3,M,57,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+3,M,57,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,2
 3,M,55,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Básico,1
 3,M,55,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,2
 3,M,54,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,2
@@ -1016,6 +1026,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 3,M,48,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
 3,M,48,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,2
 3,M,47,Vacina Covid-19 - Covishield,Trabalhadores de Transporte,Metroviário,1
+3,M,46,Vacina Covid-19 - Covishield,Comorbidades,Indivíduos Transplantados de Órgão Sólido,1
 3,M,46,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,2
 3,M,46,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
 3,M,45,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Comorbidades,Diabetes Mellitus,1
@@ -1035,14 +1046,14 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 3,M,40,Vacina Covid-19 - Covishield,Comorbidades,Obesidade Grave (Imc>=40),1
 3,M,40,Vacina Covid-19 - Covishield,Comorbidades,Indivíduos Transplantados de Órgão Sólido,1
 3,M,40,Vacina Covid-19 - Covishield,Comorbidades,Doença Renal Crônica,1
-3,M,40,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+3,M,40,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Pneumopatias Crônicas Graves,1
 3,M,39,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1
 3,M,39,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
 3,M,39,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
 3,M,37,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Básico,1
 3,M,37,Vacina Covid-19 - Covishield,Comorbidades,Obesidade Grave (Imc>=40),1
+3,M,37,Vacina Covid-19 - Covishield,Comorbidades,Doença Renal Crônica,1
 3,M,37,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1
-3,M,36,Vacina Covid-19 - Covishield,Comorbidades,Outros Imunossuprimidos,1
 3,M,36,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1
 3,M,36,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
 3,M,36,Covid-19-AstraZeneca,Comorbidades,Outros Imunossuprimidos,1
@@ -1060,6 +1071,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 3,M,31,Vacina Covid-19 - Covishield,Comorbidades,Pneumopatias Crônicas Graves,1
 3,M,31,Vacina Covid-19 - Covishield,Comorbidades,Outros Imunossuprimidos,1
 3,M,30,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+3,M,28,Vacina Covid-19 - Covishield,Trabalhadores de Transporte,Metroviário,1
 3,M,26,Vacina Covid-19 - Covishield,Comorbidades,Outros Imunossuprimidos,1
 3,M,23,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
 3,M,20,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
@@ -1082,7 +1094,6 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 3,F,66,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
 3,F,66,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
 3,F,66,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 60 a 64 anos,2
-3,F,65,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 65 a 69 anos,2
 3,F,65,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,2
 3,F,63,Vacina Covid-19 - Covishield,Comorbidades,Outros Imunossuprimidos,1
 3,F,63,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
@@ -1094,7 +1105,6 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 3,F,60,Vacina Covid-19 - Covishield,Comorbidades,Neoplasias,1
 3,F,59,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
 3,F,59,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,2
-3,F,59,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,1
 3,F,58,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
 3,F,58,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
 3,F,58,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,1
@@ -1105,7 +1115,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 3,F,55,Vacina Covid-19 - Covishield,Comorbidades,Síndrome de Down,1
 3,F,55,Vacina Covid-19 - Covishield,Comorbidades,Doença Renal Crônica,1
 3,F,55,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,2
-3,F,54,Vacina Covid-19 - Covishield,Trabalhadores de Transporte,Coletivo Rodoviário Passageiros Urbano e de Longo Curso ,1
+3,F,54,Covid-19-AstraZeneca,Comorbidades,Diabetes Mellitus,1
 3,F,53,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Comorbidades,Diabetes Mellitus,1
 3,F,51,Vacina Covid-19 - Covishield,Trabalhadores de Transporte,Coletivo Rodoviário Passageiros Urbano e de Longo Curso ,1
 3,F,51,Vacina Covid-19 - Covishield,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,2
@@ -1115,7 +1125,9 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 3,F,49,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
 3,F,49,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Outros Imunossuprimidos,1
 3,F,49,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
+3,F,48,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
 3,F,48,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Outros Imunossuprimidos,1
+3,F,45,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Básico,1
 3,F,45,Vacina Covid-19 - Covishield,Comorbidades,Indivíduos Transplantados de Órgão Sólido,1
 3,F,44,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Diabetes Mellitus,1
 3,F,43,Vacina Covid-19 - Covishield,Comorbidades,Neoplasias,1
@@ -1137,15 +1149,13 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 3,F,37,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Pneumopatias Crônicas Graves,1
 3,F,37,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
 3,F,36,Vacina Covid-19 - Covishield,Trabalhadores de Transporte,Coletivo Rodoviário Passageiros Urbano e de Longo Curso ,1
-3,F,36,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Básico,1
+3,F,36,Vacina Covid-19 - Covishield,Comorbidades,Outros Imunossuprimidos,1
 3,F,36,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
 3,F,35,Vacina Covid-19 - Covishield,Comorbidades,Obesidade Grave (Imc>=40),1
 3,F,34,Vacina Covid-19 - Covishield,Comorbidades,Outros Imunossuprimidos,1
 3,F,34,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
 3,F,33,Vacina Covid-19 - Covishield,Trabalhadores de Transporte,Coletivo Rodoviário Passageiros Urbano e de Longo Curso ,1
-3,F,33,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Básico,1
 3,F,33,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1
-3,F,32,Vacina Covid-19 - Covishield,Comorbidades,Outros Imunossuprimidos,1
 3,F,29,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
 3,F,29,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Pneumopatias Crônicas Graves,1
 3,F,29,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Obesidade Grave (Imc>=40),1
@@ -1160,10 +1170,10 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 3,F,23,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Básico,1
 3,F,23,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
 3,F,18,Vacina Covid-19 - Covishield,Comorbidades,Síndrome de Down,1
-2,M,94,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,2
 2,M,93,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,2
 2,M,93,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,2
 2,M,92,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,2
+2,M,87,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,2
 2,M,86,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,1
 2,M,86,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,2
 2,M,84,Vacina Covid-19 - Covishield,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,2
@@ -1203,14 +1213,15 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 2,M,58,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
 2,M,58,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,2
 2,M,58,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Outros Imunossuprimidos,1
+2,M,58,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Neoplasias,1
 2,M,57,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Básico,1
-2,M,57,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,2
 2,M,57,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
 2,M,56,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Básico,1
 2,M,56,Vacina Covid-19 - Covishield,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,1
 2,M,56,Vacina Covid-19 - Covishield,Comorbidades,Indivíduos Transplantados de Órgão Sólido,1
 2,M,55,Vacina Covid-19 - Covishield,Comorbidades,Indivíduos Transplantados de Órgão Sólido,1
 2,M,55,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,2
+2,M,54,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Básico,1
 2,M,54,Vacina Covid-19 - Covishield,Comorbidades,Indivíduos Transplantados de Órgão Sólido,1
 2,M,54,Covid-19-AstraZeneca,Comorbidades,Outros Imunossuprimidos,1
 2,M,52,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Outros,1
@@ -1227,6 +1238,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 2,M,48,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Comorbidades,Doenças Cardiovasculares e Cerebrovasculares,1
 2,M,48,Vacina Covid-19 - Covishield,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,1
 2,M,48,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
+2,M,48,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,1
 2,M,47,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
 2,M,47,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Segurança,1
 2,M,47,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2
@@ -1238,7 +1250,6 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 2,M,46,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Outros,1
 2,M,46,Vacina Covid-19 - Covishield,Trabalhadores de Transporte,Coletivo Rodoviário Passageiros Urbano e de Longo Curso ,2
 2,M,46,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Básico,1
-2,M,46,Vacina Covid-19 - Covishield,Comorbidades,Indivíduos Transplantados de Órgão Sólido,1
 2,M,46,Vacina Covid-19 - Covishield,Comorbidades,Doenças Cardiovasculares e Cerebrovasculares,2
 2,M,46,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Diabetes Mellitus,1
 2,M,45,Vacina Covid-19 - Covishield,Trabalhadores de Transporte,Metroviário,1
@@ -1257,6 +1268,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 2,M,40,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores Portuários,Trabalhadores Portuários,1
 2,M,40,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Comorbidades,Pneumopatias Crônicas Graves,1
 2,M,40,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
+2,M,40,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
 2,M,39,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Comorbidades,Obesidade Grave (Imc>=40),1
 2,M,39,Vacina Covid-19 - Covishield,Trabalhadores de Transporte,Metroviário,1
 2,M,39,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Básico,1
@@ -1264,13 +1276,11 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 2,M,39,Vacina Covid-19 - Covishield,Comorbidades,Indivíduos Transplantados de Órgão Sólido,1
 2,M,39,Covid-19-AstraZeneca,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
 2,M,38,Vacina Covid-19 - Covishield,Trabalhadores de Transporte,Metroviário,1
-2,M,38,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Segurança,1
 2,M,38,Vacina Covid-19 - Covishield,Comorbidades,Doenças Cardiovasculares e Cerebrovasculares,1
 2,M,38,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
 2,M,37,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
 2,M,37,Vacina Covid-19 - Covishield,Trabalhadores de Transporte,Metroviário,1
 2,M,37,Vacina Covid-19 - Covishield,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,1
-2,M,37,Vacina Covid-19 - Covishield,Comorbidades,Doença Renal Crônica,1
 2,M,37,Covid-19-AstraZeneca,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
 2,M,37,Covid-19-AstraZeneca,Comorbidades,Diabetes Mellitus,1
 2,M,36,Vacina Covid-19 - Covishield,Trabalhadores de Transporte,Metroviário,1
@@ -1303,7 +1313,6 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 2,M,31,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1
 2,M,29,Vacina Covid-19 - Covishield,Trabalhadores Industriais,Trabalhadores Industriais,1
 2,M,29,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
-2,M,28,Vacina Covid-19 - Covishield,Trabalhadores de Transporte,Metroviário,1
 2,M,28,Vacina Covid-19 - Covishield,Comorbidades,Pneumopatias Crônicas Graves,1
 2,M,28,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
 2,M,27,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2
@@ -1329,9 +1338,12 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 2,F,83,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,1
 2,F,82,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,1
 2,F,81,Vacina Covid-19 - Covishield,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,2
+2,F,81,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 75 a 79 anos,2
 2,F,81,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 65 a 69 anos,2
 2,F,80,Vacina Covid-19 - Covishield,Comorbidades,Doenças Cardiovasculares e Cerebrovasculares,1
+2,F,79,Vacina Covid-19 - Covishield,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,2
 2,F,77,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,2
+2,F,77,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 75 a 79 anos,1
 2,F,76,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2
 2,F,74,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 75 a 79 anos,2
 2,F,71,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
@@ -1378,7 +1390,6 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 2,F,55,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
 2,F,55,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,1
 2,F,54,Vacina Covid-19 - Covishield,Comorbidades,Síndrome de Down,1
-2,F,54,Covid-19-AstraZeneca,Comorbidades,Diabetes Mellitus,1
 2,F,53,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,2
 2,F,53,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,2
 2,F,52,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,2
@@ -1394,7 +1405,6 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 2,F,49,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
 2,F,49,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,2
 2,F,49,Vacina Covid-19 - Covishield,Comorbidades,Doenças Cardiovasculares e Cerebrovasculares,2
-2,F,48,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
 2,F,48,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Doenças Cardiovasculares e Cerebrovasculares,1
 2,F,47,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
 2,F,47,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Outros Imunossuprimidos,1
@@ -1407,7 +1417,6 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 2,F,46,Covid-19-AstraZeneca,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
 2,F,45,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Comorbidades,Outros Imunossuprimidos,1
 2,F,45,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
-2,F,45,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Básico,1
 2,F,45,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,2
 2,F,45,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
 2,F,44,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
@@ -1416,6 +1425,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 2,F,44,Vacina Covid-19 - Covishield,Comorbidades,Neoplasias,1
 2,F,44,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
 2,F,43,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Básico,1
+2,F,43,Vacina Covid-19 - Covishield,Comorbidades,Síndrome de Down,1
 2,F,43,Vacina Covid-19 - Covishield,Comorbidades,Doenças Cardiovasculares e Cerebrovasculares,1
 2,F,43,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
 2,F,42,Vacina Covid-19 - Covishield,Comorbidades,Síndrome de Down,1
@@ -1430,6 +1440,8 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 2,F,38,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
 2,F,38,Vacina Covid-19 - Covishield,Pessoas com Deficiência,Pessoas com Deficiências Permanente Grave,1
 2,F,38,Vacina Covid-19 - Covishield,Comorbidades,Pneumopatias Crônicas Graves,1
+2,F,38,Vacina Covid-19 - Covishield,Comorbidades,Obesidade Grave (Imc>=40),1
+2,F,38,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
 2,F,38,Vacina Covid-19 - Covishield,Comorbidades,Doença Renal Crônica,1
 2,F,37,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Outros,1
 2,F,37,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores da Educação,Ensino Básico,1
@@ -1437,7 +1449,6 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 2,F,37,Vacina Covid-19 - Covishield,Comorbidades,Doenças Cardiovasculares e Cerebrovasculares,1
 2,F,37,Vacina Covid-19 - Covishield,Comorbidades,Doença Renal Crônica,1
 2,F,37,Covid-19-AstraZeneca,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
-2,F,36,Vacina Covid-19 - Covishield,Comorbidades,Outros Imunossuprimidos,1
 2,F,36,Vacina Covid-19 - Covishield,Comorbidades,Indivíduos Transplantados de Órgão Sólido,1
 2,F,36,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1
 2,F,36,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
@@ -1502,11 +1513,11 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,M,89,Vacina Covid-19 - Covishield,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,1
 1,M,89,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
 1,M,89,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,2
+1,M,89,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,1
 1,M,88,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,1
 1,M,87,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2
 1,M,87,Vacina Covid-19 - Covishield,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,2
 1,M,87,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,1
-1,M,87,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,2
 1,M,87,Covid-19-AstraZeneca,Faixa Etária,Pessoas de 80 anos ou mais,2
 1,M,86,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2
 1,M,86,Covid-19-AstraZeneca,Faixa Etária,Pessoas de 80 anos ou mais,2
@@ -1515,9 +1526,11 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,M,85,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,1
 1,M,84,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 70 a 74 anos,2
 1,M,84,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
+1,M,84,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,1
 1,M,83,Vacina Covid-19 - Covishield,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,2
 1,M,83,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,2
 1,M,83,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
+1,M,83,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
 1,M,81,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,1
 1,M,80,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2
 1,M,80,Vacina Covid-19 - Covishield,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,2
@@ -1527,6 +1540,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,M,79,Vacina Covid-19 - Covishield,Comorbidades,Doenças Cardiovasculares e Cerebrovasculares,1
 1,M,78,Vacina Covid-19 - Covishield,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,2
 1,M,78,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,2
+1,M,78,Covid-19-AstraZeneca,Faixa Etária,Pessoas de 75 a 79 anos,2
 1,M,77,Covid-19-Coronavac-Sinovac/Butantan,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,2
 1,M,77,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,2
 1,M,76,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2
@@ -1629,7 +1643,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,M,58,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Básico,1
 1,M,58,Vacina Covid-19 - Covishield,Povos e Comunidades Tradicionais,Ribeirinha,1
 1,M,58,Vacina Covid-19 - Covishield,Pessoas com Deficiência,Pessoas com Deficiências Permanente Grave,1
-1,M,58,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Neoplasias,1
+1,M,58,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,1
 1,M,58,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Diabetes Mellitus,1
 1,M,58,Covid-19-AstraZeneca,Comorbidades,Diabetes Mellitus,1
 1,M,57,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Outros,1
@@ -1683,7 +1697,6 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,M,54,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores Portuários,Trabalhadores Portuários,1
 1,M,54,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores Industriais,Trabalhadores Industriais,1
 1,M,54,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Comorbidades,Pneumopatias Crônicas Graves,1
-1,M,54,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Básico,1
 1,M,54,Vacina Covid-19 - Covishield,Povos e Comunidades Tradicionais,Quilombola,1
 1,M,54,Vacina Covid-19 - Covishield,Pessoas em Situação de Rua,Pessoas em Situação de Rua,1
 1,M,54,Vacina Covid-19 - Covishield,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,1
@@ -1699,6 +1712,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,M,53,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,1
 1,M,53,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,2
 1,M,53,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,2
+1,M,53,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Outros Imunossuprimidos,1
 1,M,53,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,2
 1,M,53,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Diabetes Mellitus,1
 1,M,53,Covid-19-AstraZeneca,Comorbidades,Outros Imunossuprimidos,1
@@ -1774,7 +1788,6 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,M,48,Vacina Covid-19 - Covishield,Comorbidades,Doenças Cardiovasculares e Cerebrovasculares,2
 1,M,48,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,2
 1,M,48,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Transporte,Coletivo Rodoviário Passageiros Urbano e de Longo Curso ,1
-1,M,48,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,1
 1,M,48,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Diabetes Mellitus,1
 1,M,48,Covid-19-AstraZeneca,Trabalhadores de Saúde,Funcionário do Sistema Funerário c/ cadáveres potencialmente contaminados,1
 1,M,48,Covid-19-AstraZeneca,Comorbidades,Doenças Cardiovasculares e Cerebrovasculares,1
@@ -1803,6 +1816,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,M,46,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores Portuários,Trabalhadores Portuários,1
 1,M,46,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores Industriais,Trabalhadores Industriais,1
 1,M,46,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Comorbidades,Pneumopatias Crônicas Graves,1
+1,M,46,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Comorbidades,Diabetes Mellitus,1
 1,M,46,Vacina Covid-19 - Covishield,Trabalhadores de Transporte,Metroviário,1
 1,M,46,Vacina Covid-19 - Covishield,Povos e Comunidades Tradicionais,Ribeirinha,1
 1,M,46,Vacina Covid-19 - Covishield,Pessoas com Deficiência,Pessoas com Deficiências Permanente Grave,1
@@ -1818,6 +1832,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,M,45,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Comorbidades,Obesidade Grave (Imc>=40),1
 1,M,45,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Superior,1
 1,M,45,Vacina Covid-19 - Covishield,Pessoas em Situação de Rua,Pessoas em Situação de Rua,1
+1,M,45,Vacina Covid-19 - Covishield,Pessoas com Deficiência,Pessoas com Deficiências Permanente Grave,1
 1,M,45,Vacina Covid-19 - Covishield,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,1
 1,M,45,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 75 a 79 anos,1
 1,M,45,Vacina Covid-19 - Covishield,Comorbidades,Síndrome de Down,1
@@ -1868,6 +1883,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,M,41,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores Industriais,Trabalhadores Industriais,1
 1,M,41,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Pessoas com Deficiência,Pessoas com Deficiências Permanente Grave,1
 1,M,41,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Comorbidades,Pneumopatias Crônicas Graves,1
+1,M,41,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Comorbidades,Outros Imunossuprimidos,1
 1,M,41,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Comorbidades,Obesidade Grave (Imc>=40),1
 1,M,41,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Comorbidades,Diabetes Mellitus,1
 1,M,41,Vacina Covid-19 - Covishield,Trabalhadores de Transporte,Caminhoneiro,1
@@ -1885,8 +1901,8 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,M,40,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1
 1,M,40,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Médico,2
 1,M,40,Covid-19-Coronavac-Sinovac/Butantan,Povos e Comunidades Tradicionais,Quilombola,2
-1,M,40,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Pneumopatias Crônicas Graves,1
 1,M,40,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Doenças Cardiovasculares e Cerebrovasculares,2
+1,M,40,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Diabetes Mellitus,1
 1,M,40,Covid-19-AstraZeneca,Comorbidades,Outros Imunossuprimidos,1
 1,M,40,Covid-19-AstraZeneca,Comorbidades,Doenças Cardiovasculares e Cerebrovasculares,1
 1,M,39,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Outros,1
@@ -1912,6 +1928,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,M,38,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Saúde,Outros,1
 1,M,38,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Comorbidades,Obesidade Grave (Imc>=40),1
 1,M,38,Vacina Covid-19 - Covishield,Trabalhadores de Transporte,Coletivo Rodoviário Passageiros Urbano e de Longo Curso ,2
+1,M,38,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Segurança,1
 1,M,38,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Profissionais de Educação Física,1
 1,M,38,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Superior,1
 1,M,38,Vacina Covid-19 - Covishield,Povos e Comunidades Tradicionais,Ribeirinha,1
@@ -2076,6 +2093,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,M,24,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Pneumopatias Crônicas Graves,1
 1,M,24,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
 1,M,24,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Diabetes Mellitus,1
+1,M,24,Covid-19-AstraZeneca,Comorbidades,Outros Imunossuprimidos,1
 1,M,23,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores Industriais,Trabalhadores Industriais,1
 1,M,23,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Básico,1
 1,M,23,Vacina Covid-19 - Covishield,Povos e Comunidades Tradicionais,Ribeirinha,1
@@ -2133,9 +2151,11 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,F,94,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,2
 1,F,93,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,2
 1,F,92,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,1
+1,F,91,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2
 1,F,91,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,1
 1,F,90,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,1
 1,F,90,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
+1,F,89,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,1
 1,F,88,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,1
 1,F,88,Vacina Covid-19 - Covishield,Comorbidades,Outros Imunossuprimidos,1
 1,F,88,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,1
@@ -2150,12 +2170,10 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,F,84,Covid-19-AstraZeneca,Faixa Etária,Pessoas de 80 anos ou mais,2
 1,F,83,Vacina Covid-19 - Covishield,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,1
 1,F,83,Covid-19-AstraZeneca,Faixa Etária,Pessoas de 80 anos ou mais,2
-1,F,81,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 75 a 79 anos,2
 1,F,81,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,2
 1,F,81,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1
 1,F,80,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,2
 1,F,80,Covid-19-AstraZeneca,Faixa Etária,Pessoas de 80 anos ou mais,2
-1,F,79,Vacina Covid-19 - Covishield,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,2
 1,F,79,Covid-19-AstraZeneca,Faixa Etária,Pessoas de 75 a 79 anos,2
 1,F,78,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2
 1,F,78,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,2
@@ -2163,7 +2181,6 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,F,77,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2
 1,F,77,Vacina Covid-19 - Covishield,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,2
 1,F,77,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
-1,F,77,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 75 a 79 anos,1
 1,F,77,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 70 a 74 anos,2
 1,F,76,Vacina Covid-19 - Covishield,Pessoas de 60 anos ou mais institucionalizadas,Pessoas de 60 nos ou mais Institucionalizadas,2
 1,F,76,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,2
@@ -2171,9 +2188,11 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,F,75,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,2
 1,F,75,Vacina Covid-19 - Covishield,Comorbidades,Outros Imunossuprimidos,1
 1,F,75,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
+1,F,75,Covid-19-AstraZeneca,Faixa Etária,Pessoas de 75 a 79 anos,2
 1,F,73,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2
 1,F,73,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 80 anos ou mais,2
 1,F,73,Covid-19-AstraZeneca,Comorbidades,Neoplasias,1
+1,F,72,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,2
 1,F,72,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 65 a 69 anos,2
 1,F,72,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
 1,F,71,Vacina Covid-19 - Covishield,Comorbidades,Pneumopatias Crônicas Graves,1
@@ -2184,6 +2203,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,F,70,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 60 a 64 anos,2
 1,F,69,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1
 1,F,69,Vacina Covid-19 - Covishield,Comorbidades,Obesidade Grave (Imc>=40),1
+1,F,69,Vacina Covid-19 - Covishield,Comorbidades,Doenças Cardiovasculares e Cerebrovasculares,1
 1,F,68,Vacina Covid-19 - Covishield,Comorbidades,Pneumopatias Crônicas Graves,1
 1,F,68,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1
 1,F,68,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2
@@ -2204,6 +2224,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,F,65,Vacina Covid-19 - Covishield,Comorbidades,Doenças Cardiovasculares e Cerebrovasculares,1
 1,F,64,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1
 1,F,64,Vacina Covid-19 - Covishield,Comorbidades,Doenças Cardiovasculares e Cerebrovasculares,1
+1,F,64,Covid-19-AstraZeneca,Faixa Etária,Pessoas de 60 a 64 anos,1
 1,F,63,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Faixa Etária,Pessoas de 60 a 64 anos,1
 1,F,63,Vacina Covid-19 - Covishield,Comorbidades,Doenças Cardiovasculares e Cerebrovasculares,1
 1,F,63,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,2
@@ -2303,6 +2324,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,F,52,Vacina Covid-19 - Covishield,Pessoas com Deficiência,Pessoas com Deficiências Permanente Grave,1
 1,F,52,Vacina Covid-19 - Covishield,Comorbidades,Indivíduos Transplantados de Órgão Sólido,1
 1,F,52,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 60 a 64 anos,2
+1,F,52,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Neoplasias,1
 1,F,52,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
 1,F,52,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Doenças Cardiovasculares e Cerebrovasculares,1
 1,F,52,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Diabetes Mellitus,1
@@ -2374,16 +2396,17 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,F,44,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Comorbidades,Obesidade Grave (Imc>=40),1
 1,F,44,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Técnico de Enfermagem,1
 1,F,44,Vacina Covid-19 - Covishield,Pessoas em Situação de Rua,Pessoas em Situação de Rua,1
+1,F,44,Vacina Covid-19 - Covishield,Pessoas com Deficiência,Pessoas com Deficiências Permanente Grave,1
 1,F,44,Vacina Covid-19 - Covishield,Comorbidades,Indivíduos Transplantados de Órgão Sólido,1
 1,F,44,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Segurança,2
 1,F,44,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Recepcionista,2
 1,F,44,Covid-19-AstraZeneca,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
 1,F,43,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores de Transporte,Metroviário,1
 1,F,43,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Comorbidades,Doenças Cardiovasculares e Cerebrovasculares,1
-1,F,43,Vacina Covid-19 - Covishield,Comorbidades,Síndrome de Down,1
 1,F,43,Vacina Covid-19 - Covishield,Comorbidades,Indivíduos Transplantados de Órgão Sólido,1
 1,F,43,Vacina Covid-19 - Covishield,Comorbidades,Doença Renal Crônica,1
 1,F,43,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,1
+1,F,43,Covid-19-Coronavac-Sinovac/Butantan,Pessoas com Deficiência,Pessoas com Deficiências Permanente Grave,1
 1,F,43,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Obesidade Grave (Imc>=40),1
 1,F,43,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
 1,F,43,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Diabetes Mellitus,2
@@ -2407,6 +2430,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,F,41,Vacina Covid-19 - Covishield,Trabalhadores de Transporte,Metroviário,1
 1,F,41,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Médico,1
 1,F,41,Vacina Covid-19 - Covishield,Comorbidades,Indivíduos Transplantados de Órgão Sólido,1
+1,F,41,Vacina Covid-19 - Covishield,Comorbidades,Doença Renal Crônica,1
 1,F,41,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Segurança,2
 1,F,41,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Médico Veterinário,2
 1,F,41,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Pneumopatias Crônicas Graves,1
@@ -2446,8 +2470,6 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,F,38,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Acadêmicos/estudantes em estágio em estabelecimentos de saúde,1
 1,F,38,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Básico,1
 1,F,38,Vacina Covid-19 - Covishield,Pessoas com Deficiência,Pessoas com Deficiência Institucionalizadas,2
-1,F,38,Vacina Covid-19 - Covishield,Comorbidades,Obesidade Grave (Imc>=40),1
-1,F,38,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1
 1,F,38,Vacina Covid-19 - Covishield,Comorbidades,Doenças Cardiovasculares e Cerebrovasculares,1
 1,F,38,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,2
 1,F,38,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Pneumopatias Crônicas Graves,1
@@ -2573,6 +2595,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,F,28,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Trabalhadores Industriais,Trabalhadores Industriais,1
 1,F,28,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Pessoas com Deficiência,Pessoas com Deficiências Permanente Grave,1
 1,F,28,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Psicólogo,1
+1,F,28,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Básico,1
 1,F,28,Vacina Covid-19 - Covishield,Povos e Comunidades Tradicionais,Quilombola,1
 1,F,28,Vacina Covid-19 - Covishield,Comorbidades,Outros Imunossuprimidos,1
 1,F,28,Vacina Covid-19 - Covishield,Comorbidades,Doenças Cardiovasculares e Cerebrovasculares,1
@@ -2580,6 +2603,7 @@ contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_
 1,F,28,Covid-19-Coronavac-Sinovac/Butantan,Comorbidades,Pneumopatias Crônicas Graves,1
 1,F,28,Covid-19-AstraZeneca,Trabalhadores de Saúde,Odontologista,2
 1,F,27,Vacina covid-19 - BNT162b2 - BioNTech/Fosun Pharma/Pfizer,Pessoas com Deficiência,Pessoas com Deficiências Permanente Grave,1
+1,F,27,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Odontologista,2
 1,F,27,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Superior,1
 1,F,27,Vacina Covid-19 - Covishield,Trabalhadores da Educação,Ensino Básico,1
 1,F,27,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1

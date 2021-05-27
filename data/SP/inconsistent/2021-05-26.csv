@@ -3,17 +3,27 @@ paciente_id,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categor
 05c2c33bda490a19d9b3c8c3b96edad154a7a01d66b5fd5c1a54cf910150eda0,F,58,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1,2
 0956ac069c89b67251b9786ba9255aaaa8238ed002ca3c1837e61b330991fcad,M,68,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,2,2
 09bc3cefc1af0f0ca041c21f29977c94ddbb883c8ba8378c8d5197375b24270c,F,49,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1,2
+0e479e322f3c452276582bf0247c35065267ac6b67e1a7d2dd3d75c5d197d096,F,80,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,2,2
+17491747706f39936cd383f68033956481aeb1f777078d9f4ed4fbe05f98d8f5,M,79,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 75 a 79 anos,2,2
 18a5047d8394eb24b30f894847d10886ebae26a963b53388ff50638c70ea7aa2,M,32,Vacina Covid-19 - Covishield,Trabalhadores de Transporte,Metroviário,1,2
+1e70fa3031054073a13a4b36d3bd41bff535ed6217148686e6484817760b7f5b,M,83,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,2,2
 1e7623bfe3f2d0ee5debb1217d523faf55e95d04f1ea2b27a152f3f942fda202,F,46,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1,2
+3120308baf1a2173828c386a655974f8e68af3ed58b1419b33828c3f955b71e6,M,47,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1,2
 352102a48c442f73c42063658353ee62f46a86a0c88cb763d25ff75d36d9e432,F,45,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1,2
 3825d356362b833e44766deb0926724feb7c0509dfb5ed9b42c61b5918a9f623,M,68,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,2,2
 3fe621dabf7b10ef3c7ca352625b9ed7083ff90526b02d97d0485868ffc55c52,F,79,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 75 a 79 anos,2,2
 41675f7f9f15683ff7665e5ba8a6f13a8beb79b97783854a2dac96627160d611,F,81,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,2,2
 44f7512f6a1344319bd3c26f6b8e49dd71813a2ee2a2a954d5da5b9bac1933ab,F,51,Vacina Covid-19 - Covishield,Comorbidades,Doenças Cardiovasculares e Cerebrovasculares,1,2
+459d6badf965de730dff1dbe6c5bbd6d3c7d9927552e423fd47f96c5cdafcade,M,69,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 65 a 69 anos,1,2
+45b4b9c11a3f428dd9b6753f8327da5e9b55adc28922c36585a60145327ea30b,M,82,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,2,2
 46b5cfb6b77cb2248c0fd2ed52d7b1e3937102c32cf2fcca5721cd2256abb8fd,M,65,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 65 a 69 anos,1,2
+4fb3a9ed1935fc870aa28012185016f047868d9ce5881d6d19ed00bf913a952c,F,50,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1,2
+502cccf0337a546e23af21ea651f9f123607aa327a843c65746d2de157115947,M,62,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1,2
 5240f60b6424cb174964ffe22e702cfde18b20e9a9902873c788f41611500d92,F,54,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1,2
 524e079ee514e16a1409d5745410a3d0f60843d2b4b985773def63f1923bf666,F,54,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1,2
 5398224eb9a189de63911b489e1b68f232265292e0f0c123fedb49aef5b9533b,M,81,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,2,2
+53bca480895cff354c03cfa77939bd500ec822aa9a14727cdcb1df69b1f98256,F,80,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,2,2
+558d292902bf287ae36d88927140f1ea749953ca7e24670692fbadaafc94984c,M,64,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 60 a 64 anos,2,2
 5f04d0b4811102e238ee247b9b38eac21d4e474f70001dea7718355534046168,M,81,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,2,2
 65d98df000d072d84cdfb4c048f2ce5334a4e0b4cd36d136aa0d435eb4f38496,F,54,Vacina Covid-19 - Covishield,Comorbidades,Obesidade Grave (Imc>=40),1,2
 73dd040f47faae2213ed73157e045a68b815e303335c24df1a81a0fe652703d2,F,45,Vacina Covid-19 - Covishield,Comorbidades,Outros Imunossuprimidos,1,2
@@ -21,15 +31,28 @@ paciente_id,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categor
 7b43483a0cab4124804a90b14eca0761583bbacf39ec1de327fd92615be152d1,M,76,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 75 a 79 anos,2,2
 81f2d8503afe943ded64bdc4f969161e2e76a2957d4d14582e8099e6193f4ba4,F,44,Vacina Covid-19 - Covishield,Comorbidades,Doenças Cardiovasculares e Cerebrovasculares,1,2
 81fe3261487adae21a10689bbb28cd620fa4945da72bd1029ead1ed32ab94f57,F,47,Vacina Covid-19 - Covishield,Comorbidades,Obesidade Grave (Imc>=40),1,2
+91bef63f20cd1222810e5df9a2e9614fc24093f2d00eba310e744baad768111a,F,84,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,2,2
 99c30ec6e82a2782a5aaec0e561d7d9dbb8a0a6da2795adfdc4f8494c900a9f1,F,48,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores da Educação,Ensino Básico,2,3
 9d14b1c83e990d7c37b27c99957c2ba7c674a1a8c165cc62a496fd64f7ee9d2e,F,61,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1,2
+a30823886c80f26f3b301a49ef342c14f24f933759f7b922d4361ca66c25a31c,M,53,Vacina Covid-19 - Covishield,Comorbidades,Doenças Cardiovasculares e Cerebrovasculares,1,2
+a50002b6481a78b2e8af0e1fde663626f70cd223753e93f77f027e70485f7cae,F,78,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 75 a 79 anos,2,2
 a5236f84b10cbe0247594a446d296750bbfa4be2c3f5f2a51b4a709ffd853d80,F,25,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,2,2
+aca3e45f141ff64df747322540b4f46e007ebde49be2d7eed62e6ab1f8ec45b6,F,77,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 75 a 79 anos,2,2
+ad96a00b0b985b1204f1ff85b2a17695f83ec26ddeca45d387a8dcb7d0924113,M,55,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1,2
+b1a2bcb482ef57e98220c68ab41dabb67e16a837ae7c8ae22199d516c54b54fd,F,63,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 60 a 64 anos,1,2
+b2a485f90d04a4284a6fae8ceb2bada7420ddbc7365afd1b4371ce600ac342dc,M,57,Vacina Covid-19 - Covishield,Comorbidades,Neoplasias,1,2
 b35ad2d443a54259ebedda8580aa439f70ca89499dc18ed9ee913612e1d7c8eb,M,69,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,2,2
 bfbc0e1fdc5ffea15c07896a23c411d2a6bca0f14aa254d7270271a7ca03ccd4,M,51,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1,2
+bfc7968642a0b12a53ffa9c2f6f9f2d9be29ebd13b9352cbe86cea1e9d0deff8,M,52,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1,2
 cf9be89e49162925c9982f8141d899dc0c465eb987bc129d4690e23a8a8b5898,F,54,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1,2
+d4c8e2407db272ff7709a1e848f12f30fcdd526f9207c48226b7a618e0fa3ec8,M,48,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1,2
+d9019239127cf4fd950a6ca6da023282381df00da08dc0aec7070dbb830b6aba,M,80,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,2,2
 df3318296781f03b63ee01e5fd6ea3df40e973ea93bef8c5b55bde28125191d5,F,73,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 70 a 74 anos,1,2
 e47ea6deeb4cc8a4589b5d173957af8bb1440f8c703fe319bdb88f820a115428,M,61,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1,2
 e6388ae62830652d456471e29278a627bbef1c8c86fa1985e0071f0c6b581ae2,F,47,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1,2
+edf7e6202e97200540d986d3f2578af0fe6ab33b456b99660267f315e3de8483,F,62,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1,2
 ee608ea2468245ae8e2d833c9ef9518a8a14622b8e33b6921c4805cce8d5d99c,F,38,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1,2
 f1333f541f80dc552305352dbc043e46b1ae89922313cd5554b4ba9a57322098,F,58,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1,2
+fac4cab6bf6fe873d642a8ded9be7d1a8f5375035dc669dfa9095dc6969ef486,F,46,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1,2
+fd2136fc41bbc6b87b2387271aba23087b0b2e76fecf9df24ca95b65d2188bff,F,80,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,2,2
 fef5dd4d5c324516064963ec6749a84a72e14348e1e531e0045633f7885d68f3,M,51,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1,2
