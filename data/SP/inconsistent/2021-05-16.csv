@@ -1,0 +1,17 @@
+paciente_id,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_nome,vacina_grupoAtendimento_nome,dose,contagem
+1b384efd2f9f303b69b62a00cb14e1eb2ee28c16132bfabab4c1301705d25ff0,F,59,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1,2
+30a5b55079f9e52edf04635fc9e6a80fb533e81e2ad2717748baf303dbc16a84,M,62,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 60 a 64 anos,1,2
+3ba7d88aca5b56e84ca40db0bc1164489226ceb0f3904095d435cff8fefc65d0,F,59,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1,2
+3e495043c11d19bf0029e47001c24b71053d192e4ed5d9534e8fc794762461d6,M,59,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1,2
+481501285a8e5fa66c84cb6a132428bf785ea64a21d97fe43c1ecc7b200abd18,F,59,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1,2
+4b72ca7c21ab63fd6f7077164b691b7c2d4237022f5cb01e4d762d7b517103c3,F,57,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1,2
+53d4e468f31eef1e70a128d9edc73a7925f5f18598b6f8446c20022fdc240553,F,56,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1,2
+552eb705edf517518b20b8c9cadb2bbe72e332ca1e158428305050717fe23429,F,51,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1,2
+7794add836ec0b2675a0b3b515fb423c676fe4846ac78232fc94fc3893681a76,F,59,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1,2
+8fd41647780c8ff51b86b89d47f4f3d392b8765e9c53e4b3ee9c3ed8a5e7adf8,F,58,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1,2
+afd5111b03a60afa03f3455837fae61cc1b6e624a82435ac65a047a794b81f13,F,59,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1,2
+cafd501af55e7e45d29f41ac7b284e9a7a1ffd7f80db18a962a6ca5509ff2b37,F,59,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1,2
+d716391d0be6d4921d32ae42d8c6765f33ef4772a44437219e79af086718416b,F,51,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1,2
+d7707f092738872dddf50932cc61bc90aaa0df7dec46a321819a437b66ab6a12,M,52,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1,2
+db5fdb505a95490359c4040def3b728f65756ba66c22c34448652b767ac094c5,F,56,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1,2
+f16107c9285ffd1564546ee4ddf2921b7f49afc3dd641a6c17d2d3dc58f0db13,M,55,Vacina Covid-19 - Covishield,Comorbidades,Diabetes Mellitus,1,2
