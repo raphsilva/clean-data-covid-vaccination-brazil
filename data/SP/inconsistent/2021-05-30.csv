@@ -1,0 +1,3 @@
+paciente_id,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_nome,vacina_grupoAtendimento_nome,dose,contagem
+71b7bb3dbd66eca5baff7f3a1000ae9b1cec0cbc2cd9c3edf6d86b87aceaa82a,F,42,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1,2
+9099c8f5256302fbc4e4d7d8787632491c5397d310ecf5f0faf88f5f71688c01,M,36,Vacina Covid-19 - Covishield,Comorbidades,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo,1,2
