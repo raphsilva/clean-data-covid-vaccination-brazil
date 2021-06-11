@@ -1,5 +1,3 @@
-# This script exemplifies how to automatically get data.
-
 from datetime import datetime, timedelta
 
 import pandas as pd
@@ -39,8 +37,11 @@ for directory in directories:
         date_str = datetime_to_str(i)  # Get the date in the same format as the repository files
         uri = get_uri(state, directory, date_str)
         print(date_str)
-        df_n = pd.read_csv(uri)
-        df = df.append(df_n)
+        try:
+            df_n = pd.read_csv(uri)
+            df_n['data'] = i
+            df_n['directory'] = directory
+            df = df.append(df_n)
+        except:
+            print('not found', i)
         i = get_next_day(i)
-
-print(df)
