@@ -10,9 +10,11 @@ from time_format import hours_to_timestamp, timestamp_to_date, date_to_timestamp
 from treat_data import detect_missing, detect_wrong_date, separate_by_date, aggregate_count
 
 DATA_SIZE_DAYS = 4
-OVERLAP_DAYS = 2
+OVERLAP_DAYS = 4
 RECENT_DAYS = 21
-MAX_DAYS = 21
+MAX_DAYS = 14
+
+LOCAL_TEST = True
 
 # update local repository
 print('Cloning repository.')
@@ -100,7 +102,10 @@ def update_data(uf, dates, commit_msg):
         f.get()
         d += 1
         print(f'done {uf} {d}/{len(dates)}')
-    commit_and_push(commit_msg)
+    if LOCAL_TEST:
+        print('Not commiting.')
+    else:
+        commit_and_push(commit_msg)
 
 
 def handle_request(request):

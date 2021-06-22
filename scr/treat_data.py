@@ -58,7 +58,8 @@ def separate_by_date(df):
     r = dict()
     gb = df.groupby('data')
     for g in gb:
-        data = g[1]
+        data = g[1].copy()
+        data['data_aplicaçao'] = data['data']
         del data['data']
         r[g[0]] = data
     return r

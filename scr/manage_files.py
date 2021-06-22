@@ -1,9 +1,11 @@
 import os
+import shutil
 
 import pandas as pd
 
 from SETUP import PATH_REPO, PATH_DATA
 from time_format import get_today_str
+from time_format import get_week
 
 COMPRESSION = None
 
@@ -18,19 +20,20 @@ def get_directory_path(uf, subfolder=None):
 
 
 def _get_path(uf, date, subfolder=None):
+    date_w = get_week(date)
     directory = get_directory_path(uf, subfolder)
-    path = f'{directory}/{date}.csv'
+    path = f'{directory}/{date_w}.csv'
     if COMPRESSION is not None:
         path += f'.{COMPRESSION}'
     return path
 
 
-def _read_file(uf, date):
-    filepath = _get_path(uf, date)
-    if os.path.isfile(filepath):
-        return pd.read_csv(filepath, compression='zip')
-    else:
-        return pd.DataFrame()
+# def _read_file(uf, date):
+#     filepath = _get_path(uf, date)
+#     if os.path.isfile(filepath):
+#         return pd.read_csv(filepath, compression='zip')
+#     else:
+#         return pd.DataFrame()
 
 
 def _update_file(filepath, data, remove_duplicates=[]):
@@ -45,13 +48,17 @@ def _update_file(filepath, data, remove_duplicates=[]):
         data_updated.to_csv(filepath, compression=COMPRESSION, index=False)
 
 
+def _delete_file(filepath):
+    shutil.move(filepath, f'/tmp/{filepath}')
+
+
 def _save_file(filepath, data):
     data.to_csv(filepath, compression=COMPRESSION, index=False)
 
 
 def update_file_uf_date(uf, date: str, data: pd.DataFrame, data_name: str = None):
     filepath = _get_path(uf, date, data_name)
-    _save_file(filepath, data)
+    _update_file(filepath, data, remove_duplicates=['data_aplicaçao'])
 
 
 def update_info_updates(uf, date: str, data: pd.DataFrame, data_name: str, spent_time):

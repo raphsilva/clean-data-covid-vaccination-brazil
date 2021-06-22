@@ -38,6 +38,8 @@ def get_data(uf, dose, date_A, date_B):
         future = pool.apply_async(get_data_age, args)  # tuple of args for foo
         futures.append(future)
         reg.append(args)
+        if QUICK_TEST:
+            break
     for i in range(len(futures)):
         try:
             futures[i].get()
@@ -99,7 +101,8 @@ def get_data_age(uf, dose, date_A, date_B, age_A, age_B):
                          ]
             },
         },
-        "_source": keys_to_keep
+        "_source": keys_to_keep,
+        "size": MAX_SIZE
     }
     pending += 1
     t0 = time()

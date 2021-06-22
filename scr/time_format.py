@@ -1,4 +1,4 @@
-from datetime import datetime
+from datetime import datetime, timedelta
 
 
 def datetime_to_str(datetime):
@@ -25,3 +25,15 @@ def timestamp_to_date(timestamp):
 
 def get_today_str():
     return datetime_to_str(datetime.today())
+
+
+def subtract_days(date, days):
+    return date - timedelta(days=days)
+
+
+def get_week(datestr):
+    date = date_to_datetime(datestr)
+    weekday = date.weekday()
+    date_w = subtract_days(date, weekday)
+    return datetime_to_str(date_w)
+
