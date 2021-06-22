@@ -67,6 +67,7 @@ def update_info_updates(uf, date: str, data: pd.DataFrame, data_name: str, spent
     # SUMMARY:
     filepath = get_directory_path(uf, '_info') + '/totals.csv'
     info = {'data_aplicaçao': date,
+            'data_atualizacao': get_today_str(),
             'tipo': data_name,
             'media_tempo_gasto': spent_time,
             'total': total
