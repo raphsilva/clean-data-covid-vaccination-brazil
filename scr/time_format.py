@@ -31,6 +31,18 @@ def subtract_days(date, days):
     return date - timedelta(days=days)
 
 
+def days_since(date):
+    return (datetime.today() - date).days
+
+
+def dates_range(date_A, date_B):
+    r = list()
+    r.append(date_A + timedelta(days=1))
+    while r[-1] < date_B:
+        r.append(r[-1] + timedelta(days=1))
+    return r
+
+
 def get_week(datestr):
     date = date_to_datetime(datestr)
     weekday = date.weekday()

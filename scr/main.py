@@ -1,25 +1,29 @@
-from datetime import datetime
+from datetime import datetime, timedelta
 from multiprocessing.pool import ThreadPool
 from time import time
+
+import pandas as pd
 
 from control_dates import get_last_time
 from get_data import get_data_uf
 from interfaces.repository import clone_repository, commit_and_push
-from manage_files import update_file_uf_date, update_info_updates
-from time_format import hours_to_timestamp, timestamp_to_date, date_to_timestamp
+from manage_files import update_file_uf_date, update_info_updates, read_info_updates
+from time_format import hours_to_timestamp, timestamp_to_date, date_to_timestamp, days_since, dates_range, datetime_to_str
 from treat_data import detect_missing, detect_wrong_date, separate_by_date, aggregate_count
 
 DATA_SIZE_DAYS = 4
 OVERLAP_DAYS = 4
 RECENT_DAYS = 21
-MAX_DAYS = 14
+MIN_DAYS = 7
+MAX_DAYS = 28
 
 LOCAL_TEST = True
 
 # update local repository
-print('Cloning repository.')
-clone_repository()
-print('Done: cloned repository.')
+if not LOCAL_TEST:
+    print('Cloning repository.')
+    clone_repository()
+    print('Done: cloned repository.')
 
 date_now = int(datetime.utcnow().timestamp() * 1000)
 
@@ -85,9 +89,18 @@ def select_dates(uf, update_from, update_until):
     else:
         update_until = date_to_timestamp(update_until)
     while a < update_until:
-        b = a + hours_to_timestamp(DATA_SIZE_DAYS * 24)
+        b = a + hours_to_timestamp(DATA_SIZE_DAYS * 24) # TODO format keeps changing
         yield a, b
         a = b
+
+
+def dates_range_s(dates, size):
+    r = list()
+    for d in dates:
+        a = date_to_timestamp(datetime_to_str(d))  # TODO format keeps changing
+        b = date_to_timestamp(datetime_to_str(d+timedelta(days=size)))
+        r.append((a, b))
+    return r
 
 
 def update_data(uf, dates, commit_msg):
@@ -108,6 +121,30 @@ def update_data(uf, dates, commit_msg):
         commit_and_push(commit_msg)
 
 
+def select_dates_smart(uf):
+    max_score = 10000
+    data = read_info_updates(uf)
+    data = data.drop_duplicates(['data_aplicaçao'])
+    data = data[['data_aplicaçao', 'data_atualizacao']]
+    data['data_aplicaçao'] = pd.to_datetime(data['data_aplicaçao'], format='%Y-%m-%d')
+    data['data_atualizacao'] = pd.to_datetime(data['data_atualizacao'], format='%Y-%m-%d')
+    fill_dates = dates_range(max(data['data_aplicaçao']), datetime.today())
+    data = pd.merge(data, pd.Series(fill_dates, name='data_aplicaçao'), on='data_aplicaçao', how='outer')
+    data['since_aplicaçao'] = data['data_aplicaçao'].apply(lambda a: days_since(a))
+    data['since_atualizacao'] = data['data_atualizacao'].apply(lambda a: days_since(a))
+    data['score'] = data['since_atualizacao'] - data['since_aplicaçao']/5
+    data['score'] = data['score'].fillna(max_score)
+    data = data[data['score']>0]
+    data = data.sort_values(by=['score', 'data_aplicaçao'], ascending=[False, True])
+    never_updated_count = data['score'].value_counts()[max_score]
+    cut = MIN_DAYS
+    if never_updated_count > MIN_DAYS:
+        cut = MAX_DAYS
+    data = data[:cut]
+    dates = list(data['data_aplicaçao'])
+    return dates_range_s(dates, 1)
+
+
 def handle_request(request):
     uf_list = request['uf_list']
     if 'update_from' not in request:
@@ -121,7 +158,10 @@ def handle_request(request):
         if update_from == 'auto':
             update_from = decide_update_mode(uf)
             print('Update mode:', update_from)
-        dates = list(select_dates(uf, update_from, update_until))
+        elif update_from == 'smart':
+            dates = select_dates_smart(uf)
+        else:
+            dates = list(select_dates(uf, update_from, update_until))
         if len(dates) == 0:
             print('Nothing to update.')
             break
@@ -137,5 +177,6 @@ if __name__ == '__main__':
     request['uf_list'] = ['SP']
     # request['update_from'] = ['beginning', 'last', 'few_last', '2021-05-12'][2]
     # request['update_until'] = '2021-04-01'
+    request['update_from'] = 'smart'
     request['commit_msg'] = '[data] Update.'
     handle_request(request)

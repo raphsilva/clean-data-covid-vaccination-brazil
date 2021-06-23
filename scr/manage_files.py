@@ -1,5 +1,6 @@
 import os
 import shutil
+from time import sleep
 
 import pandas as pd
 
@@ -60,16 +61,24 @@ def update_file_uf_date(uf, date: str, data: pd.DataFrame, data_name: str = None
     filepath = _get_path(uf, date, data_name)
     _update_file(filepath, data, remove_duplicates=['data_aplicaçao'])
 
-
+LOCK_FILES = list()
 def update_info_updates(uf, date: str, data: pd.DataFrame, data_name: str, spent_time):
-    filepath = _get_path(uf, date, '_info/updates_totals')
+    global LOCK_FILES
+    date_w = get_week(date)
+    while date_w in LOCK_FILES:
+        print('Locked:', date_w)
+        sleep(1)
+    LOCK_FILES.append(date_w)
+    filepath = _get_path(uf, date_w, '_info/updates_totals')
     total = data['contagem'].sum()
     info = {'data_atualizacao': get_today_str(),
+            'data_aplicaçao': date,
             'tipo': data_name,
             'media_tempo_gasto': spent_time,
             'total': total
             }
-    _update_file(filepath, pd.DataFrame([info]), ['data_atualizacao', 'tipo'])
+    print('Updating file:', filepath)
+    _update_file(filepath, pd.DataFrame([info]), ['data_atualizacao', 'data_aplicaçao', 'tipo'])
 
     # SUMMARY:
     filepath = get_directory_path(uf, '_info') + '/totals.csv'
@@ -80,3 +89,9 @@ def update_info_updates(uf, date: str, data: pd.DataFrame, data_name: str, spent
             'total': total
             }
     _update_file(filepath, pd.DataFrame([info]), ['data_aplicaçao', 'tipo'])
+    LOCK_FILES.remove(date_w)
+
+def read_info_updates(uf):
+    filepath = get_directory_path(uf, '_info') + '/totals.csv'
+    data = pd.read_csv(filepath, compression=COMPRESSION)
+    return data
