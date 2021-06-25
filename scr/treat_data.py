@@ -39,7 +39,7 @@ def detect_wrong_date(df):
 
 def aggregate_count(df):
     if len(df) == 0:
-        return pd.DataFrame(), pd.DataFrame()
+        return pd.DataFrame()
     del df['paciente_id']
     del df['contagem']
     gb = df.groupby(list(df.columns)).size()
