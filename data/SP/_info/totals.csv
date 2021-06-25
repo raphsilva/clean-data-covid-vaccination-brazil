@@ -1,4 +1,8 @@
 data_aplicaçao,data_atualizacao,tipo,media_tempo_gasto,total
+2021-04-27,2021-06-25,inconsistent,2,11429
+2021-04-27,2021-06-25,consistent,19,123209
+2021-04-26,2021-06-25,inconsistent,2,11955
+2021-04-26,2021-06-25,consistent,22,163013
 2021-04-25,2021-06-25,inconsistent,0,281
 2021-04-25,2021-06-25,consistent,5,9436
 2021-04-24,2021-06-25,inconsistent,2,5527
