@@ -11,6 +11,7 @@ from integrations.git.git_x import username, useremail
 def clone_repository():
     if os.path.isdir(PATH_REPO):
         shutil.rmtree(PATH_REPO)
+    os.makedirs(PATH_REPO)
     git.Repo.clone_from(REMOTE, PATH_REPO, depth=1)
 
 
