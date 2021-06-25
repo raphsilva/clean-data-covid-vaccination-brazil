@@ -35,11 +35,6 @@ def update_for_dates(date_A, date_B, uf):
     data = get_data_uf(uf, date_A, date_B)
     spent = time() - t0
 
-    print(date_A, date_B, uf)
-    print(data)
-    print(len(data))
-    exit()
-
     if len(data) == 0:
         print('No data')
         return
