@@ -1,0 +1,12 @@
+paciente_id,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_nome,vacina_grupoAtendimento_nome,dose,contagem,data_aplicaçao
+ace29aad91440ce6da110142eb3dac55ce35dec6294fb86bd38c0f31406a5862,M,61,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1,2,2021-01-21
+b0dd2ddda8b4b841956ecfca4784799fcfb57c382b3617a56d4813b8f6490e5a,M,41,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Médico,1,2,2021-01-21
+1a5c4155fad2049b38ad71090e476813661da27c1f64abebd0dd2a3869b73ef3,M,39,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1,2,2021-01-20
+dd4aaaf81aeed4f46956b9a9fc6b0b05585dc271b6b8210305f15888011caa76,M,35,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1,2,2021-01-21
+3497afd90a9aaa097a3a967cac1c8b10e06be515f6383acbc1bd7ff188676e39,F,64,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Médico,1,2,2021-01-21
+ab00a68b7a48884b9f94530793e6d688bbf8064adc91db629cff8ae839661d49,F,44,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Técnico de Enfermagem,1,2,2021-01-19
+0aceb65020c9e734d8fbf1112dbaedfcd3f6f2b2e6a2015efba50a625cda8b3d,F,38,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Fisioterapeutas,1,2,2021-01-21
+c4170e0ac2daaae1163706f34cfb6ca74247607da7103faaa43a4c4baba517b4,F,37,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1,2,2021-01-21
+78d2122fa6dc9e0375851c2460e1fe5d4903d1d3ed62e82ddcb948f02e8c2d62,F,31,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Médico,1,2,2021-01-20
+4ae49f3309cdeca26e4c3c82c2f22f8b5503d7e635fdef0ea0cff2e106b6d651,F,30,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1,2,2021-01-21
+0bbb6113020e6ce65a308ee112148511d61faf32d1850f927c8aaa9c1b46e97a,F,29,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Médico,1,2,2021-01-20
