@@ -1,0 +1,4 @@
+paciente_id,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_nome,vacina_grupoAtendimento_nome,dose,contagem,data_aplicaçao
+4f3353b1964e811e4e475e34683ca24743c54ee026df9ce0e55cbf87e7daf638,M,70,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 70 a 74 anos,1,2,2021-05-04
+05d77baced2a6b222ef30756d46d9553a842d215baddd4f9de514cd189cec5f3,M,57,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2,2,2021-05-03
+450c3a98c17b08e5ac59035351d53e1ba540df3f5faa187778ed18515fda915d,F,69,Covid-19-Coronavac-Sinovac/Butantan,Faixa Etária,Pessoas de 65 a 69 anos,1,2,2021-05-04
