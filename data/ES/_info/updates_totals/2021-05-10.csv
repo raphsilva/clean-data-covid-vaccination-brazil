@@ -1,0 +1,12 @@
+data_atualizacao,data_aplicaçao,tipo,media_tempo_gasto,total
+2021-06-29,2021-05-16,consistent,1,280
+2021-06-29,2021-05-15,inconsistent,0,2
+2021-06-29,2021-05-15,consistent,7,19505
+2021-06-29,2021-05-14,inconsistent,0,2
+2021-06-29,2021-05-14,consistent,8,21877
+2021-06-29,2021-05-13,inconsistent,0,18
+2021-06-29,2021-05-13,consistent,9,21965
+2021-06-29,2021-05-12,inconsistent,0,2
+2021-06-29,2021-05-12,consistent,8,22803
+2021-06-29,2021-05-10,inconsistent,0,8
+2021-06-29,2021-05-10,consistent,23,13685
