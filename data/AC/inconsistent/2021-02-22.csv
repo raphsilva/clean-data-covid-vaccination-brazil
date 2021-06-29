@@ -1,0 +1,5 @@
+paciente_id,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_nome,vacina_grupoAtendimento_nome,dose,contagem,data_aplicaçao
+93106a34d625bbc16c9b12abd05c323692be68d5f3c395b6222fe427d212870b,M,42,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2,2,2021-02-24
+e519e43cf5c11d9fe162e9a9deadb122b4f3e411c0fe1de33807471695a2571e,M,39,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Médico,2,2,2021-02-23
+89702dfd9116607c50d0bcb0c8fca10f496bb0ccc0816e4fe5dec636cad5199d,F,48,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Técnico de Odontologia,2,2,2021-02-23
+45e81976c17ee94f73792e81182b01b9e1f9883c411faf23f8a3c09f896bd2bd,F,27,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,2,2,2021-02-22
