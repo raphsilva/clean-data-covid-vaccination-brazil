@@ -117,11 +117,13 @@ def update_data(uf, dates, commit_msg):
     for f in futures:
         f.get()
         d += 1
-        if LOCAL_TEST:
-            print('Not commiting.')
-        else:
-            commit_and_push(commit_msg)
         print(f'done {uf} {d}/{len(dates)}')
+        if d % 5 == 4 or d == len(futures):
+            if LOCAL_TEST:
+                print('Not commiting.')
+            else:
+                print(f'Commiting until {d}/{len(dates)}')
+                commit_and_push(commit_msg)
 
 
 
@@ -198,9 +200,9 @@ def handle_request(request):
 
 if __name__ == '__main__':
     request = dict()
-    request['uf_list'] = ['MS']
+    request['uf_list'] = ['AC']
     # request['update_from'] = ['beginning', 'last', 'few_last', '2021-05-12'][2]
     # request['update_until'] = '2021-04-01'
-    request['update_from'] = 'smart'
+    request['update_from'] = 'auto'
     request['commit_msg'] = '[data] Update.'
     handle_request(request)

@@ -1,6 +1,8 @@
 import os
 import shutil
-from time import sleep
+from time import sleep, time
+import threading
+
 
 import pandas as pd
 
@@ -36,17 +38,20 @@ def _get_path(uf, date, subfolder=None):
 #     else:
 #         return pd.DataFrame()
 
-
+lock = threading.Lock()
 def _update_file(filepath, data, remove_duplicates=[]):
-    if not os.path.isfile(filepath):
-        data.to_csv(filepath, compression=COMPRESSION, index=False)
-    else:
-        data_old = pd.read_csv(filepath, compression=COMPRESSION)
-        data_updated = pd.concat([data_old, data])
-        if len(remove_duplicates) > 0:
-            data_updated = data_updated.drop_duplicates(remove_duplicates, keep='last')
-            data_updated = data_updated.sort_values(by=remove_duplicates, ascending=False)
-        data_updated.to_csv(filepath, compression=COMPRESSION, index=False)
+    t0 = time()
+    with lock:
+        print('got lock  ', round(time()-t0, 2), filepath)
+        if not os.path.isfile(filepath):
+            data.to_csv(filepath, compression=COMPRESSION, index=False)
+        else:
+            data_old = pd.read_csv(filepath, compression=COMPRESSION)
+            data_updated = pd.concat([data_old, data])
+            if len(remove_duplicates) > 0:
+                data_updated = data_updated.drop_duplicates(remove_duplicates, keep='last')
+                data_updated = data_updated.sort_values(by=remove_duplicates, ascending=False)
+            data_updated.to_csv(filepath, compression=COMPRESSION, index=False)
 
 
 def _delete_file(filepath):
@@ -61,14 +66,8 @@ def update_file_uf_date(uf, date: str, data: pd.DataFrame, data_name: str = None
     filepath = _get_path(uf, date, data_name)
     _update_file(filepath, data, remove_duplicates=['paciente_enumSexoBiologico', 'paciente_idade', 'vacina_nome', 'vacina_categoria_nome', 'vacina_grupoAtendimento_nome', 'dose', 'data_aplicaçao'])
 
-LOCK_FILES = list()
 def update_info_updates(uf, date: str, data: pd.DataFrame, data_name: str, spent_time):
-    global LOCK_FILES
     date_w = get_week(date)
-    while date_w in LOCK_FILES:
-        print('Locked:', date_w, LOCK_FILES)
-        sleep(2)
-    LOCK_FILES.append(date_w)
     filepath = _get_path(uf, date_w, '_info/updates_totals')
     total = data['contagem'].sum()
     info = {'data_atualizacao': get_today_str(),
@@ -89,9 +88,6 @@ def update_info_updates(uf, date: str, data: pd.DataFrame, data_name: str, spent
             'total': total
             }
     _update_file(filepath, pd.DataFrame([info]), ['data_aplicaçao', 'tipo'])
-    while date_w in LOCK_FILES:
-        LOCK_FILES.remove(date_w)
-        print('removed LOCK', date_w)
 
 def read_info_updates(uf):
     filepath = get_directory_path(uf, '_info') + '/totals.csv'
