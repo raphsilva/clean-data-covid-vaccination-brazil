@@ -1,8 +1,0 @@
-paciente_id,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_nome,vacina_grupoAtendimento_nome,dose,contagem,data_aplicaçao
-80671e831c33ed922ad3cec920d5961b71c4b1b1e1b69f5d5cc8a2208bfe185e,M,51,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 80 anos ou mais,1,2,2021-01-31
-dc2d6d3cb3c2eb39810f5cc54642e8005764ed5a59f0ec48c7d3d97f98394112,F,41,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1,2,2021-01-30
-ffa97cf58c105f4f3d532941585f44a6efb17f28f62ddf501fa15aa2a13d62d3,M,49,Covid-19-Coronavac-Sinovac/Butantan,Povos e Comunidades Tradicionais,Quilombola,1,2,2021-01-29
-fd5160b11e361a709de61e921ad2cfa7851ea4141f7952bd2d1f742a7cc07309,F,45,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1,2,2021-01-28
-fd729213652722e1d77ccbf91fa405e6e607e575bf20eb38fa4bee2ebb488926,F,38,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Técnico de Enfermagem,1,2,2021-01-27
-f97a890521b7aa87c59cf8e38df1bc06a3dc471384cf58ac56ed1931ce841410,M,55,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1,2,2021-01-26
-fbef49ae25592164f550688240d8effea3eda7fe3d6407c700f095dbb51e7e63,F,29,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1,3,2021-01-25

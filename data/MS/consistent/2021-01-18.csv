@@ -1,8 +1,0 @@
-contagem,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_nome,vacina_grupoAtendimento_nome,dose,data_aplicaçao
-1,F,18,Covid-19-Coronavac-Sinovac/Butantan,Povos Indígenas,Povos indígenas em terras indígenas,2,2021-01-24
-1,F,10,Covid-19-Coronavac-Sinovac/Butantan,Povos Indígenas,Povos indígenas em terras indígenas,1,2021-01-23
-1,F,18,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Recepcionista,1,2021-01-22
-1,F,17,Covid-19-Coronavac-Sinovac/Butantan,Povos Indígenas,Povos indígenas em terras indígenas,1,2021-01-21
-1,F,18,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Pessoal da Limpeza,1,2021-01-20
-1,F,18,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Recepcionista,1,2021-01-19
-1,F,22,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Técnico de Enfermagem,1,2021-01-18
