@@ -1,0 +1,25 @@
+paciente_id,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_nome,vacina_grupoAtendimento_nome,dose,contagem,data_aplicaçao
+fed9b993353a82c7564b26a328312970d5a9f348e451919602e492155081ffe2,M,71,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Odontologista,1,2,2021-02-02
+8c7d35d2a125d439a71c78d559369f380090b047ec8177aeb49ccfa2d782e604,M,58,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Técnico de Enfermagem,1,2,2021-02-02
+496fe828ddfd0665baea09bfbf034c6a4181aced37d4b92ff5e59a9c2f3a55bd,M,54,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Cozinheiro e Auxiliares,1,2,2021-02-02
+855f0ab475a0efc33bfa0332ab32353e0e8559f51804c8ba571a32a970ae0a5b,M,51,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Técnico de Enfermagem,1,2,2021-02-01
+a0e6502df37478e85240519e4212cbafae5676dbc752ceb2115ad496dd7576b9,M,36,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1,2,2021-02-01
+e76357c1ab163aacf32ed935fbc515ca942980a4dab9a2f75116fbc8489fc593,M,32,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Odontologista,1,2,2021-02-01
+6c8b4aac29eb16e60d51954a0599abc976b212d048566a72defb14437b9f02c2,M,28,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1,2,2021-02-01
+0ef1bfc0945cc9dcadf4c117e5098e0048be774815cf0221c3b5592e3f25b0c6,M,27,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1,2,2021-02-01
+c2259624ac3481ee01ef4c5d44b68b08d18bee33f24dc4638f8f4b267b42dcd1,F,67,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1,2,2021-02-01
+22ac02897a8bf20ece2093b9d5475c23bcd62497a32d4e3af459693e5ed5156d,F,67,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Odontologista,1,2,2021-02-02
+04c96a56e76e0a42b910be36274f47ee936eeb195e0c0884ba3895a9a6d3ab5c,F,60,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Técnico de Enfermagem,1,2,2021-02-02
+4ad8c84f7e01ceccf2972bb6203c444905cc23056f517231603000206dc28ddd,F,45,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Enfermeiro(a),1,2,2021-02-02
+59b0c421a662026e1d223d080a36cb7091d54a4f243ed901867db4c1d6ce1c26,F,44,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Recepcionista,1,2,2021-02-02
+1212d00b0de97f5987fca754b9d9bb08d9319f2b0bc5bc0991529de02fa46be9,F,44,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Enfermeiro(a),1,2,2021-02-01
+d9ddeb039d82ef65c2938d45c28090a21063930e80e81068b5b945d46bf1eb66,F,42,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Recepcionista,1,2,2021-02-01
+e50dc057de6d85f58fbde42c5b58b693ef92c1d0b1441c4e760002210ee4fc7f,F,41,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Técnico de Enfermagem,1,2,2021-02-01
+a0e170ad0bf811e946baebd724efe02b1ba218f809bccfdead9972b08b01283f,F,40,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Recepcionista,1,2,2021-02-01
+435400d4af9ca46eba0e04b98af6bfa304c15994c168f14ca935feadf692cc62,F,38,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Enfermeiro(a),1,2,2021-02-01
+0c681c8a3d7e0ad31f2173827e5a2994354432300beccebe7d5380cbbdaba9b5,F,37,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Segurança,1,2,2021-02-01
+d619abb81ac5dca09ef15f99f59f302ccb198f74a08abd35f82456f980230217,F,35,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Técnico de Enfermagem,1,2,2021-02-01
+51d64b4f99ce923078dbe3e990447cf26ae83e3058e1a4e5542ae466e36c1e71,F,34,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Médico,1,2,2021-02-01
+53fc5235577214aab0caab2fb813c39da4e2b416f395581a3200c27f38e5da70,F,33,Vacina Covid-19 - Covishield,Trabalhadores de Saúde,Outros,1,2,2021-02-02
+456834d6a2bd9c467a490549c16b46b0a6b6accae3f97561e5129c470f33af3c,F,33,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1,2,2021-02-01
+e72b2b0ce7f89f1ab453911478b042452565462c1e8e74e002bfe8ca5df2c2fd,F,24,Covid-19-Coronavac-Sinovac/Butantan,Trabalhadores de Saúde,Outros,1,2,2021-02-02
