@@ -1,6 +1,16 @@
+import threading
 from datetime import datetime, timedelta
+from multiprocessing.pool import ThreadPool
+from time import time
 
 import pandas as pd
+
+date_from = '2021-04-04'
+date_until = '2021-06-06'
+uf_list = ['SP', 'MG', 'MS']
+
+time_i = time()
+lock = threading.Lock()
 
 
 def datetime_to_str(date):
@@ -29,33 +39,47 @@ def get_uri(state, directory, date):
     return f'https://raw.githubusercontent.com/raphsilva/data-covid-vaccination-brazil/master/data/{state}/{directory}/{date}.csv'
 
 
-date_from = '2021-04-04'
-date_until = '2021-04-06'
-state = 'SP'
-directories = ['consistent', 'inconsistent']
-
 # Convert to datetime to make it easier to iterate
 date_from = str_to_datetime(date_from)
 date_until = str_to_datetime(date_until)
 
-df = pd.DataFrame()
+data = pd.DataFrame()
 
-for directory in directories:
-    print('Directory:', directory)
-    date_from = sum_days(date_from, -date_from.weekday())  # Get the Monday before
-    cur = date_from
-    while cur <= date_until:
-        if is_index(cur):
-            date_str = datetime_to_str(cur)  # Get the date in the same format as the repository files
-            uri = get_uri(state, directory, date_str)
-            print(date_str)
-            try:
-                df_n = pd.read_csv(uri)
-                df_n['data'] = cur
-                df_n['directory'] = directory
-                df = df.append(df_n)
-            except:
-                print('not found', cur)
-        cur = get_next_day(cur)
 
-print(df)
+def get_data_uf_directory(uf, directory, date):
+    global data
+    date_str = datetime_to_str(date)  # Get the date in the same format as the repository files
+    uri = get_uri(uf, directory, date_str)
+    with lock:
+        print('    Getting data: ', uf, date_str, directory)
+    try:
+        df_n = pd.read_csv(uri)
+        df_n['data'] = date
+        df_n['directory'] = directory
+        df_n['uf'] = uf
+        if 'paciente_id' in df_n:
+            del df_n['paciente_id']
+    except Exception as e:
+        print('  ERROR', e)
+    with lock:
+        data = data.append(df_n)
+
+
+pool = ThreadPool(processes=10)
+futures = list()
+for uf in uf_list:
+    for directory in ['consistent', 'inconsistent']:
+        date_from = sum_days(date_from, -date_from.weekday())  # Get the Monday before
+        date = date_from
+        while date <= date_until:
+            if is_index(date):
+                future = pool.apply_async(get_data_uf_directory, (uf, directory, date))
+                futures.append(future)
+            date = get_next_day(date)
+
+for f in futures:
+    f.get()  # Wait for all the processes to finish.
+
+print(data)
+
+print(f'Finished in {int(time() - time_i)} seconds.')
