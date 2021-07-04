@@ -15,6 +15,16 @@ def get_next_day(date):
     return date + timedelta(days=1)
 
 
+def sum_days(date, a):
+    return date + timedelta(days=a)
+
+
+def is_index(date):  # Data is saved in files separated by week. The name of the file is the Monday of the related week.
+    if date.weekday() == 0:
+        return True
+    return False
+
+
 def get_uri(state, directory, date):
     return f'https://raw.githubusercontent.com/raphsilva/data-covid-vaccination-brazil/master/data/{state}/{directory}/{date}.csv'
 
@@ -32,16 +42,20 @@ df = pd.DataFrame()
 
 for directory in directories:
     print('Directory:', directory)
-    i = date_from
-    while i <= date_until:
-        date_str = datetime_to_str(i)  # Get the date in the same format as the repository files
-        uri = get_uri(state, directory, date_str)
-        print(date_str)
-        try:
-            df_n = pd.read_csv(uri)
-            df_n['data'] = i
-            df_n['directory'] = directory
-            df = df.append(df_n)
-        except:
-            print('not found', i)
-        i = get_next_day(i)
+    date_from = sum_days(date_from, -date_from.weekday())  # Get the Monday before
+    cur = date_from
+    while cur <= date_until:
+        if is_index(cur):
+            date_str = datetime_to_str(cur)  # Get the date in the same format as the repository files
+            uri = get_uri(state, directory, date_str)
+            print(date_str)
+            try:
+                df_n = pd.read_csv(uri)
+                df_n['data'] = cur
+                df_n['directory'] = directory
+                df = df.append(df_n)
+            except:
+                print('not found', cur)
+        cur = get_next_day(cur)
+
+print(df)
