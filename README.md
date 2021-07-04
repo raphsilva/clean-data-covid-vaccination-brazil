@@ -10,13 +10,10 @@ Este repositório está em fase de validação. Não há garantia sobre a consis
 
 ## Conteúdo
 
-Este repositório é composto por duas seções:
+Este projeto é composto por dois repositórios:
 
-* `src`: O código-fonte do script usado para acessar, processar e salvar os dados.
-* `data`: Os dados coletados. 
-
-Para acessar a documentação de cada uma das seções, entre no diretório correspondente. 
-
+* [clean-data-covid-vaccination-brazil](https://github.com/raphsilva/clean-data-covid-vaccination-brazil): O código-fonte usado para obter e limpar os dados.
+* [data-covid-vaccination-brazil](https://github.com/raphsilva/data-covid-vaccination-brazil)`: Os dados coletados.
 
 ## Limitações
 
