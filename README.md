@@ -50,7 +50,7 @@ Se você precisa de dados de um estado específico, envie uma mensagem [neste fo
 
 ## Uso
 
-Para acessar os dados programaticamente, você pode usar como ponto de partida o arquivo `starter.py` disponível no diretório principal deste repositório.
+Para acessar os dados programaticamente, você pode usar como ponto de partida o arquivo `downloader.py` disponível no diretório principal deste repositório.
 
 ## Licença
 
