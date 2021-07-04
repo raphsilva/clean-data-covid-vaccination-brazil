@@ -15,7 +15,7 @@ def clone_repository():
     git.Repo.clone_from(REMOTE, PATH_REPO, depth=1)
 
 
-def commit_and_push(msg='Update'):
+def commit_and_push(msg='Update', PATH_REPO=PATH_REPO):
     repo = git.Repo(PATH_REPO)
     repo.git.add(".")
     repo.config_writer().set_value("user", "name", username).release()

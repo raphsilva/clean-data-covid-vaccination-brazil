@@ -1,5 +1,0 @@
-paciente_id,paciente_enumSexoBiologico,paciente_idade,vacina_nome,vacina_categoria_nome,vacina_grupoAtendimento_nome,dose,contagem,data_aplicaçao
-7b7bfbe6b14987d1818981acbcb85818820c8a7bc3f5a8babfe34239f7496a42,M,64,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,2,2,2021-06-28
-96b6c6169cbb7c67d987c08e48224044039b996355102b2eb3e4db29fce1259f,F,64,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,2,2,2021-06-28
-dafdf235de7e3a03a55a44cddfb94e7c48ce7b25112dac03e792e6f2b2b08a1f,F,66,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,2,2,2021-06-28
-e18dd016e1f3d93d2f5d67300064b9d552f2b99e2609dbaaf804077dd11a9c98,F,63,Vacina Covid-19 - Covishield,Faixa Etária,Pessoas de 18 a 64 anos,2,2,2021-06-28
